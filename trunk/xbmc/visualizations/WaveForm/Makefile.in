@@ -1,0 +1,20 @@
+ARCH=@ARCH@
+INCLUDES=-I. -I../../linux -I../../ -I ../../../guilib
+DEFINES+=-DHAS_SDL_OPENGL -DHAS_SDL
+CXXFLAGS=-fPIC
+OBJS=Main.o
+
+SLIB=../../../visualisations/Waveform.vis
+
+$(SLIB): $(OBJS)
+ifeq ($(findstring osx,$(ARCH)), osx)
+	@export MACOSX_DEPLOYMENT_TARGET=@OSX@
+	$(CXX) -dynamiclib -shared -undefined dynamic_lookup -o $(SLIB) \
+		-Wl,-alias_list,../../cores/DllLoader/exports/wrapper_mach_alias \
+		../../cores/DllLoader/exports/wrapper.o \
+		$(OBJS)
+else
+	$(CXX) $(CFLAGS) -shared -g -o $(SLIB) $(OBJS)
+endif
+
+include ../../../Makefile.include

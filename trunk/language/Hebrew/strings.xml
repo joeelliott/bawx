@@ -1,0 +1,4183 @@
+﻿<!--$Revision: 10303 $-->
+<strings>
+  <string id="0">מבוגרים</string>
+  <string id="1">תמונות</string>
+  <string id="2">מוסיקה</string>
+  <string id="3">וידאו</string>
+  <string id="4">מדריך טלוויזיה</string>
+  <string id="5">הגדרות</string>
+  <string id="6">XBMC SVN</string>
+  <string id="7">מנהל הקבצים</string>
+  <string id="8">מזג אוויר</string>
+  <string id="9">xbmc media center</string>
+
+  <string id="11">שני</string>
+  <string id="12">שלישי</string>
+  <string id="13">רביעי</string>
+  <string id="14">חמישי</string>
+  <string id="15">שישי</string>
+  <string id="16">שבת</string>
+  <string id="17">ראשון</string>
+
+  <string id="21">ינואר</string>
+  <string id="22">פברואר</string>
+  <string id="23">מרץ</string>
+  <string id="24">אפריל</string>
+  <string id="25">מאי</string>
+  <string id="26">יוני</string>
+  <string id="27">יולי</string>
+  <string id="28">אוגוסט</string>
+  <string id="29">ספטמבר</string>
+  <string id="30">אוקטובר</string>
+  <string id="31">נובמבר</string>
+  <string id="32">דצמבר</string>
+
+  <string id="41">יום ב'</string>
+  <string id="42">יום ג'</string>
+  <string id="43">יום ג'</string>
+  <string id="44">יום ה'</string>
+  <string id="45">יום ו'</string>
+  <string id="46">שבת</string>
+  <string id="47">יום א'</string>
+
+  <string id="98">הצג: אוטו'</string>
+  <string id="99">הצג: גדול אוטו'</string>
+  <string id="100">הצג: סמלים</string>
+  <string id="101">הצג: רשימה</string>
+  <string id="102">סריקה</string>
+  <string id="103">מיין לפי: שם</string>
+  <string id="104">מיין לפי: תאריך</string>
+  <string id="105">מיין לפי: גודל</string>
+  <string id="106">לא</string>
+  <string id="107">כן</string>
+  <string id="108">הצגת שקופיות</string>
+  <string id="109">צור ממוזערות</string>
+  <string id="110">צור תמונות ממוזערות</string>
+  <string id="111">קיצורי דרך</string>
+  <string id="112">השהה</string>
+  <string id="113"></string>
+  <string id="114"></string>
+  <string id="115">העתק</string>
+  <string id="116">העבר</string>
+  <string id="117">מחק</string>
+  <string id="118">שנה שם</string>
+  <string id="119">תיקייה חדשה</string>
+  <string id="120">אשר העתקת קובץ</string>
+  <string id="121">אשר העברת קובץ</string>
+  <string id="122">לאשר מחיקת קובץ?</string>
+  <string id="123">להעתיק קבצים אלה?</string>
+  <string id="124">להעביר קבצים אלה?</string>
+  <string id="125">למחוק קבצים אלה? - לא ניתן לבטל מחיקת קבצים!</string>
+  <string id="126">סטטוס</string>
+  <string id="127">אובייקטים</string>
+  <string id="128">כללי</string>
+  <string id="129">הצגת שקופיות</string>
+  <string id="130">פרטי מע'</string>
+  <string id="131">תצוגה</string>
+  <string id="132">אלבומים</string>
+  <string id="133">אמנים</string>
+  <string id="134">שירים</string>
+  <string id="135">ז'אנרים</string>
+  <string id="136">רשימות השמעה</string>
+  <string id="137">חיפוש</string>
+  <string id="138">פרטי מערכת</string>
+  <string id="139">טמפרטורה:</string>
+  <string id="140">CPU:</string>
+  <string id="141">GPU:</string>
+  <string id="142">שעה:</string>
+  <string id="143">נוכחי:</string>
+  <string id="144">גרסה:</string>
+  <string id="145">רשת:</string>
+  <string id="146">סוג:</string>
+  <string id="147">Static</string>
+  <string id="148">DHCP</string>
+  <string id="149">כתובת MAC</string>
+  <string id="150">כתובת IP</string>
+  <string id="151">קישור: </string>
+  <string id="152">חצי דופלקס</string>
+  <string id="153">דופלקס מלא</string>
+  <string id="154">אחסון</string>
+  <string id="155">כונן</string>
+  <string id="156">פנוי</string>
+  <string id="157">וידאו</string>
+  <string id="158">זיכרון פנוי</string>
+  <string id="159">אין חיבור</string>
+  <string id="160">פנוי</string>
+  <string id="161">לא זמין</string>
+  <string id="162">פתח מגש</string>
+  <string id="163">קורא</string>
+  <string id="164">אין דיסק</string>
+  <string id="165">יש דיסק</string>
+  <string id="166">מעטפת</string>
+  <string id="167">הפעל שרת FTP</string>
+  <string id="168">הפעל סינכרון שעה באינטרנט</string>
+  <string id="169">רזולוציה</string>
+  <string id="170">התאם קצב רענון מסך לווידאו</string>
+  <string id="171"></string>
+  <string id="172">תאריך פרסום</string>
+  <string id="173"></string>
+  <string id="174"></string>
+  <string id="175">מצבי רוח</string>
+  <string id="176">ז'אנרים</string>
+  <string id="177"></string>
+  <string id="178"></string>
+  <string id="179">שיר</string>
+  <string id="180">משך</string>
+  <string id="181">בחר אלבום</string>
+  <string id="182">רצועות</string>
+  <string id="183">ביקורת</string>
+  <string id="184">רענן</string>
+  <string id="185">מחפש אלבום</string>
+  <string id="186">אישור</string>
+  <string id="187">לא נמצאו אלבומים!</string>
+  <string id="188">בחר הכל</string>
+  <string id="189">סורק פרטי מדיה</string>
+  <string id="190">שמור</string>
+  <string id="191">ערבב</string>
+  <string id="192">נקה</string>
+  <string id="193">סריקה</string>
+  <string id="194">מחפש...</string>
+  <string id="195">לא נמצא מידע!</string>
+  <string id="196">בחר סרט:</string>
+  <string id="197">מחפש מידע %s</string>
+  <string id="198">טוען פרטי סרט</string>
+  <string id="199"></string>
+  <string id="200"></string>
+  <string id="201"></string>
+  <string id="202">משפט מפתח</string>
+  <string id="203">תקציר העלילה</string>
+  <string id="204"></string>
+  <string id="205">הצבעה:</string>
+  <string id="206">שחקנים</string>
+  <string id="207">עלילה</string>
+  <string id="208">הפעל</string>
+  <string id="209">הבא</string>
+  <string id="210">הקודם</string>
+  <string id="213">כייל ממשק משתמש...</string>
+  <string id="214">פורמט מסך וסריקת יתר...</string>
+  <string id="215">רכך</string>
+  <string id="216">מידת הגדלה</string>
+  <string id="217">יחס פיקסלים</string>
+  <string id="218">כונן DVD</string>
+  <string id="219">הכנס דיסק</string>
+  <string id="220">מיקום משותף מרוחק</string>
+  <string id="221">הרשת לא מחוברת</string>
+  <string id="222">ביטול</string>
+  <string id="224">מהירות</string>
+  <string id="225">זמן מעבר בין תמונות</string>
+  <string id="226">דוגמאות לבדיקת מסך...</string>
+  <string id="227">חפש תקליטורי שמע באינטרנט</string>
+  <string id="228">ערבב רשימת השמעה בטעינה</string>
+  <string id="229">משך עצירת HDD</string>
+  <string id="230">מסנני וידאו</string>
+  <string id="231">ללא</string>
+  <string id="232">נקודה</string>
+  <string id="233">ליניארי</string>
+  <string id="234">אניסוטרופי</string>
+  <string id="235">סידור מחומש</string>
+  <string id="236">Gaussian cubic</string>
+  <string id="237">מזעור</string>
+  <string id="238">הגדלה</string>
+  <string id="239">נקה רשימת השמעה בסיום</string>
+  <string id="240">הפעל אוטו' DVD-וידאו</string>
+  <string id="241">הפעל אוטו' VCD/SVCD</string>
+  <string id="242">הפעל אוטו' תקליטור שמע</string>
+  <string id="243">הפעל אוטו' משחקי Xbox</string>
+  <string id="244">הפעל אוטו' וידאו</string>
+  <string id="245">הפעל אוטו' מוסיקה</string>
+  <string id="246">הפעל אוטו' תמונות</string>
+  <string id="247">סקריפטים</string>
+  <string id="248">שפה</string>
+  <string id="249">מוסיקה</string>
+  <string id="250">המחשה חזותית</string>
+  <string id="251">בחר ספריית יעד</string>
+  <string id="252">פלט סטריאו לכל הרמקולים</string>
+  <string id="253">מספר ערוצים</string>
+  <string id="254">- מקלט תומך DTS</string>
+  <string id="255">CDDB</string>
+  <string id="256">אוסף פרטי CD</string>
+  <string id="257">שגיאה</string>
+  <string id="258">אפשר קריאת תגים</string>
+  <string id="259">פותח</string>
+  <string id="260">Shoutcast</string>
+  <string id="261">ממתין להתחלה...</string>
+  <string id="262">פלט סקריפטים</string>
+  <string id="263">הפעל שרת אינטרנט</string>
+  <string id="264">הקלט</string>
+  <string id="265">עצור הקלטה</string>
+  <string id="266">מיין לפי: רצועה</string>
+  <string id="267">מיין לפי: שעה</string>
+  <string id="268">מיין לפי: כותר</string>
+  <string id="269">מיין לפי: אמן</string>
+  <string id="270">מיין לפי: אלבום</string>
+  <string id="271">100 הגדולים</string>
+  <string id="272">פיצוי סריקת יתר פינה שמאלית עליונה</string>
+  <string id="273">פיצוי סריקת יתר פינה ימנית תחתונה</string>
+  <string id="274">מיקום כתוביות</string>
+  <string id="275">התאמת יחס פיקסלים</string>
+  <string id="276">התאם את החץ כדי לשנות את מידת סריקת היתר</string>
+  <string id="277">התאם את הפס כדי לשנות מיקום כתוביות</string>
+  <string id="278">התאם את המלבן למצב של ריבוע מושלם</string>
+  <string id="279">אין אפשרות לטעון הגדרות</string>
+  <string id="280">משתמש בהגדרות ברירת מחדל</string>
+  <string id="281">בדוק קבצי XML</string>
+  <string id="282">נמצאו %i פריטים</string>
+  <string id="283">תוצאות חיפוש</string>
+  <string id="284">לא נמצאו פריטים</string>
+  <string id="286">מסנן פוסט עיבוד</string>
+  <string id="287">טען כתוביות</string>
+  <string id="288">גופן</string>  <!-- Subtitles font -->
+  <string id="289">גודל</string>  <!-- Subtitles size --> 
+  <string id="290">דחיסת טווח דינמית</string>
+  <string id="291">וידאו</string>
+  <string id="292">אודיו</string>
+  <string id="293">חפש כתוביות</string>
+  <string id="294">צור סימנייה</string>
+  <string id="296">נקה סימניות</string>
+  <string id="297">איזון אודיו</string>
+  <string id="298">סימניות</string>
+  <string id="299">אתר רצועה חדשה</string>
+  <string id="300">אתר תמונה ממוזערת חדשה</string>
+  <string id="301">אתר תיקיית יישומים</string>
+  <string id="303">השהה</string>
+  <string id="304">שפה</string>
+  <string id="305">מופעל</string>
+  <string id="306">ללא סירוג</string>
+  <string id="307">- עיבוד עוקב אוטומטי</string>
+  <string id="308">- מטשטש בלוקים אנכיים</string>
+  <string id="309">- מטשטש בלוקים אופקיים</string>
+  <string id="310">- בהירות/ניגודיות אוטו'</string>
+  <string id="311">- טשטוש מעגלים</string>
+  <string id="312">(0=אוטו)</string>
+  <string id="313">ניקוי מסד נתונים</string>
+  <string id="314">מכין...</string>
+  <string id="315">שגיאת מסד נתונים</string>
+  <string id="316">מחפש שירים...</string>
+  <string id="317">ניקוי מסד נתונים בוצע בהצלחה</string>
+  <string id="318">מנקה שירים...</string>
+  <string id="319">שגיאה בניקוי שירים</string>
+  <string id="320">מנקה אמנים...</string>
+  <string id="321">שגיאה בניקוי אמנים</string>
+  <string id="322">מנקה ז'אנרים...</string>
+  <string id="323">שגיאה בניקוי ז'אנרים</string>
+  <string id="324">מנקה נתיבים...</string>
+  <string id="325">שגיאה בניקוי נתינים</string>
+  <string id="326">מנקה אלבומים...</string>
+  <string id="327">שגיאה בניקוי אלבומים</string>
+  <string id="328">כותב שינויים...</string>
+  <string id="329">שגיאה בכתיבת שינויים</string>
+  <string id="330">הפעולה עשויה להימשך מספר דקות...</string>
+  <string id="331">דוחס מסד נתונים...</string>
+  <string id="332">שגיאה בדחיסת מסד נתונים</string>
+  <string id="333">האם ברצונך לנקות את הספרייה?</string>
+  <string id="334">נקה ספרייה...</string>
+  <string id="335">התחל</string>
+  <string id="336">המרת קצב מסגרות</string>
+  <string id="337">פלט אודיו</string>
+  <string id="338">אנלוגי</string>
+  <string id="339">דיגיטלי (S/PDIF)</string>
+  <string id="340">אמנים שונים</string>
+  <string id="341">הפעל דיסק</string>
+  <string id="342">סרטים</string>
+  <string id="343">התאם קצב מסגרות</string>
+  <string id="344">שחקנים</string>
+  <string id="345">שנה</string>
+  <string id="350">תוכניות</string>
+  <string id="351">מכובה</string>
+  <string id="352">עמעם</string>
+  <string id="353">שחור</string>
+  <string id="354">Matrix trails</string>
+  <string id="355">התחל לאחר</string>
+  <string id="356">מצב שומר מסך</string>
+  <string id="357">טיימר כיבוי</string>
+  <string id="358">כל האלבומים</string>
+  <string id="359">אלבומים אחרונים שנוספו</string>
+  <string id="360">שומר מסך</string>
+  <string id="361">הצגת שקופיות רקורסיבית</string>
+  <string id="362">דרגת עמעום בשומר המסך</string>
+  <string id="363">מיין לפי: קובץ</string>
+  <string id="364">- מקלט תומך ב-Dolby Digital</string>
+  <string id="365">מיין לפי: שם</string>
+  <string id="366">מיין לפי: שנה</string>
+  <string id="367">מיין לפי: דירוג</string>
+  <string id="368">IMDb</string>
+  <string id="369">כותר</string>
+  <string id="370">סערות ברקים</string>
+  <string id="371">חלקית</string>
+  <string id="372">לרוב</string>
+  <string id="373">בהיר</string>
+  <string id="374">מעונן</string>
+  <string id="375">שלג</string>
+  <string id="376">גשם</string>
+  <string id="377">אור</string>
+  <string id="378">לפנה"צ</string>
+  <string id="379">אחה"צ</string>
+  <string id="380">ממטרים</string>
+  <string id="381">מעט</string>
+  <string id="382">פזורים</string>
+  <string id="383">רוח</string>
+  <string id="384">חזק/ה</string>
+  <string id="385">נאה</string>
+  <string id="386">בהיר</string>
+  <string id="387">עננים</string>
+  <string id="388">מוקדם</string>
+  <string id="389">ממטרים</string>
+  <string id="390">סוער</string>
+  <string id="391">נמוך</string>
+  <string id="392">בינוני</string>
+  <string id="393">גבוה</string>
+  <string id="394">ערפל</string>
+  <string id="395">אובך</string>
+  <string id="396">בחר מיקום</string>
+  <string id="397">מרווח רענון</string>
+  <string id="398">יחידות טמפ'</string>
+  <string id="399">יחידות מהירות</string>
+  <string id="400">מזג אוויר</string>
+  <string id="401">טמפ'</string>
+  <string id="402">תחושה של</string>
+  <string id="403">מדד קרינת UV</string>
+  <string id="404">רוח</string>
+  <string id="405">נקודת טל</string>
+  <string id="406">לחות</string>
+  <string id="407">מ:</string>
+  <string id="408">ב:</string>
+  <string id="409">ערכי ברירת מחדל</string>
+
+  <string id="410">גישה לשירותי תחזית</string>
+  <string id="411">תחזית עבור:</string>
+  <string id="412">אין אפשרות לקבל נתוני תחזית</string>
+  <string id="413">ידני</string>
+  <string id="414">אין ביקורות לאלבום זה</string>
+  <string id="415">מוריד תמונה ממוזערת...</string>
+  <string id="416">לא זמין</string>
+  <string id="417">הצג: סמלים גדולים</string>
+  <string id="418"></string>
+  <string id="419"></string>
+  <string id="420"></string>
+  <string id="421"></string>
+  <string id="422">מחק פרטי אלבום</string>
+  <string id="423">מחק פרטי CD</string>
+  <string id="424">בחר</string>
+  <string id="425">לא נמצאו פרטי אלבום</string>
+  <string id="426">לא נמצאו פרטי CD</string>
+  <string id="427">דיסק</string>
+  <string id="428">הכנס CD/DVD נכון</string>
+  <string id="429">הכנס את ה-CD/DVD הבא</string>
+  <string id="430">מיין לפי: מס' DVD</string>
+  <string id="431">ללא מטמון</string>
+  <string id="432">הסר מספריית הסרטים</string>
+  <string id="433">האם להסיר את '%s'?</string>
+  <string id="434"></string>
+  <string id="435"></string>
+  <string id="436"></string>
+  <string id="437">דיסק נשלף</string>
+  <string id="438">פותח קובץ</string>
+  <string id="439">מטמון</string>
+  <string id="440">דיסק קשיח</string>
+  <string id="441">UDF</string>
+  <string id="442">רשת מקומית</string>
+  <string id="443">אינטרנט</string>
+  <string id="444">וידאו</string>
+  <string id="445">אודיו</string>
+  <string id="446">DVD</string>
+  <string id="447">הפעלה אוטו'</string>
+  <string id="448">LCD</string>
+  <string id="449">מופעל</string>
+  <string id="450">עמודות</string>
+  <string id="451">Row 1 address</string>
+  <string id="452">Row 2 address</string>
+  <string id="453">Row 3 address</string>
+  <string id="454">Row 4 address</string>
+  <string id="455">שורות</string>
+  <string id="456">מצב</string>
+  <string id="457">החלף תצוגה</string>
+  <string id="459">כתוביות</string>
+  <string id="460">זרם אודיו</string>
+  <string id="461">[פעיל]</string>
+  <string id="462">כתובית</string>
+  <string id="463">תאורת רקע</string>
+  <string id="464">בהירות</string>
+  <string id="465">ניגודיות</string>
+  <string id="466">גאמה</string>
+  <string id="467">סוג</string>
+  <string id="468">הזז את הפס כדי לשנות מיקום כתוביות</string>
+  <string id="469">מיקום OSD</string>
+  <string id="470">רשימת קרדיטים</string>
+  <string id="471">Modchip</string>
+  <string id="474">מכובה</string>
+  <string id="475">מוסיקה בלבד</string>
+  <string id="476">מוסיקה וּוידאו</string>
+  <string id="477">אין אפשרות לטעון רשימת השמעה</string>
+  <string id="478">OSD</string>
+  <string id="479">מעטפת ושפה</string>
+  <string id="480">מראה</string>
+  <string id="481">אפשרויות אודיו</string>
+  <string id="482">אודות XBMC</string>
+  <string id="483"></string>
+  <string id="484"></string>
+  <string id="485">מחק אלבום</string>
+  <string id="486">חזור</string>
+  <string id="487">חזור על אחד</string>
+  <string id="488">חזור על תיקייה</string>
+  <string id="489">נגן אוטו' את הפריט הבא</string>
+  <string id="491">- השתמש בסמלים גדולים</string>
+  <string id="492">Resize VobSubs</string>
+  <string id="493">אפשרויות מתקדמות (מומחים בלבד!)</string>
+  <string id="494">Overall audio headroom</string>
+  <string id="495">סימפול וידאו לרזולוציית GUI</string>
+  <string id="496">כיול</string>
+  <string id="497">הסתר הרחבות מדיה</string>
+  <string id="498">מיין לפי: סוג</string>
+  <string id="499">אין אפשרות להתחבר לשירות חיפוש מקוון</string>
+  <string id="500">נכשלה הורדת פרטי אלבום</string>
+  <string id="501">מחפש שמות אלבומים...</string>
+  <string id="502">פתח</string>
+  <string id="503">תפוס</string>
+  <string id="504">ריק</string>
+  <string id="505">טוען פרטי מדיה מקבצים...</string>
+  <string id="507">מיין לפי: שימוש</string>
+  <string id="510">הפעל המחשה חזותית</string>
+  <string id="511">הפעל החלפת מצב וידאו</string>
+  <string id="512">חלון פתיחה</string>
+  <string id="513">חלון הבית</string>
+  <string id="514">הגדרות ידניות</string>
+  <string id="515">ז'אנר</string>
+  <string id="516">Make stored archives with one file transparent</string>
+  <string id="517">אלבומים אחרונים שהושמעו</string>
+  <string id="518">הפעל</string>
+  <string id="519">הפעל ב...</string>
+  <string id="520">ערוך כותר XBE</string>
+  <string id="521">אוספים</string>
+  <string id="522">הסר מקור</string>
+  <string id="523">החלף מדיה</string>
+  <string id="524">בחר רשימת השמעה</string>
+  <string id="525">רשימת השמעה חדשה...</string>
+  <string id="526">הוסף לרשימת השמעה</string>
+  <string id="527">הוסף ידנית לספרייה</string>
+  <string id="528">הזן כותר</string>
+  <string id="529">שגיאה: כפילות כותרים</string>
+  <string id="530">בחר ז'אנר</string>
+  <string id="531">ז'אנר חדש</string>
+  <string id="532">הוספה ידנית</string>
+  <string id="533">הזן ז'אנר</string>
+  <string id="534">הצג: %s</string>
+  <string id="535">רשימה</string>
+  <string id="536">סמלים</string>
+  <string id="537">רשימת גדולים</string>
+  <string id="538">סמלים גדולים</string>
+  <string id="539">רחב</string>
+  <string id="540">רחב וגדול</string>
+  <string id="541">סמלי אלבומים</string>
+  <string id="542">סמלי DVD</string>
+  <string id="543">DVD</string>
+  <string id="544">פרטי מדיה</string>
+  <string id="545">התקן פלט אודיו</string>
+  <string id="546">התקן ביניים לפלט</string>
+  <string id="547">אין ביוגרפיה לאמן זה</string>
+  <string id="548">Downmix multichannel audio to stereo</string>
+  <string id="549">בקרת עוצמת קול ראשית</string>
+
+  <string id="550">מיין לפי: %s</string>
+  <string id="551">שם</string>
+  <string id="552">תאריך</string>
+  <string id="553">גודל</string>
+  <string id="554">רצועה</string>
+  <string id="555">שעה</string>
+  <string id="556">כותר</string>
+  <string id="557">אמן</string>
+  <string id="558">אלבום</string>
+  <string id="559">רשימת השמעה</string>
+  <string id="560">זיהוי</string>
+  <string id="561">קובץ</string>
+  <string id="562">שנה</string>
+  <string id="563">דירוג</string>
+  <string id="564">סוג</string>
+  <string id="565">שימוש</string>
+  <string id="566">אמן האלבום</string>
+  <string id="567">מונה הפעלות</string>
+  <string id="568">הופעל לאחרונה</string>
+  <string id="569">הערה</string>
+  <string id="570">תאריך הוספה</string>
+  <string id="571">ברירת מחדל</string>
+  <string id="572">סטודיו</string>
+  <string id="573">נתיב</string>
+  <string id="574">כתוביות</string>
+  <string id="575">הצג מתקדם</string>
+  <string id="576">הסתר מתקדם</string>
+
+  <string id="580">כיוון מיון</string>
+  <string id="581">שיטת מיון</string>
+  <string id="582">מצב תצוגה</string>
+  <string id="583">זכור תצוגות עבור תיקיות שונות</string>
+  <string id="584">עולה</string>
+  <string id="585">יורד</string>
+  <string id="586">ערוך רשימת השמעה</string>
+  <string id="587">סנן</string>
+  <string id="588">בטל מצב מסיבה</string>
+  <string id="589">מצב מסיבה</string>
+  <string id="590">אקראי</string>
+  <string id="591">מכובה</string>
+  <string id="592">אחד</string>
+  <string id="593">הכל</string>
+  <string id="594">מכובה</string>
+  <string id="595">חזור: מכובה</string>
+  <string id="596">חזור: אחד</string>
+  <string id="597">חזור: הכל</string>
+
+  <string id="600">העתק תקליטור שמע</string>
+  <string id="601">בינוני</string>
+  <string id="602">רגיל</string>
+  <string id="603">אקסטרים</string>
+  <string id="604">קצב סיביות יציב</string>
+  <string id="605">מעתיק...</string>
+  <string id="606"></string>
+  <string id="607">אל:</string>
+  <string id="608">אין אפשרות להעתיק CD או רצועה</string>
+  <string id="609">לא הוגדר CDDARipPath</string>
+  <string id="610">העתק רצועת שמע</string>
+  <string id="611">הזן מספר</string>
+
+  <string id="620">העתקת CD</string>
+  <string id="621">מקודד</string>
+  <string id="622">איכות</string>
+  <string id="623">קצב סיביות</string>
+  <string id="624">כלול מספר רצועה</string>
+  <string id="625">כל השירים של</string>
+  <string id="629">מצב תצוגה</string>
+  <string id="630">רגיל</string>
+  <string id="631">הגדל</string>
+  <string id="632">מתיחה 4:3</string>
+  <string id="633">מתיחה 14:9</string>
+  <string id="634">מתיחה 16:9</string>
+  <string id="635">גודל מקורי</string>
+  <string id="636">התאמה אישית</string>
+  <string id="637">Replay gain</string>
+  <string id="638">מצב שבח בהפעלה חוזרת</string>
+  <string id="639">השתמש ברמות רצועה</string>
+  <string id="640">השתמש ברמות אלבום</string>
+  <string id="641">רמת קדם-הגברה - קבצים מושבחים להפעלה</string>
+  <string id="642">רמת קדם-הגברה - קבצים מושבחים לא להפעלה</string>
+  <string id="643">מנע חיתוך בקבצים מושבחים להפעלה</string>
+  <string id="644">חתוך פסים שחורים</string>
+  <string id="645">יש לפתוח קובץ גדול. האם להמשיך?</string>
+  <string id="646">הסר מספרייה</string>
+  <string id="647">ייצא ספריית וידאו</string>
+  <string id="648">ייבא ספריית וידאו</string>
+  <string id="649">מייבא</string>
+  <string id="650">מייצא</string>
+  <string id="651">חפש ספרייה</string>
+  <string id="652">שנים</string>
+  <string id="653">עדכן ספרייה</string>
+  <string id="654">הצג פרטי תיקון באגים</string>
+  <string id="655">חפש קובץ הפעלה</string>
+  <string id="656">חפש רשימת השמעה</string>
+  <string id="657">חפש תיקייה</string>
+  <string id="658">פרטי שיר</string>
+  <string id="659"></string>
+  <string id="660">הגברת עוצמת קול</string>
+  <string id="661">בחר תיקיית יצוא</string>
+  <string id="662">הקובץ אינו זמין עוד.</string>
+  <string id="663">האם ברצונך להסיר אותו מהספרייה?</string>
+  <string id="664">חפש סקריפט</string>
+
+  <string id="700">מנקה את הספרייה</string>
+  <string id="701">מסיר שירים ישנים מהספרייה</string>
+  <string id="702">נתיב זה כבר נסרק</string>
+  <string id="705">רשת</string>
+  <string id="706">- מארח פרוקסי של HTTP</string>
+  <string id="707">- יציאת פרוקסי של HTTP</string>
+  <string id="708">הפעל פרוקסי של HTTP</string>
+  <string id="709">- שם משתמש של פרוקסי של HTTP</string>
+  <string id="710">- סיסמת פרוקסי של HTTP</string>
+  <string id="711">פרוטוקול אינטרנט (IP)</string>
+  <string id="712">צוינה יציאה לא חוקית. על הערך להיות בין 1 ל-65535.</string>
+  <string id="713">פרוקסי</string>
+  <string id="714">מארח פרוקסי של HTTP ריק[CR]פרוקסי ינוטרל</string>
+  <string id="715">- הגדר תצורה</string>
+  <string id="716">אוטומטית (בעזרת DHCP)</string>
+  <string id="717">ידנית</string>
+  <string id="718">ברירת מחדל (לוח מחוונים)</string>
+  <string id="719">- כתובת IP</string>
+  <string id="720">- מסיכת רשת</string>
+  <string id="721">- שער ברירת מחדל</string>
+  <string id="722">- שרת DNS</string>
+  <string id="723">שמור והפעל מחדש</string>
+  <string id="724">צוינה כתובת לא חוקית על הערך להיות AAA.BBB.CCC.DDD</string>
+  <string id="725">עם מספרים בין 0 ל-255.</string>
+  <string id="726">השינויים לא נשמרו. האם להמשיך בלי לשמור?</string>
+  <string id="727">שרת אינטרנט</string>
+  <string id="728">שרת FTP</string>
+  <string id="729">זמן אינטרנט</string>
+  <string id="730">- יציאת שרת אינטרנט</string>
+  <string id="731">מארח שרת הזמן</string>
+  <string id="732">שמור והחל</string>
+  <string id="733">- סיסמת שרת האינטרנט (שם משתמש: boxee)</string>
+  <string id="734">אין סיסמה</string>
+  <string id="735">מערך תווים</string> <!-- Subtitles character set -->
+  <string id="736">עיצוב</string>         <!-- Subtitles style -->
+  <string id="737">צבע</string>         <!-- Subtitles color -->
+  <string id="738">רגיל</string>
+  <string id="739">מודגש</string>
+  <string id="740">נטוי</string>
+  <string id="741">נטוי מודגש</string>
+  <string id="742">לבן</string>
+  <string id="743">צהוב</string>
+  <string id="744">קבצים</string>
+  <string id="745">אין מידע סרוק עבור תצוגה זו</string>
+  <string id="746">נטרל מצב ספרייה</string>
+  <string id="747">שגיאה בטעינת תמונה</string>
+  <string id="748">ערוך נתיב</string>
+  <string id="749">תמונת ראי</string>
+  <string id="750">האם אתה בטוח?</string>
+  <string id="751">מסיר מקור</string>
+  <string id="752"></string>
+  <string id="753"></string>
+  <string id="754">הוסף קישור לתוכנית</string>
+  <string id="755">ערוך נתיב תוכנית</string>
+  <string id="756">ערוך שם תוכנית</string>
+  <string id="757">ערוך עומק נתיב</string>
+  <string id="758"></string>
+  <string id="759">הצג: רשימת גדולים</string>
+  <string id="760">צהוב</string>
+  <string id="761">לבן</string>
+  <string id="762">כחול</string>
+  <string id="763">ירוק זרחני</string>
+  <string id="764">ירוק צהבהב</string>
+  <string id="765">צהוב</string>
+  <string id="766">שמור</string>
+  <string id="767">שמור</string>
+  <string id="768">שמור</string>
+  <string id="769">שמור</string>
+  <string id="770">המיקום המשותף לא זמין</string>
+  <string id="771">- מפריד FATX אוטו'</string>
+  <string id="772">שמע</string>
+  <string id="773">חיפוש</string>
+  <string id="774">תיקיית הצגת שקופיות</string>
+  <string id="775">ממשק רשת</string>
+  <string id="776">- שם רשת אלחוטית</string>
+  <string id="777">- סיסמת רשת אלחוטית</string>
+  <string id="778">- אבטחת תקשורת אלחוטית</string>
+  <string id="779">שמור והחל שינויי רשת...</string>
+  <string id="780">ללא הצפנה</string>
+  <string id="781">WEP</string>
+  <string id="782">WPA</string>
+  <string id="783">WPA2</string>
+  <string id="784">מחיל הגדרות רשת. נא המתן.</string>
+  <string id="785">תצורת הרשת הוגדרה בהצלחה.</string>
+  <string id="786">תצורת הרשת לא הוגדרה כיאות.</string>
+  <string id="787">הממשק מנוטרל</string>
+  <string id="788">ממשק הרשת נוטרל בהצלחה</string>
+  <string id="789">שם רשת אלחוטית</string>
+
+  <string id="790">שרת אירועים</string>
+  <string id="791">הפעל שרת אירועים</string>
+  <string id="792">יציאה</string>
+  <string id="793">טווח יציאות</string>
+  <string id="794">אפשר למחשבים אחרים להתחבר</string>
+  <string id="795">השהיית חזרה ראשונית (אלפיות השנייה)</string>
+  <string id="796">השהיית חזרה רציפה (אלפיות השנייה)</string>
+  <string id="797">מספר לקוחות מרבי</string>
+  <string id="800">חברים</string>
+  <string id="801">מבוגרים</string>
+  <string id="802">מערך תווים</string>
+  <string id="803">AirPlay</string>
+  <string id="1000">תצוגה מקדימה של שומר מסך...</string>
+  <string id="1001">אין אפשרות להתחבר</string>
+  <string id="1002">אין אפשרות להתחבר אל המיקום ברשת.</string>
+  <string id="1003">ייתכן שהרשת אינה מחוברת.</string>
+  <string id="1004">האם ברצונך להוסיף בכל זאת?</string>
+  <string id="1005"></string>
+  <string id="1006">כתובת IP</string>
+  <string id="1007">הוסף מיקום ברשת</string>
+  <string id="1008">פרוטוקול</string>
+  <string id="1009">כתובת שרת</string>
+  <string id="1010">שם שרת</string>
+  <string id="1011">נתיב מרוחק</string>
+  <string id="1012">תיקייה משותפת</string>
+  <string id="1013">יציאה</string>
+  <string id="1014">שם משתמש</string>
+  <string id="1015">חפש שרת רשת</string>
+  <string id="1016">הזן את כתובת הרשת של השרת</string>
+  <string id="1017">הזן את הנתיב בשרת</string>
+  <string id="1018">הזן מספר יציאה</string>
+  <string id="1019">הזן שם משתמש</string>
+  <string id="1020">הוסף מקור %s</string>
+  <string id="1021">הזן נתיבים או חפש מיקומי המדיה.</string>
+  <string id="1022">הזן שם עבור מקור מדיה זה.</string>
+  <string id="1023">חפש מיקום משותף חדש</string>
+  <string id="1024">דפדף</string>
+  <string id="1025">אין אפשרות לאחזר פרטי ספרייה.</string>
+  <string id="1026">הוסף מקור</string>
+  <string id="1027">ערוך מקור</string>
+  <string id="1028">ערוך מקור %s</string>
+  <string id="1029">הזן תווית חדשה</string>
+  <string id="1030">חפש תמונה</string>
+  <string id="1031">חפש תיקיית תמונות</string>
+  <string id="1032">הוסף מיקום ברשת...</string>
+  <string id="1033">חפש קובץ</string>
+  <string id="1034">תפריט משנה</string>
+  <string id="1035">הפעל לחצני תפריט משנה</string>
+  <string id="1036">מועדפים</string>
+  <string id="1037">יישומי פלאג-אין לווידאו</string>
+  <string id="1038">יישומי פלאג-אין למוסיקה</string>
+  <string id="1039">יישומי פלאג-אין לתמונות</string>
+  <string id="1040">טוען ספרייה</string>
+  <string id="1041">אוחזרו %i פריטים</string>
+  <string id="1042">אוחזרו %i מתוך %i פריטים</string>
+  <string id="1043">יישומי פלאג-אין לתוכניות</string>
+  <string id="1044">הגדר תמונה ממוזערת לפלאג-אין</string>
+  <string id="1045">הגדות פלאג-אין</string>
+  <string id="1046">נקודות גישה</string>
+  <string id="1047">הצטרף לרשת אחרת...</string>
+  <string id="1048">שם המשתמש של שרת האינטרנט</string>
+  <string id="1049">הגדרות סקריפט</string>
+  <string id="1050">סינגלים</string>
+  <string id="1051">תוכניות</string>
+  <string id="1052">שם מארח</string>
+  <string id="1053">טריילרים</string>
+
+  <string id="1200">לקוח SMB</string>
+  <string id="1202">קבוצת עבודה</string>
+  <string id="1203">שם משתמש ברירת מחדל</string>
+  <string id="1204">סיסמת ברירת מחדל</string>
+  <string id="1205">סריקת רשת מלאה לאיתור מקורות SMB</string>
+
+  <string id="1207">שרת WINS</string>
+  <string id="1208">טען מאגרי SMB</string>
+  <string id="1209">השתמש בחיבור אחד לכל שרת</string>
+
+  <string id="1210">הסר</string>
+  <string id="1211">מוסיקה</string>
+  <string id="1212">וידאו</string>
+  <string id="1213">תמונות</string>
+  <string id="1214">קבצים</string>
+  <string id="1215">מוסיקה וּוידאו </string>
+  <string id="1216">מוסיקה ותמונות</string>
+  <string id="1217">מוסיקה וקבצים</string>
+  <string id="1218">וידאו ותמונות</string>
+  <string id="1219">וידאו וקבצים</string>
+  <string id="1220">תמונות וקבצים</string>
+  <string id="1221">מוסיקה, וידאו ותמונות</string>
+  <string id="1222">מוסיקה, וידאו, תמונות וקבצים</string>
+  <string id="1223">מנוטרל</string>
+  <string id="1226">קבצים, מוסיקה ווידאו</string>
+  <string id="1227">קבצים, תמונות ומוסיקה</string>
+  <string id="1228">קבצים, תמונות ווידאו</string>
+  <string id="1229">מוסיקה ותוכניות</string>
+  <string id="1230">וידאו ותוכניות</string>
+  <string id="1231">תמונות ותוכניות</string>
+  <string id="1232">מוסיקה, וידאו, תמונות ותוכניות</string>
+  <string id="1233">תוכניות, וידאו ומוסיקה</string>
+  <string id="1234">תוכניות, תמונות ומוסיקה</string>
+  <string id="1235">תוכניות, תמונות ווידאו</string>
+
+  <string id="1245">שם משתמש ב-FTP</string>
+  <string id="1246">סיסמת FTP</string>
+  <string id="1247">הגדרת הסיסמה בוצעה בהצלחה</string>
+
+  <string id="1250">זיהוי אוטו'</string>
+  <string id="1251">מערכת זיהוי אוטו'</string>
+  <string id="1252">כינוי</string>
+  <string id="1253"></string>
+  <string id="1254">בקש להתחבר</string>
+  <string id="1255">שלח שם משתמש וסיסמת FTP</string>
+  <string id="1256">מרווח פינג</string>
+  <string id="1257">האם ברצונך להתחבר למערכת שזוהתה אוטומטית?</string>
+
+  <string id="1260">פרסום Zeroconf</string>
+
+  <string id="1300">התקן אודיו מותאם אישית</string>
+  <string id="1301">התקן passthrough מותאם אישית</string>
+  
+  <string id="1396">סחיפה</string>
+  <string id="1397">וכן</string>
+  <string id="1398">קיפאון</string>
+  <string id="1399">מאוחר</string>
+  <string id="1400">בודדים</string>
+  <string id="1401">ממטרים ורעמים</string>
+  <string id="1402">רעמים</string>
+  <string id="1403">שמש</string>
+  <string id="1404">Heavy</string>
+  <string id="1405">ב</string>
+  <string id="1406">the</string>
+  <string id="1407">קרבת מקום</string>
+  <string id="1408">קרח</string>
+  <string id="1409">גבישי</string>
+  <string id="1410">נאה</string>
+  <string id="1411">עם</string>
+  <string id="1412">סוער</string>
+  <string id="1413">טפטוף</string>
+  <string id="1414">סערה</string>
+  <string id="1415">טפטוף</string>
+  <string id="1416">ערפל</string>
+  <string id="1417">Grains</string>
+  <string id="1418">סערות</string>
+  <string id="1419">ממטרים ורעמים</string>
+
+  <!-- strings through to 1450 reserved for weather translation -->
+
+  <string id="1450">כבה תצוגה לאחר חוסר פעילות במשך</string>
+  <!-- strings through to 1470 reserved for power-saving -->
+
+  <string id="2050">זמן ריצה</string>
+
+  <string id="2100">הסקריפט נכשל! : %s</string>
+
+  <string id="4501">סוג LCD</string>
+
+  <string id="10000">בית</string>
+  <string id="10001">תוכניות</string>
+  <string id="10002">תמונות</string>
+  <string id="10003">מנהל הקבצים</string>
+  <string id="10004">הגדרות</string>
+  <string id="10005">מוסיקה</string>
+  <string id="10006">וידאו</string>
+  <string id="10007">פרטי מערכת</string>
+  <string id="10008">כללי</string>
+  <string id="10009">תצוגה</string>
+  <string id="10010">הגדרות / מראה - כיול הממשק הגרפי</string>
+  <string id="10011">הגדרות / וידאו - כיול המסך</string>
+  <string id="10012">תמונות</string>
+  <string id="10013">בקרת[CR]הורים</string>
+  <string id="10014">חברתי</string>
+  <string id="10015">מוסיקה</string>
+  <string id="10016">מערכת</string>
+  <string id="10017">מדיה</string>
+  <string id="10018">רשת</string>
+  <string id="10019">כללי</string>
+  <string id="10020">סקריפטים</string>
+  <string id="10021"></string>
+  <string id="10022"></string>
+  <string id="10023"></string>
+  <string id="10025"></string>
+  <string id="10028">סרטי וידאו/רשימת השמעה</string>
+  <string id="10034">פרופילים</string>
+  <string id="10035">[B]בקרת הורים[/B]</string>
+
+  <string id="10100">תיבת דו-שיח 'כן/לא'</string>
+  <string id="10101">תיבת דו-שיח 'התקדמות'</string>
+
+  <string id="10210">מחפש כתוביות...</string>
+  <string id="10211">Caching or looking for subtitles�</string>
+  <string id="10212">מסיים</string>
+  <string id="10213">מבצע אגירה</string>
+  <string id="10214">פותח זרם</string>
+
+  <string id="10500">מוסיקה/רשימת השמעה</string>
+  <string id="10501">מוסיקה/קבצים</string>
+  <string id="10502">מוסיקה/ספרייה</string>
+  <string id="10503">עורך רשימות השמעה</string>
+  <string id="10504">100 השירים הגדולים</string>
+  <string id="10505">100 האלבומים הגדולים</string>
+  <string id="10506">תוכניות</string>
+  <string id="10507">תצורה</string>
+  <string id="10508">תחזית מזג האוויר</string>
+  <string id="10509">משחקים ברשת</string>
+  <string id="10510">סיומות</string>
+  <string id="10511">פרטי מע'</string>
+  <string id="10512"></string>
+  <string id="10513"></string>
+  <string id="10514"></string>
+  <string id="10515"></string>
+  <string id="10516">מוסיקה - ספרייה</string>
+  <string id="10517">מופעל כעת - מוסיקה</string>
+  <string id="10518"></string>
+  <string id="10519"></string>
+  <string id="10520"></string>
+  <string id="10521"></string>
+  <string id="10522">מופעל כעת - וידאו</string>
+  <string id="10523">פרטי אלבום</string>
+  <string id="10524">פרטי סרט</string>
+
+  <string id="12000">תיבת דו-שיח 'בחר'</string>
+  <string id="12001">מוסיקה/פרטים</string>
+  <string id="12002">Dialog OK</string>
+  <string id="12003">סרטי וידאו/מידע</string>
+  <string id="12004">סקריפטים/מידע</string>
+  <string id="12005">וידאו במסך מלא</string>
+  <string id="12006">המחשה חזותית של שמע</string>
+  <string id="12007"></string>
+  <string id="12008">תיבת דו שיח 'הערמת קבצים'</string>
+  <string id="12009">שחזר אינדקס...</string>
+  <string id="12010">חזור לחלון המוסיקה</string>
+  <string id="12011">חיזור לחלון הווידאו</string>
+  <string id="12012">Update trainer list</string>
+  <string id="12013">מדריך</string>
+  <string id="12014">לא נמצאו מדריכים</string>
+  <string id="12015">הגדרות מדריך</string>
+  <string id="12016">כל המדריכים הרשומים חסרים. עדכן את הרשימה</string>
+  <string id="12017">חדש אוטו' ממיקום אחרון</string>
+  <string id="12018">לא</string>
+  <string id="12019">כן</string>
+  <string id="12020">שאל</string>
+  <string id="12021">התחל מההתחלה</string>
+  <string id="12022">חדש מ-%s</string>
+  <string id="12023">מאמת מדריכים קיימים...</string>
+  <string id="12024">צור תמונות ממוזערות לסרטי וידאו ללא עטיפות</string>
+  <string id="12025">אל תזהה סרטי וידאו מתחת לגודל זה (MB)</string>
+  <string id="12026">השהה וידאו בעת יציאה ממסך ההפעלה</string>
+  <string id="12027">בחר איכות וידאו</string>  
+  <string id="12028">לרשותך מ ספר רמות איכות</string>  
+  <string id="12029">שמור את ההעדפות שלי</string>  
+  <string id="12030">שמור</string>
+  <string id="12031">1080p</string>
+  <string id="12032">720p</string>
+  <string id="12033">רגיל</string>
+  <string id="12034">קיימים מספר טריילרים</string>
+
+  <string id="12310">0</string>
+  <string id="12311">1</string>
+  <string id="12312">2</string>
+  <string id="12313">3</string>
+  <string id="12314">4</string>
+  <string id="12315">5</string>
+  <string id="12316">6</string>
+  <string id="12317">7</string>
+  <string id="12318">8</string>
+  <string id="12319">9</string>
+  <string id="12320">c</string>
+  <string id="12321">אישור</string>
+  <string id="12322">*</string>
+  <string id="12325">נעול! הזן קוד...</string>
+  <string id="12326">הזן סיסמה</string>
+  <string id="12327">הזן קוד ראשי</string>
+  <string id="12328">הזן קוד הסרת נעילה</string>
+  <string id="12329">או לחץ על C כדי לבטל</string>
+  <string id="12330">הזן צירוף לחצנים ללוח המשחקים</string>
+  <string id="12331">ולחץ על 'התחל' או על 'חזור' כדי לבטל</string>
+  <string id="12332">נעל</string>
+  <string id="12333">בטל נעילה</string>
+  <string id="12334">אפס נעילה</string>
+  <string id="12335">הסר נעילה</string>
+  <string id="12337">סיסמה מספרית</string>
+  <string id="12338">צירוף לחצנים ללוח משחקים</string>
+  <string id="12339">סיסמת טקסט מלא</string>
+  <string id="12340">הזן סיסמה חדשה</string>
+  <string id="12341">הזן סיסמה חדשה שוב</string>
+  <string id="12342">סיסמה שגויה</string>
+  <string id="12343">ניסיונות נותרו </string>
+  <string id="12344">הסיסמאות שהוזנו אינן תואמות.</string>
+  <string id="12345">גישה לא אושרה.</string>
+  <string id="12346">עברת את מספר ניסיונות הסיסמה המותר.</string>
+  <string id="12347">המערכת תכבה את עצמה כעת.</string>
+  <string id="12348">הפריט ננעל</string>
+  <string id="12353">הפעל מחדש נעילה</string>
+  <string id="12356">Change lock</string>
+  <string id="12357">נעילת מקור</string>
+  <string id="12358">הוזנה סיסמה ריקה. נסה שוב.</string>
+  <string id="12360">נעילה ראשית</string>
+  <string id="12362">כבה מערכת בחריגה ממספר ניסיונות מותר לנעילה ראשית</string>
+  <string id="12367">קוד ראשי לא חוקי!</string>
+  <string id="12368">הזן קוד ראשי חוקי!</string>
+  <string id="12373">מנהל הגדרות וקבצים</string>
+  <string id="12376">קבע כברירת מחדל לכל הסרטים</string>
+  <string id="12377">לאיפוס כל הערכים הקודמים שנשמרו</string>
+  <string id="12378">הצג כל תמונה במשך</string>
+  <string id="12379">השתמש בהגדלה ותנועה אופקית</string>
+  <string id="12380">הפעל וידאו NTSC בקצב PAL</string>
+  <string id="12381">הפעל וידאו PAL בקצב NTSC</string>
+  <string id="12382">הפעל וידאו NTSC ב-PAL60</string>
+  <string id="12383">שעה בתבנית 12 שעות</string>
+  <string id="12384">שעה בתבנית 24 שעות</string>
+  <string id="12385">יום/חודש</string>
+  <string id="12386">חודש/יום</string>
+  <string id="12387"></string>
+  <string id="12390">זמן פעולה של המערכת</string>
+  <string id="12391">דקות</string>
+  <string id="12392">שעות</string>
+  <string id="12393">ימים</string>
+  <string id="12394">זמן פעולה כולל</string>
+
+  <string id="12600">מזג אוויר</string>
+
+  <string id="12900">שומר מסך</string>
+  <string id="12901">OSD במסך מלא</string>
+
+  <string id="13000">מערכת</string>
+  <string id="13001">Immediate HD spindown</string>
+  <string id="13002">וידאו בלבד</string>
+  <string id="13003">- השהה</string>
+  <string id="13004">- משך מינימלי של קובץ</string>
+  <string id="13005">כיבוי</string>
+  <string id="13006">Dashboard</string>
+  <string id="13007">השתמש בנתיב לוח מחוונים מותאם</string>
+  <string id="13008">פונקציית כיבוי</string> 
+  <string id="13009">יציאה</string> 
+  <string id="13010">שינה</string>
+  <string id="13011">השעה</string>
+  <string id="13012">יציאה</string>
+  <string id="13013">הפעל מחדש</string>
+  <string id="13014">מזער</string>
+  <string id="13015">פעולת לחצן ההפעלה</string>
+
+  <string id="13020">האם יש הפעלה פעילה נוספת, אולי באמצעות ssh?</string>
+  <string id="13021">כונן קשיח נשלף מורכב</string>
+  <string id="13022">הסרה לא בטוחה של התקן</string>
+  <string id="13023">ההתקן הוסר בהצלחה</string>
+  <string id="13024">ג'ויסטיק מחובר</string>
+  <string id="13025">ג'ויסטיק לא מחובר</string>
+  <string id="13026">דיסק נשלף מחובר</string>
+  <string id="13027">דיסק נשלף מנותק</string>
+  <string id="13028">דיסק נשלף נותק עם שגיאות</string>
+
+  <string id="13100">מסנן הבהוב</string>
+  <string id="13101">הנח למנהל ההתקן לבחור (מחייב הפעלה מחדש)</string>
+  <string id="13105">סנכרן ריק אנכי</string>
+  <string id="13106">מנוטרל</string>
+  <string id="13107">מופעל בעת הפעלת וידאו</string>
+  <string id="13108">מופעל תמיד</string>
+  <string id="13109">בדוק והחל רזולוציה...</string>
+  <string id="13110">לשמור רזולוציה?</string>
+  <string id="13111">האם ברצונך לשמור רזולוציה זו?</string>
+  
+  <string id="13112">שדרוג לאיכות גבוהה</string>
+  <string id="13113">מנוטרל</string>
+  <string id="13114">מופעל לתוכן ברזולוציה רגילה</string>
+  <string id="13115">מופעל תמיד</string>
+  
+  <string id="13116">שיטת שדרוג</string>
+  <string id="13117">Bicubic</string>
+  <string id="13118">Lanczos</string>
+  <string id="13119">Sinc</string>
+  <string id="13120">VDPAU</string>
+  <string id="13121">רמת שדרוג VDPAU HQ</string>
+  <string id="13122">המרת צבעים VDPAU</string>
+
+  <string id="13130">סימוי תצוגה</string>
+  <string id="13131">מנוטרל</string>
+  <string id="13132">תצוגות ריקות</string>
+
+  <string id="13140">זוהו חיבורים פעילים!</string>
+  <string id="13141">אם תמשיך, ייתכן שלא תוכל עוד</string>
+  <string id="13142">any longer. Are you sure you want to stop the Event Server?</string>
+  <string id="13144">להחליף מצב שלט-רחוק של Apple?</string>
+  <string id="13145">החלפת ההגדרה עלולה לגרום לשלטי Apple להפסיק לעבוד עם Boxee.[CR]האם ברצונך להמשיך?</string>
+  <string id="13148">לשנות מצב שלט-רחוק?</string>
+  <string id="13149">כדי להפעיל, הפעל מחדש את Boxee</string>
+  <string id="13150">מפתח HDD:</string>
+  <string id="13151">טמפ' HDD:</string>
+  <string id="13152">דגם DVD:</string>
+  <string id="13153">קושחת DVD:</string>
+  <string id="13154">דגם HDD:</string>
+  <string id="13155">מס' סידורי HDD:</string>
+  <string id="13156">קושחת HDD:</string>
+  <string id="13157">סיסמת HDD:</string>
+  <string id="13158">מצב נעילת HDD:</string>
+  <string id="13159">מסיכת רשת משנה</string>
+  <string id="13160">שער</string>
+  <string id="13161">DNS ראשי</string>
+  <string id="13162">האתחול נכשל</string>
+  
+  <string id="13163">לוח משחקים</string>
+  <string id="13164">מקלדת</string>
+  <string id="13165">עכבר</string>
+  <string id="13166">אוזניות/מיקרופון</string>
+  <string id="13167">יחידת זיכרון</string>
+  <string id="13168">שלט באינפרה-אדום</string>
+  <string id="13169">יציאת בקר</string>
+  
+  
+  <string id="13170">אף פעם</string>
+  <string id="13171">מייד</string>
+  <string id="13172">לאחר %i שניות</string>
+  <string id="13173">תאריך התקנת HDD:</string>
+  <string id="13174">מחזורי הפעלת דיסק קשיח:</string>
+
+  <string id="13200">פרופילים</string>
+  <string id="13201">למחוק את פרופיל '%s'?</string>
+  <string id="13204">הפרופיל האחרון שנטען:</string>
+  <string id="13205">לא ידוע</string>
+  <string id="13206">החלף</string>
+  <string id="13208">שעון מעורר</string>
+  <string id="13209">מרווח לשעון המעורר (בדקות)</string>
+  <string id="13210">הופעל, התרעה בעוד %i ד'</string>
+  <string id="13211">התרעה!</string>
+  <string id="13212">Canceled with %im%is left</string>
+
+  <string id="13248">הפעל כברירת מחדל</string>
+  <string id="13249">חפש כתוביות בקבצי RAR</string>
+  <string id="13250">חפש כתובית...</string>
+  <string id="13251">העבר פריט</string>
+  <string id="13252">העבר פריט לכאן</string>
+  <string id="13253">בטל העברה</string>
+
+  <string id="13270">חומרה:</string>
+  <string id="13271">נצילות CPU:</string>
+  
+  <string id="13274">מחובר אם קין DNS זמין.</string>
+  <string id="13275">דיסק קשיח</string>
+  <string id="13276">DVD-ROM</string>
+  <string id="13277">אחסון</string>
+  <string id="13278">ברירת מחדל</string>
+  <string id="13279">רשת</string>
+  <string id="13280">וידאו</string>
+  <string id="13281">חומרה</string>
+  <string id="13282">_</string>
+  <string id="13283">מערכת הפעלה:</string>
+  <string id="13284">מהירות CPU:</string>
+  <string id="13285">זוהה BIOS:</string>
+  <string id="13286">מקודד וידאו:</string>
+  <string id="13287">רזולוציית מסך</string>
+  <string id="13288">גרסת Xbox:</string>
+  <string id="13289">מס' סידורי Xbox:</string>
+  <string id="13290">יצרן Xbox:</string>
+  <string id="13291">Modchip:</string>
+  <string id="13292">כבל A/V:</string>
+  <string id="13293">אזור וידאו ו-XBE:</string>
+  <string id="13294">אזור DVD :</string>
+  <string id="13295">אינטרנט:</string>
+  <string id="13296">מחובר</string>
+  <string id="13297">לא מחובר. בדוק הגדרות רשת.</string>
+  <string id="13298">מפתח Xbox Live:</string>
+  <string id="13299">טמפרטורת יעד</string>
+  <string id="13300">מהירות מאוורר</string>
+  <string id="13301">בקרת טמפ' אוטו'</string>
+  <string id="13302">עקיפת מהירות מאוורר</string>
+  <string id="13303">- גופנים</string>
+  <string id="13304">אפשר היפוך של מחרוזות דו-כיווניות</string>
+  <string id="13305">אפשר עדכוני RSS</string>
+  <string id="13306">הסתר פריטי תיקיית אב</string>
+  <string id="13307">תבנית מתן שמות לרצועות</string>
+  <string id="13308">להפעיל מחדש?</string>
+  <string id="13309">במקום רק XBMC?</string>
+  <string id="13310">אפקט הגדלה</string>
+  <string id="13311">אפקט ציפה</string>
+  <string id="13312">צמצום פסים שחורים</string>
+  <string id="13313">הפעל מחדש</string>
+  <string id="13314">פייד שמע</string>
+  <string id="13315">חדש תמונות ממוזערות</string>
+  <string id="13316">תמונות ממוזערות רקורסיביות</string>
+  <string id="13317">הצג הצגת שקופיות</string>
+  <string id="13318">הצגת שקופיות רקורסיבית</string>
+  <string id="13319">סדר אקראי</string>
+  <string id="13320">סטריאו</string>
+  <string id="13321">שמאל בלבד</string>
+  <string id="13322">ימין בלבד</string>
+  <string id="13323">אפשר תמיכה בקריוקי</string>
+  <string id="13324">שקיפות רקע</string>
+  <string id="13325">שקיפות קדמה</string>
+  <string id="13326">השהיית A/V</string>
+  <string id="13327">קריוקי</string>
+  <string id="13328">%s לא נמצא</string>
+  <string id="13329">שגיאה בפתיחת %s</string>
+  <string id="13330">אין אפשרות לטעון את %s</string>
+  <string id="13331">שגיאה: אין זיכרון פנוי</string>
+  <string id="13332">העבר מעלה</string>
+  <string id="13333">העבר מטה</string>
+  <string id="13334">ערוך תווית</string>
+  <string id="13335">הפוך לברירת מחדל</string>
+  <string id="13336">הסר לחצן</string>
+  <string id="13338">נורית קדמית</string>
+  <string id="13339">צבע נורית קדמית</string>
+  <string id="13340">השאר ככה</string>
+  <string id="13341">ירוק</string>
+  <string id="13342">כתום</string>
+  <string id="13343">אדום</string>
+  <string id="13344">מחזורי</string>
+  <string id="13345">כבה נורית בעת הפעלה</string>
+  <string id="13346">פרטי סרט</string>
+  <string id="13347">פריט בתור</string>
+  <string id="13348">חפש ב-IMDb...</string>
+  <string id="13349">סורק לאיתור תוכן חדש</string>
+  <string id="13350">מופעל כעת...</string>
+  <string id="13351">פרטי אלבום</string>
+  <string id="13352">הוסף פריט לספרייה</string>
+  <string id="13353">עצור סריקה</string>
+  <string id="13354">שיטת עיבוד</string>
+  <string id="13355">צובע פיקסלים באיכות נמוכה</string>
+  <string id="13356">שכבות חומרה</string>
+  <string id="13357">צובע פיקסלים באיכות גבוהה</string>
+  <string id="13358">הפעל פריט</string>
+  <string id="13359">הגדר תמונה ממוזערת אמנותית</string>
+  <string id="13360">צור תמונות ממוזערות</string>
+  <string id="13361">הפעל קול</string>
+  <string id="13375">הפעל התקן</string>
+  <string id="13376">עוצמת קול</string>
+  <string id="13377">מצב תצוגת ברירת מחדל</string>
+  <string id="13378">ברירת מחדל של בהירות</string>
+  <string id="13379">ברירת מחדל של ניגודיות</string>
+  <string id="13380">ברירת מחדל של גאמה</string>
+  <string id="13381">חדש פעולת וידאו</string>
+  <string id="13382">מסיכת קול - יציאה 1</string>
+  <string id="13383">מסיכת קול - יציאה 2</string>
+  <string id="13384">מסיכת קול - יציאה 3</string>
+  <string id="13385">מסיכת קול - יציאה 4</string>
+  <string id="13386">השתמש בחיפוש מבוסס שעה</string>
+  <string id="13387">תבנית שמות רצועות - ימין</string>
+  <string id="13388">ערכים קבועים מראש</string>
+  <string id="13389">אין ערכים מוגדרים מראש להמחשה חזותית זו</string>
+  <string id="13390">אין הגדרות קבועות מראש להמחשה חזותית זו</string>
+  <string id="13391">הוצא/טען</string>
+  <string id="13392">השתמש בהמחשה חזותית בהפעלת שמע</string>
+  <string id="13393">חשב גודל</string>
+  <string id="13394">מחשב גודל תיקייה</string>
+  <string id="13395">הגדרות וידאו</string>
+  <string id="13396">הגדרות אודיו וכתובית</string>
+  <string id="13397">הפעל כתוביות</string>
+  <string id="13398">קיצורי דרך</string>
+  <string id="13399">התעלם מאסימונים בעת מיון</string>
+  <string id="13400">עמעום אודיו ברצועות של אלבומים</string>
+  <string id="13401">חפש %s</string>
+  <string id="13402">הצג מיקום רצועה</string>
+  <string id="13403">נקה ברירת מחדל</string>
+  <string id="13404">חדש הפעלה</string>
+  <string id="13405">הבא תמונה ממוזערת</string>
+  <string id="13406">פרטי תמונה</string>
+  <string id="13407">%s ערכים מוגדרים מראש</string>
+  <string id="13408">(דירוג משתמשי IMDb)</string>
+  <string id="13409">250 הגדולים</string>
+  <string id="13410">כוונן אל Last.fm</string>
+  <string id="13411">מהירות מינ' של מאוורר</string>
+  <string id="13412"></string>
+  <string id="13413">מוריד</string>
+  <string id="13414">הסתר אמנים המופיעים רק באוספים</string>
+  <string id="13415">שיטת עיבוד</string>
+  <string id="13416">זיהוי אוטו'</string>
+  <string id="13417">יוצרי גוונים בסיסיים (ARB)</string>
+  <string id="13418">יוצרי גוונים מתקדמים (GLSL)</string>
+  <string id="13419">תוכנה</string>
+  <string id="13420">הסר באופן בטוח</string>
+  <string id="13421">VDPAU</string>
+  <string id="13422">התחל הצגת שקופיות כאן</string>
+  <string id="13423">החל מערך תווים חדש</string>
+  <string id="13424">אתחול התקן האודיו נכשל</string>
+  <string id="13425">בדוק את הגדרות האודיו</string>
+
+  <string id="13500">שיטת סינכרון A/V</string>
+  <string id="13501">שעון דובר</string>
+  <string id="13502">Video clock (Drop/Dupe audio)</string>
+  <string id="13503">שעון וידאו (סימפול שמע)</string>
+  <string id="13504">כמות סימפול מרבית (%)</string>
+  <string id="13505">איכות סימפול</string>
+  <string id="13506">נמוך (מהיר)</string>
+  <string id="13507">בינוני</string>
+  <string id="13508">גבוה</string>
+  <string id="13509">גבוה מאוד (איטי)</string>
+  <string id="13510">סנכרון הפעלה עם תצוגה</string>
+
+  <string id="13600">שלט Apple</string>
+  <string id="13601">מצב שלט</string>
+  <string id="13602">מופעל תמיד</string>
+  <string id="13603">Sequence delay time</string>
+  
+  <string id="13610">מנוטרל</string>
+  <string id="13611">רגיל</string>
+  <string id="13612">שלט אוניברסלי</string>
+  <string id="13613">רב-שלט (Harmony)</string>
+  
+  <string id="13620">שגיאה בשלט Apple</string>
+  <string id="13621">ניתן להפעיל תמיכה בשלט Apple.</string>
+  
+  <string id="13622">השתמש בעיבוד ברזולוציה גבוהה</string>
+
+  <string id="14000">הערם</string>
+  <string id="14001">בטל הערמה</string>
+  <string id="14003">מוריד קובץ רשימת השמעה...</string>
+  <string id="14004">מוריד רשימת הזרמות...</string>
+  <string id="14005">מנתח רשימת הזרמות...</string>
+  <string id="14006">נכשלה הורדת רשימת הזרמות</string>
+  <string id="14007">נכשלה הורדת רשימת השמעה</string>
+  <string id="14008"></string>
+  <string id="14009">ספריית משחקים</string>
+  <string id="14010">מעבר אוטו' לתמונות ממוזערות על פי</string>
+  <string id="14011">הפעל מעבר אוטו' לתצוגת תמונות ממוזערות</string>
+  <string id="14012">- השתמש בסמלים גדולים</string>
+  <string id="14013">- החלף על פי</string>
+  <string id="14014">- אחוז</string>
+  <string id="14015">ללא קבצים ולפחות תמונה ממוזערת אחת</string>
+  <string id="14016">לפחות קובץ אחד ותמונה ממוזערת אחת</string>
+  <string id="14017">אחוז תמונות ממוזערות</string>
+  <string id="14018">הצג אפשרויות</string>
+  <string id="14019">מיקום תחזית</string>
+  <string id="14020">החלף אזור חיוג 2</string>
+  <string id="14021">החלף אזור חיוג 3</string>
+  <string id="14022">ספרייה</string>
+  <string id="14023">אין TV</string>
+  <string id="14024">הזן את שם העיר הקרובה</string>
+  <string id="14025">מטמון וידאו/שמע/DVD - דיסק קשיח</string>
+  <string id="14026">מטמון וידאו - DVD-ROM</string>
+  <string id="14027">- רשת מקומית</string>
+  <string id="14028">- אינטרנט</string>
+  <string id="14030">מטמון אודיו - DVD-ROM</string>
+  <string id="14031">- רשת מקומית</string>
+  <string id="14032">- אינטרנט</string>
+  <string id="14034">מטמון DVD ‏- DVD-ROM</string>
+  <string id="14035">- רשת מקומית</string>
+  <string id="14036">שרתים</string>
+  <string id="14037">כללי</string>
+  <string id="14038">חל שינוי בהגדרות הרשת</string>
+  <string id="14039">כדי להחיל אותן יש להפעיל מחדש.</string>
+  <string id="14040">האם להפעיל מחדש עכשיו?</string>
+  <string id="14041">לאחר העיבוד</string>
+  <string id="14042"></string>
+  <string id="14043">- כיבוי בעת משחק</string>
+  <string id="14044">%i דק'</string>
+  <string id="14045">%i שנ'</string>
+  <string id="14046">%i אלפיות השנייה</string>
+  <string id="14047">%i %%</string>
+  <string id="14048">%i kbps</string>
+  <string id="14049">%i kb</string>
+  <string id="14050">%i.0 dB</string>
+  <string id="14051">תבנית שעה</string>
+  <string id="14052">תבנית תאריך</string>
+  <string id="14053">מסנני GUI</string>
+  <string id="14054">הפעל חיפושי אינטרנט</string>
+  <string id="14055">השתמש בסריקה ברקע</string>
+  <string id="14056">עצור סריקה</string>
+  <string id="14057">אין אפשרות בעת סריקת פרטי מדיה</string>
+  <string id="14058">אפקט גרעיניות של סרט</string>
+  <string id="14059">חפש תמונות ממוזערות במאגרים מרוחקים</string>
+  <string id="14060">מטמון מסוג לא ידוע - אינטרנט</string>
+  <string id="14061">אוטו'</string>
+  <string id="14062">הזן שם משתמש עבור</string>
+  <string id="14063">תאריך ושעה</string>
+  <string id="14064">הגדר תאריך</string>
+  <string id="14065">הגדר שעה</string>
+  <string id="14066">הזן שעה בתבנית HH:MM של 24 שע'</string>
+  <string id="14067">הזן תאריך בתבנית DD/MM/YYYY</string>
+  <string id="14068">הזן כתובת IP</string>
+  <string id="14069">להחיל הגדרות אלה כעת?</string>
+  <string id="14070">החל הגדרות כעת</string>
+  <string id="14071">אפשר שינוי שם ומחיקת קובץ</string>
+  <string id="14072"></string>
+  <string id="14073"></string>
+  <string id="14074">הגדר אזור זמן</string>
+  <string id="14075">השתמש בשעון קיץ</string>
+  <string id="14076">מועדף</string>
+  <string id="14077">הסר</string>
+  <string id="14078">- צבעים</string>
+  <string id="14079">אזור זמן-מדינה</string>
+  <string id="14080">אזור זמן</string>
+  <string id="14081">רשימות קבצים</string>
+  <string id="14082">הצג פרטי תמונת EXIF</string>
+  <string id="14083">השתמש בחלון על מסך מלא במקום במסך מלא אמיתי</string>
+  <string id="14084">הכנס שירים נבחרים לתור</string>
+  <string id="14085">הפעל תקליטורי שמע אוטומטית</string>
+  <string id="14086">השמעה/הפעלה</string>
+  <string id="14087">DVD</string>
+  <string id="14088">הפעל תקליטורי DVD אוטומטית</string>
+  <string id="14089">גופן לכתוביות טקסט</string>
+  <string id="14090">בינלאומי</string>
+  <string id="14091">מערך תווים</string>
+  <string id="14092">תיקון באגים</string>
+  <string id="14093">אבטחה</string>
+  <string id="14094">התקני קלט</string>
+  <string id="14095">חיסכון באנרגיה</string>
+  <string id="14096">תבנית שעה</string>
+  <string id="14097">סולם טמפרטורות</string>
+
+  <string id="15000"></string>
+  <string id="15001"></string>
+  <string id="15002"></string>
+  <string id="15003"></string>
+  <string id="15004"></string>
+  <string id="15005"></string>
+  <string id="15006"></string>
+  <string id="15007"></string>
+  <string id="15008"></string>
+  <string id="15009"></string>
+  <string id="15010"></string>
+  <string id="15011"></string>
+  <string id="15012"></string>
+  <string id="15013"></string>
+  <string id="15014"></string>
+  <string id="15015">הסר</string>
+  <string id="15016">משחקים</string>
+  <string id="15017"></string>
+  <string id="15018"></string>
+  <string id="15019">הוסף</string>
+  <string id="15020"></string>
+  <string id="15021"></string>
+  <string id="15022"></string>
+  <string id="15023"></string>
+  <string id="15024"></string>
+  <string id="15025"></string>
+  <string id="15026"></string>
+  <string id="15027"></string>
+  <string id="15028"></string>
+  <string id="15029"></string>
+  <string id="15030"></string>
+  <string id="15031"></string>
+  <string id="15032"></string>
+  <string id="15033"></string>
+  <string id="15034"></string>
+  <string id="15035"></string>
+  <string id="15036"></string>
+  <string id="15037"></string>
+  <string id="15038"></string>
+  <string id="15039"></string>
+  <string id="15040"></string>
+  <string id="15041"></string>
+  <string id="15042"></string>
+  <string id="15043"></string>
+  <string id="15044"></string>
+  <string id="15045"></string>
+  <string id="15046"></string>
+  <string id="15047"></string>
+  <string id="15048"></string>
+  <string id="15049"></string>
+  <string id="15050"></string>
+  <string id="15051"></string>
+  <string id="15052">סיסמה</string>
+  <string id="15053"></string>
+  <string id="15054"></string>
+  <string id="15055"></string>
+  <string id="15056"></string>
+  <string id="15057"></string>
+  <string id="15058"></string>
+  <string id="15059"></string>
+  <string id="15060"></string>
+  <string id="15061"></string>
+  <string id="15100">ספרייה</string>
+  <string id="15101">מסד נתונים</string>
+  <string id="15102">* כל האלבומים</string>
+  <string id="15103">* כל האמנים</string>
+  <string id="15104">* כל השירים</string>
+  <string id="15105">* כל הז'אנרים</string>
+  <string id="15106"></string>
+  <string id="15107">טוען...</string>
+  <string id="15108">צלילי ניווט</string>
+  <string id="15109">ברירת מחדל</string>
+  <string id="15111">- ערכת נושא</string>
+  <string id="15112">ברירת מחדל של ערכת נושא</string>
+
+  <string id="15200">Last.fm</string>
+  <string id="15201">שלח שירים אל Last.fm</string>
+  <string id="15202">שם משתמש ב-Last.fm</string>
+  <string id="15203">סיסמת Last.fm</string>
+  <string id="15204">אין אפשרות להשלים לחיצת יד: בשינה...</string>
+  <string id="15205">עדכן את XBMC</string>
+  <string id="15206">אימות נכשל: בדוק שם משתמש וסיסמה</string>
+  <string id="15207">מחובר</string>
+  <string id="15208">לא מחובר</string>
+  <string id="15209">מרווח שליחה %i</string>
+  <string id="15210">%i שירים נשמרו במטמון</string>
+  <string id="15211">שולח...</string>
+  <string id="15212">שולח בעוד %i שניות</string>
+  <string id="15213">הפעל באמצעות...</string>
+  <string id="15214">סינכרון A/V מוחלק</string>
+  <string id="15215">הסתר שמות קבצים בתצוגת תמ' ממוזערות</string>
+  <string id="15216">הפעל במצב מסיבה</string>
+  <string id="15217">שלח שירים אל Libre.fm</string>
+  <string id="15218">שם משתמש ב-Libre.fm</string>
+  <string id="15219">סיסמת Libre.fm</string>
+  <string id="15220">Libre.fm</string>
+  <string id="15221">Scrobbler</string>
+
+  <string id="15250">שלח תחנת רדיו Last.fm אל היישום Last.fm</string>
+  <string id="15251">מתחבר אל Last.fm...</string>
+  <string id="15252">בוחר תחנה...</string>
+  <string id="15253">חפש אמנים דומים...</string>
+  <string id="15254">חפש תגים דומים...</string>
+  <string id="15255">הפרופיל שלך (%name%)</string>
+  <string id="15256">התגים הגדולים ביותר</string>
+  <string id="15257">האמנים הגדולים עבור התג %name%</string>
+  <string id="15258">האלבומים הגדולים עבור התג %name%</string>
+  <string id="15259">הרצועות הגדולות עבור התג %name%</string>
+  <string id="15260">האזן לתג %name% ברדיו Last.fm</string>
+  <string id="15261">אמנים דומים ל%name%</string>
+  <string id="15262">אלבומי %name% הגדולים</string>
+  <string id="15263">רצונות %name% הגדולות</string>
+  <string id="15264">תגי %name% הגדולים</string>
+  <string id="15265">המעריצים הגדולים ביותר של %name%</string>
+  <string id="15266">האזן למעריצי %name% ברדיו Last.fm</string>
+  <string id="15267">האזן אמנים דומים ל%name% ברדיו Last.fm</string>
+  <string id="15268">האמנים הגדולים עבור המשתמש %name%</string>
+  <string id="15269">האלבומים הגדולים עבור המשתמש %name%</string>
+  <string id="15270">הרצועות הגדולות עבור המשתמש %name%</string>
+  <string id="15271">החברים של המשתמש %name%</string>
+  <string id="15272">השכנים של המשתמש %name%</string>
+  <string id="15273">טבלת אמנים שבועית עבור %name%</string>
+  <string id="15274">טבלת אלבומים שבועית עבור %name%</string>
+  <string id="15275">טבלת רצועות שבועית עבור %name%</string>
+  <string id="15276">האזן לשכנים של %name% ברדיו Last.fm</string>
+  <string id="15277">האזן לרדיו Last.fm האישי של %name%</string>
+  <string id="15278">האזן לרצועות האהובות של %name% ברדיו Last.fm</string>
+  <string id="15279">אחזר רשימה מ-Last.fm...</string>
+  <string id="15280">אין אפשרות לאחזר רשימה מ-Last.fm...</string>
+  <string id="15281">הזן שם של אמן כדי למצוא אמנים קשורים</string>
+  <string id="15282">הזן שם של תג כדי לאתר תגים דומים</string>
+  <string id="15283">רצועות אחרונות שהושמעו על ידי %name%</string>
+  <string id="15284">האזן להמלצות של %name% ברדיו Last.fm</string>
+  <string id="15285">התגים הגדולים עבור המשתמש %name%</string>
+  <string id="15286">האזן לרשימת ההשמעה של %name% ברדיו Last.fm</string>
+  <string id="15287">האם להוסיף את הרצועה הנוכחית לרצועות האהובות?</string>
+  <string id="15288">האם לחסום את הרצועה הנוכחית?</string>
+  <string id="15289">נוסף לרצועות האהובות: '%s'.</string>
+  <string id="15290">אין אפשרות להוסיף את '%s' לרצועות האהובות.</string>
+  <string id="15291">נחסם: '%s'.</string>
+  <string id="15292">אין אפשרות לחסום את '%s'.</string>
+  <string id="15293">רצועות אחרונות ש%name% אהב</string>
+  <string id="15294">רצועות אחרונות ש%name% חסם</string>
+  <string id="15295">הסר מרצועות אהובות</string>
+  <string id="15296">בטל חסימה</string>
+  <string id="15297">האם להסיר רצועה זו מרשימת הרצועות האהובות?</string>
+  <string id="15298">האם לבטל חסימת רצועה זו?</string>
+
+  <string id="15300">נתיב לא נמצא או שאינו חוקי</string>
+  <string id="15301">אין אפשרות להתחבר אל שרת הרשת</string>
+  <string id="15302">לא נמצאו שרתים</string>
+  <string id="15303">לא נמצאה קבוצת עבודה</string>
+
+  <string id="15310">פותח משאב רב נתיבי</string>
+  <string id="15311">נתיב:</string>
+
+  <string id="16000">כללי</string>
+  <string id="16001">הגדר חומרת שמע...</string>
+  <string id="16002">חיפוש באינטרנט</string>
+  <string id="16003">נגן</string>
+  <string id="16004">הפעל מדיה מהדיסק</string>
+  <string id="16005">מתקדם</string>
+
+  <string id="16008">הזן כותר חדש</string>
+  <string id="16009">הזן את שם הסרט</string>
+  <string id="16010">הזן את שם הפרופיל</string>
+  <string id="16011">הזן את שם האלבום</string>
+  <string id="16012">הזן את שם רשימת ההשמעה</string>
+  <string id="16013">הזן שם קובץ חדש</string>
+  <string id="16014">הזן שם תיקייה</string>
+  <string id="16015">הזן ספרייה</string>
+  <string id="16016">האפשרויות הזמינות: %A‏, %T‏, %N‏, %B‏, %D‏, %G‏, %Y‏, %F‏, %S</string>
+  <string id="16017">הזן מחרוזת חיפוש</string>
+  <string id="16018">ללא</string>
+  <string id="16019">בחירה אוטו'</string>
+  <string id="16020">בטל אחסון שזור</string>
+  <string id="16021">שכפול קווים</string>
+  <string id="16022">שכפול קווים (הפוך)</string>
+  <string id="16023">טיפול עם אחסון שזור</string>
+  <string id="16024">מבטל...</string>
+  <string id="16025">הזן את שם האמן</string>
+  <string id="16026">הפעלת רשימת ההשמעה הופסקה</string>
+  <string id="16027">יותר מדי פריטים כושלים ברצף</string>
+  <string id="16028">הזן ערך</string>
+
+  <string id="16030">מצב מסיבה הופסק.</string>
+  <string id="16031">אין שירים תואמים בספרייה.</string>
+  <string id="16032">אין אפשרות לאתחל את מסד הנתונים.</string>
+  <string id="16033">אין אפשרות לפתוח את מסד הנתונים.</string>
+  <string id="16034">אין אפשרות להוציא שירים ממסד הנתונים</string>
+  <string id="16035">רשימת השמעה למצב מסיבה</string>
+
+  <string id="16100">כל סרטי הווידאו</string>
+  <string id="16101">טרם נצפה</string>
+  <string id="16102">נצפה</string>
+  <string id="16103">סמן כנצפה</string>
+  <string id="16104">סמן כטרם נצפה</string>
+  <string id="16105">ערוך כותר</string>
+  <string id="16106">השתמש ב-NTSC-M ו-NTSC-J</string>
+  <string id="16107">השתמש ב-NTSC-M בלבד</string>
+  <string id="16108">השתמש ב-NTSC-J בלבד</string>
+  <string id="16109">השתמש ב-PAL-60 בלבד</string>
+  <string id="16110">למשחקי ‎60hz</string>
+
+  <string id="16200">הפעולה בוטלה</string>
+  <string id="16201">ההעתקה נכשלה</string>
+  <string id="16202">נכשלה ההעתקה של קובץ אחד לפחות</string>
+  <string id="16203">ההעברה נכשלה</string>
+  <string id="16204">נכשלה ההעברה של קובץ אחד לפחות</string>  
+  <string id="16205">המחיקה נכשלה</string>
+  <string id="16206">נכשלה המחיקה של קובץ אחד לפחות</string>
+
+  <string id="16300">שיטת קביעת קנ"מ לווידאו</string>
+  <string id="16301">שכן קרוב ביותר</string>
+  <string id="16302">דו-קווי</string>
+  <string id="16303">Bicubic</string>
+  <string id="16304">Lanczos2</string>
+  <string id="16305">Lanczos3</string>
+  <string id="16306">Sinc8</string>
+  
+  <string id="16307">Bicubic (תוכנה)</string>
+  <string id="16308">Lanczos (תוכנה)</string>  
+  <string id="16309">Sinc (תוכנה)</string>
+
+  <string id="16310">(VDPAU)זמן</string>
+  <string id="16311">(VDPAU)זמן/מרחב</string>
+  <string id="16312">(VDPAU)צמצום רעשים</string>
+  <string id="16313">(VDPAU)חדוות</string>
+  <string id="16314">המרה הפוכה</string>
+  <string id="17500">פסק זמן לכיבוי תצוגה</string> 
+
+  <string id="19000">עבור לערוץ</string>
+
+  <string id="20000">תיקיית העתקות CDDA</string>
+  <string id="20001">השתמש בנגן DVD חיצוני</string>
+  <string id="20002">נגן DVD חיצוני</string>
+  <string id="20003">תיקיית מדריכים</string>
+  <string id="20004">תיקיית תמונות מסך</string>
+  <string id="20005">תיקיית הקלטות</string>
+  <string id="20006">תיקיית רשימות השמעה</string>
+  <string id="20007">הקלטות</string>
+  <string id="20008">תמונות מסך</string>
+  <string id="20009">השתמש ב-XBMC</string>
+  <string id="20010"></string>
+  <string id="20011">רשימות השמעה מוסיקה</string>
+  <string id="20012">רשימות השמעה וידאו</string>
+  <string id="20013">האם ברצונך להפעיל את המשחק?</string>
+  <string id="20014">מיין לפי: רשימת השמעה</string>
+  <string id="20015">תמ' ממוזערת מרוחקת</string>
+  <string id="20016">תמ' ממוזערת נוכחית</string>
+  <string id="20017">תמ' ממוזערת מקומית</string>
+  <string id="20018">ללא תמ' ממוזערת</string>
+  <string id="20019">בחר תמונה ממוזערת</string>
+  <string id="20020"></string>
+  <string id="20021"></string>
+  <!-- string id 20022 will always be set to an empty string (LocalizeStrings.cpp)-->
+  <string id="20022"></string>
+  <string id="20023">התנגשות</string>
+  <string id="20024">סרוק חדש</string>
+  <string id="20025">סרוק הכל</string>
+  <string id="20026">מיקום</string>
+
+  <!-- string id's 20027 thru 20035 are reserved for temperaturestrings  (LocalizeStrings.cpp)-->
+
+  <string id="20038">נעל חלון מוסיקה</string>
+  <string id="20039">נעל חלון וידאו</string>
+  <string id="20040">נעל חלון תמונות</string>
+  <string id="20041">נעל חלונות תוכניות, פריטים שמורים וסקריפטים</string>
+  <string id="20042">נעל את מנהל הקבצים</string>
+  <string id="20043">נעל הגדרות</string>
+  <string id="20044">התחל מחדש</string>
+  <string id="20045">עבור למצב מאסטר</string>
+  <string id="20046">צא ממצב מאסטר</string>
+  <string id="20047">ליצור פרופיל '%s' ?</string>
+  <string id="20048">התחל עם הגדרות חדשות</string>
+  <string id="20049">הטוב ביותר הזמין</string>
+  <string id="20050">מעבר אוטו' בין ‎16x9 ל-‎4x3</string>
+  <string id="20051">טפל בערימת קבצים כבקובץ יחיד</string>
+  <string id="20052">זהירות</string>
+  <string id="20053">מצב התקן ראשי שמאלי</string>
+  <string id="20054">במצב מאסטר כעת</string>
+  <string id="20055">תמ' ממוזערת של Allmusic.com</string>
+  <string id="20056">שגיאת כניסה</string>
+  <string id="20057">הסר תמונה ממוזערת</string>
+  <string id="20058">הוסף פרופיל...</string>
+  <string id="20059">תשאל מידע עבור כל האלבומים</string>
+  <string id="20060">פרטי מדיה</string>
+  <string id="20061">הפרד</string>
+  <string id="20062">שיתוף עם ברירת מחדל</string>
+  <string id="20063">שיתוף עם ברירת מחדל (קריאה בלבד)</string>
+  <string id="20064">העתק ברירת מחדל</string>
+  <string id="20065">תמונת פרופיל</string>
+  <string id="20066">נעל מועדפים</string>
+  <string id="20067">ערוך פרופיל</string>
+  <string id="20068">כניסה</string>
+  <string id="20069">אין אפשרות ליצור תיקייה</string>
+  <string id="20070">צור פרופיל תיקייה</string>
+  <string id="20071">התחל עם מקורות מדיה חדשים</string>
+  <string id="20072">ודא שהתיקייה שנבחרה היא לכתיבה</string>
+  <string id="20073">וכי שם התיקייה החדשה חוקי</string>
+  <string id="20074">דירוג תוכן</string>
+  <string id="20075">הזן קוד נעילה ראשית</string>
+  <string id="20076">דרוש קוד נעילה ראשית בהפעלה</string>
+  <string id="20077">הגדרות מעטפת</string>
+  <string id="20078">- לא הוגדר אין חיבור -</string>
+  <string id="20079">אפשר הנפשה</string>
+  <string id="20080">השבת עדכוני RSS בהשמעת מוסיקה</string>
+  <string id="20081">הפעל לחצני קיצור דרך</string>
+  <string id="20082">הצג תוכניות בתפריט ראשי</string>
+  <string id="20083">הצג פרטי מוסיקה</string>
+  <string id="20084">הצג פרטי תחזית</string>
+  <string id="20085">הצג פרטי מערכת</string>
+  <string id="20086">הצג מקום פנוי בדיסק C:‎ E:‎ F:</string>
+  <string id="20087">הצג מקום פנוי בדיסק E:‎ F:‎ G:</string>
+  <string id="20088">פרטי תחזית</string>
+  <string id="20089">מקום פנוי בכונן</string>
+  <string id="20090">הזן שם של מיקום משותף קיים</string>
+  <string id="20091">קוד נעילה</string>
+  <string id="20092">טען פרופיל</string>
+  <string id="20093">שם פרופיל</string>
+  <string id="20094">מקורות מדיה</string>
+  <string id="20095">הזן קוד נעילת פרופיל</string>
+  <string id="20096">מסך כניסה למערכת</string>
+  <string id="20097">אוסף פרטי אלבום</string>
+  <string id="20098">אוסף פרטי אלבום</string>
+  <string id="20099">אין אפשרות להעתיק רצועה מתקליטור תוך השמעתו</string>
+  <string id="20100">קוד נעילה ראשית והגדרות</string> 
+  <string id="20101">הזנת קוד נעילה ראשית תמיד מפעילה מצב מאסטר</string>
+  <string id="20102">או להעתיק מברירת המחדל?</string>
+  <string id="20103">לשמור את השינויים בפרופיל?</string>
+  <string id="20104">נמצאו הגדרות ישנות.</string>
+  <string id="20105">האם ברצונך להשתמש בהן?</string>
+  <string id="20106">נמצאו מקורות מדיה ישנים.</string>
+  <string id="20107">נפרד (נעול)</string>
+  <string id="20108">בסיס</string>
+  <string id="20109">- הגדל</string>
+  <string id="20110">הגדרות UPnP</string>
+  <string id="20111">הפעל אוטו' לקוח UPnP</string>
+  <string id="20112">כניסה אחרונה למערכת: %s</string>
+  <string id="20113">מעולם לא נכנס למערכת</string>
+  <string id="20114">פרופיל %i / %i</string>
+  <string id="20115">שם משתמש / בחר פרופיל</string>
+  <string id="20116">השתמש בנעילה במסך הכניסה</string>
+  <string id="20117">שגיאה בשם משתמש או סיסמה, נסה שוב.</string>
+  <string id="20118">לשם כך חובה להגדיר נעילה ראשית.</string>
+  <string id="20119">האם ברצונך להגדיר אותה כעת?</string>
+  <string id="20120">טוען פרטי תוכנית</string>
+  <string id="20121">Party on!</string>
+  <string id="20122">True</string>
+  <string id="20123">מערבב משקאות</string>
+  <string id="20124">ממלא כוסות</string>
+  <string id="20125">מחובר למערכת כ</string>
+  <string id="20126">יציאה מהמערכת</string>
+  <string id="20127">הממ... הסיסמה שהזנת לא מתאימה לסיסמה השמורה במערכת שלנו. נסה שוב.</string>
+  <string id="20128">עבור לספריית הבסיס</string>
+  <string id="20129">שזירה</string>
+  <string id="20130">שזירה (הפוך)</string>
+  <string id="20131">מזג</string>
+  <string id="20132">הפעל מחדש וידאו</string>
+  <string id="20133">ערוך מיקום ברשת</string>
+  <string id="20134">הסר מיקום ברשת</string>
+  <string id="20135">האם ברצונך לסרוק את התיקייה?</string>
+  <string id="20136">יחידת זיכרון</string>
+  <string id="20137">יחידת זיכרון מורכבת</string>
+  <string id="20138">אין אפשרות להרכיב יחידת זיכרון</string>
+  <string id="20139">ביציאה %i, חריץ %i</string>
+  <string id="20140">נעל שומר מסך</string>
+  <string id="20141">הגדר</string>
+  <string id="20142">שם משתמש</string>
+  <string id="20143">הזן סיסמה עבור</string>
+  <string id="20144">טיימר כיבוי</string>
+  <string id="20145">מרווח כיבוי (בדקות)</string>
+  <string id="20146">החל, כיבוי בעוד %i דק'</string>
+  <string id="20147">כיבוי בעוד 30 דקות</string>
+  <string id="20148">כיבוי בעוד 60 דקות</string>
+  <string id="20149">כיבוי בעוד 120 דקות</string>
+  <string id="20150">טיימר כיבוי בהתאמה אישית</string>
+  <string id="20151">בטל טיימר כיבוי</string>
+  <string id="20152">שם משתמש וסיסמה עבור %s</string>
+  <string id="20153">דפדף...</string>
+  <string id="20154">מידע בסיסי</string>
+  <string id="20155">פרטי אחסון</string>
+  <string id="20156">פרטי דיסק קשיח</string>
+  <string id="20157">פרטי DVD-ROM</string>
+  <string id="20158">פרטי רשת</string>
+  <string id="20159">פרטי וידאו</string>
+  <string id="20160">פרטי חומרה</string>
+  <string id="20161">סה"כ</string>
+  <string id="20162">נוצל</string>
+  <string id="20163">מתוך</string>
+  <string id="20164">אין תמיכה בנעילה</string>
+  <string id="20165">לא נעול</string>
+  <string id="20166">נעול</string>
+  <string id="20167">קפוא</string>
+  <string id="20168">דרוש איפוס</string>
+  <string id="20169">שבוע</string>
+  <string id="20170">שורה</string>
+  <string id="20171">רשת Windows (SMB)</string>
+  <string id="20172">שרת XBMSP</string>
+  <string id="20173">שרת FTP</string>
+  <string id="20174">מאגר מוסיקה משותף של iTunes ‏(DAAP)</string>
+  <string id="20175">שרת UPnP</string>
+  <string id="20176">הצג פרטי וידאו</string>
+  <string id="20177">בוצע</string>
+  <string id="20178">Shift</string>
+  <string id="20179">Caps Lock</string>
+  <string id="20180">סמלים</string>
+  <string id="20181">Backspace</string>
+  <string id="20182">רווח</string>
+  <string id="20183">טען מחדש מעטפת</string>
+  <string id="20184">סובב בעזרת פרטי EXIF</string>
+  <string id="20185">השתמש בז'אנרים/תצוגת כרזה עבור תוכניות TV</string>
+  <string id="20186">נא המתן</string>
+  <string id="20187">מתבצע גיבוי EEPROM</string>
+  <string id="20188">מתבצע גיבוי BIOS</string>
+  <string id="20189">הפעל גלילה אוטו' של עלילה וביקורות</string>
+  <string id="20190">התאמה אישית</string>
+  <string id="20191">אפשר רישום ביומן של תיקון באגים</string>
+  <string id="20192">הורד פרטים נוספים על עדכוני ספרייה</string>
+  <string id="20193"></string>
+  <string id="20194">מלקט ברירת מחדל</string>
+  <string id="20195">החלף מלקט</string>
+  <string id="20196">ייצא ספריית מוסיקה</string>
+  <string id="20197">ייבא ספריית מוסיקה</string>
+  <string id="20198">לא נמצא אמן!</string>
+  <string id="20199">נכשלה הורדת פרטי האמן</string>
+
+  <!-- string id's 20200 thru 20211 are reserved for speedstrings (LocalizeStrings.cpp)-->
+  
+  <string id="20250">Party on! (סרטי וידאו)</string>
+  <string id="20251">Mixing drinks (videos)</string>
+  <string id="20252">Filling glasses (videos)</string>
+  <string id="20253">הפעל אלבום מחדש</string>
+  <string id="20254">הגדרות מזג אוויר...</string>
+
+  <string id="20300">ספריית שרת האינטרנט (HTTP)</string>
+  <string id="20301">ספריית שרת האינטרנט (HTTPS)</string>
+  <string id="20302">אין אפשרות לכתוב בתיקייה.</string>
+  <string id="20303">האם ברצונך לדלג ולהמשיך?</string>
+  <string id="20304">עדכון RSS</string>
+  <string id="20305"></string>
+
+  <string id="20306">לא ידוע. הוסף MD5 מ-xbmc.log ל-BiosIDs.ini.</string>
+  <string id="20307">DNS משני</string>
+  <string id="20308">שרת DHCP:</string>
+  <string id="20309">צור תיקייה חדשה</string>
+  <string id="20310">עמעם LCD בעת השמעה</string>
+  <string id="20311">לא ידוע או מוגן (פנימי)</string>
+  <string id="20312">עמעם LCD בעת השהיה</string>
+  <string id="20313">הפעל נורית מחדש בעת השהיה</string>
+  <string id="20314">וידאו - ספרייה</string>
+  <string id="20315">שמירות משחקים</string>
+  <string id="20316">מיין לפי: זיהוי</string>
+  <string id="20317">Download saves</string>
+  <string id="20318">שמור משחק המותקן ב-HDD</string>
+  <string id="20319">נכשלה הורדת שמירת משחק</string>
+  <string id="20320">בחר שמירת משחק להורדה והתקן</string>
+  <string id="20321">לא נמצאה שמירה מקוונת עבור המשחק שצוין</string>
+  <string id="20322">עבור של שמירת המשחק</string>
+  <string id="20323">שמירות משחקים</string>
+  <string id="20324">הפעל חלק...</string>
+  <string id="20325">איפוס הכיול</string>
+  <string id="20326">פעולה זו תאפס את ערכי הכיול של %s</string>
+  <string id="20327">בחזרה לערכי ברירת המחדל.</string>
+  <string id="20328">חפש יעד</string>
+  <string id="20329"></string>
+  <string id="20330">השתמש בשמות תיקיות לחיפוש</string>
+  <string id="20331">קובץ</string>
+  <string id="20332">להשתמש בשמות קבצים או תיקיות בחיפוש?</string>
+  <string id="20333">הגדר תוכן</string>
+  <string id="20334">תיקייה</string>
+  <string id="20335">לחפש תוכן באופן רקורסיבי?</string>
+  <string id="20336">בטל נעילת מקורות</string>
+  <string id="20337">שחקן</string>
+  <string id="20338">סרט</string>
+  <string id="20339">במאי</string>
+  <string id="20340">האם ברצונך להסיר את כל הפריטים</string>
+  <string id="20341">הכלולים בנתיב זה מהספרייה?</string>
+  <string id="20342">סרטים</string>
+  <string id="20343">תוכניות</string>
+  <string id="20344">ספרייה זו מכילה</string>
+  <string id="20345">הרץ סריקה אוטומטית</string>
+  <string id="20346">סרוק באופן רקורסיבי</string>
+  <string id="20347">as</string>
+  <string id="20348">במאים</string>
+  <string id="20349">לא נמצאו קבצי וידאו בנתיב זה!</string>
+  <string id="20350">קולות</string>
+  <string id="20351">פרטי תוכנית TV</string>
+  <string id="20352">פרטי פרק</string>
+  <string id="20353">טוען פרטי תוכנית TV</string>
+  <string id="20354">אוסף מדריך פרקים</string>
+  <string id="20355">טוען פרטי פרקים בספרייה</string>
+  <string id="20356">בחר תוכנית TV:</string>
+  <string id="20357">הזן שם תוכנית TV:</string>
+  <string id="20358">עונה %i</string>
+  <string id="20359">פרק</string>
+  <string id="20360">פרקים</string>
+  <string id="20361">טוען פרטי פרק</string>
+  <string id="20362">הסר את הפרק מהספרייה</string>
+  <string id="20363">הסר את תוכנית ה-TV מהספרייה</string>
+  <string id="20364">תוכנית TV</string>
+  <string id="20365">עלילת הפרק</string>
+  <string id="20366">* כל העונות</string>
+  <string id="20367">הסתר פרקים שנצפו</string>
+  <string id="20368">קוד הפקה</string>
+  <string id="20369">הסתר עלילות פריטים שלא נצפו</string>
+  <string id="20370">* הסתר כדי למנוע ספוילרים *</string>
+  <string id="20371">הגדר תמ' ממוזערת לעונה</string>
+  <string id="20372">תמונת העונה</string>
+  <string id="20373">עונה</string>
+  <string id="20374">מוריד פרטי סרט</string>
+  <string id="20375">בטל שיוך תוכן</string>
+  <string id="20376"></string>
+  <string id="20377">רענן פרטי תוכנית TV</string>
+  <string id="20378">לרענן עבור כל הפרקים?</string>
+  <string id="20379">התיקייה שנבחרה מכילה תוכנית TV אחת</string>
+  <string id="20380">אל תכלול את התיקיות שנבחרו בסריקות</string>
+  <string id="20381">ספיישלים</string>
+  <string id="20382"></string>
+  <string id="20383">התיקייה שנבחרה מכילה סרט וידאו אחד</string>
+  <string id="20384">קשר לתוכנית TV</string>
+  <string id="20385">הסר קישור לתוכנית TV</string>
+  <string id="20386">סרטים אחרונים שנוספו</string>
+  <string id="20387">פרקים אחרונים שנוספו</string>
+  <string id="20388">אולפנים</string>
+  <string id="20389">קליפים מוסיקליים</string>
+  <string id="20390">קליפים מוסיקליים אחרונים שנוספו</string>
+  <string id="20391">קליפ מוסיקלי</string>
+  <string id="20392">הסר קליפ מוסיקלי מהספרייה</string>
+  <string id="20393">פרטי קליפ מוסיקלי</string>
+  <string id="20394">טוען פרטי קליפ מוסיקלי</string>
+  <string id="20395">מעורבב</string>
+  <string id="20396">עבור לאלבומים לפי אמן</string>
+  <string id="20397">עבור לאלבום</string>
+  <string id="20398">נגן שיר</string>
+  <string id="20399">עבור לקליפים מוסיקליים מאלבום</string>
+  <string id="20400">עבור לקליפים מוסיקליים לפי אמן</string>
+  <string id="20401">הפעל קליפ מוסיקלי</string>
+  <string id="20402"></string>
+  <string id="20403">הגדר תמ' ממוזערת של שחקן</string>
+  <string id="20404"></string>
+  <string id="20405">הסר סימניית פרק</string>
+  <string id="20406">הגדר סימניית פרק</string>
+  <string id="20407">הגדרות מלקט</string>
+  <string id="20408">מוריד פרטי קליפ מוסיקלי</string>
+  <string id="20409">מוריד פרטי תוכנית TV</string>
+  <string id="20410">טריילר</string>
+  <string id="20411">שטח</string>
+  <string id="20412">הסתר נתוני תוכנית</string>
+  <string id="20413">אסוף פנארט</string>
+  <string id="20414">הצג בספריות פנארט וידאו ומוסיקה</string>
+  <string id="20415">סורק לאיתור תוכן חדש</string>
+  <string id="20416">הופץ לראשונה</string>
+  <string id="20417">כותב</string>
+  <string id="20418">נקה שמות קובץ ותיקייה</string>
+  <string id="20419"></string>
+  <string id="20420">אף פעם</string>
+  <string id="20421">אם עונה אחת בלבד</string>
+  <string id="20422">תמיד</string>
+  <string id="20423">יש טריילר</string>
+  <string id="20424">False</string>
+  <string id="20425">הצגת שקופיות של פנארט</string>
+  <string id="20426">האם לייצא לקובץ יחיד או לקבצים</string>
+  <string id="20427">קבצים לרשומה?</string>
+  <string id="20428">קובץ יחיד</string>
+  <string id="20429">הפרד</string>
+  <string id="20430">לייצא תמ' ממוזערות ו-fanart?</string>
+  <string id="20431">להחליף קבצים ישנים?</string>
+  <string id="20432">אל תכלול נתיב בעדכוני ספרייה</string> 
+  <string id="20433">שלוף פרטי מטא-נתונים של מדיה</string>
+  <string id="20434">Sets</string>
+  <string id="20435">אקסטרות</string>
+  
+  <!-- up to 21329 is reserved for the video db !! !-->
+
+  <string id="21330">הצג קבצים וספריות מוסתרים</string>
+  
+  <string id="21331">לקוח TuxBox</string>
+  <string id="21332">אזהרה: התקן TuxBox המיועד במצב הקלטה!</string>
+  <string id="21333">הזרמת הנתונים תיעצר!</string>
+  <string id="21334">המעבר לערוץ: %s failed!</string>
+  <string id="21335">האם ברצונך להפעיל את ההזרמה?</string>
+  <string id="21336">מתחבר אל: %s</string>
+  <string id="21337">התקן TuxBox</string>
+  <!-- up to 21355 is reserved for the TuxBox Client!! !-->
+  
+  <string id="21356">מוסיקה של UPnP</string>
+  <string id="21357">וידאו של UPnP</string>
+  <string id="21358">תמונות של UPnP</string>
+  <string id="21359">הוסף מאגר מדיה משותף...</string>
+  <string id="21360">הפעל שרת UPnP</string>
+  <string id="21361">נהל מאגרי מוסיקה משותפים של UPnP</string>
+  <string id="21362">נהל מאגרי וידאו משותפים של UPnP</string>
+  <string id="21363">נהל מאגרי תמונות משותפים של UPnP</string>
+  <string id="21364">ערוך מאגר מדיה משותף</string>
+  <string id="21365">הסר מאגר מדיה משותף</string>
+  <string id="21366">ספריית כתוביות מותאמת אישית</string>
+  <string id="21367">ספריית סרטים וכתוביות חלופית</string>
+  
+  <string id="21369">הפעל עכבר</string>
+  <string id="21370">השמע צלילי ניווט בעת הפעלת מדיה</string>
+  <string id="21371">תמונה ממוזערת</string>
+  <string id="21372">אזור נגן DVD כפוי</string>
+  <string id="21373">חומרת וידאו</string>
+  <string id="21374">יחס וידאו</string>
+  <string id="21375">רגיל</string>
+  <string id="21376">תיבת מ כתבים</string>
+  <string id="21377">מסך רחב</string>
+  <string id="21378">הפעל ‎480p</string>
+  <string id="21379">הפעל ‎720p</string>
+  <string id="21380">הפעל ‎1080i</string>
+  <string id="21381">הזן שם רשימת השמעה חדשה</string>
+  <string id="21382">השבת לחצני 'הוסף מקור' ברשימות קבצים</string>
+  <string id="21383">הפעל פסי גלילה</string>
+  <string id="21384">הפוך סינון 'נצפו' למתג בספריית הווידאו</string>
+  <string id="21385">פתח</string>
+  <string id="21386">רמת ניהול אקוסטיקה</string>
+  <string id="21387">מהיר</string>
+  <string id="21388">שקט</string>
+  <string id="21389">הפעל רקע בהתאמה אישית</string>  
+  <string id="21390">רמת ניהול צריכת אנרגיה</string>
+  <string id="21391">צריכה גבוהה</string>
+  <string id="21392">צריכה נמוכה</string>
+  <string id="21393">צריכה גבוהה - המתנה</string>
+  <string id="21394">צריכה נמוכה - המתנה</string>
+  <string id="21395">אין אפשרות לשמור במטמון קבצים גדולים מ-‎4GB</string>
+  <string id="21396">פרק</string>
+  <string id="21397">צובע פיקסלים באיכות גבוהה v2</string>
+  <string id="21398">הפעל רשימת השמעה באתחול</string>
+  <string id="21399">השתמש בהנפשות Tween</string>
+  <string id="21400">מכיל</string>
+  <string id="21401">לא מכיל</string>
+  <string id="21402">הינו</string>
+  <string id="21403">אינו</string>
+  <string id="21404">מתחיל ב</string>
+  <string id="21405">מסתיים ב</string>
+  <string id="21406">גדול מ</string>
+  <string id="21407">קטן מ</string>
+  <string id="21408">אחרי</string>
+  <string id="21409">לפני</string>
+  <string id="21410">באחרון</string>
+  <string id="21411">לא באחרון</string>
+  <string id="21412">מלקטים</string>
+  <string id="21413">ברירת מחדל של מלקט סרטים</string>
+  <string id="21414">ברירת מחדל של מלקט תוכניות TV</string>
+  <string id="21415">ברירת מחדל למלקט קליפים מוסיקליים</string>
+  <string id="21416">אפשר נתוני בסיס לפי שפת מלקט</string>
+  <string id="21417">- הגדרות מלקט</string>
+  <string id="21418">רב-לשוני</string>
+  <string id="21419">פרקים</string>
+
+  <string id="21420">ערך תואם</string>
+  <string id="21421">כלל רשימת השמעה חכמה</string>
+  <string id="21422">התאם פריטים כאשר</string>
+  <string id="21423">כלל חדש...</string>
+  <string id="21424">הפריטים חייבים לתאום את</string>
+  <string id="21425">כל הכללים</string>
+  <string id="21426">לפחות כלל אחד</string>
+  <string id="21427">הגבל ל</string>
+  <string id="21428">ללא הגבלה</string>
+  <string id="21429">סדר לפי</string>
+  <string id="21430">סדר עולה</string>
+  <string id="21431">סדר יורד</string>
+  <string id="21432">ערוך רשימת השמעה חכמה</string>
+  <string id="21433">שם רשימת ההשמעה</string>
+  <string id="21434">חפש פריטים כאשר</string>
+  <string id="21435">ערוך</string>
+  <string id="21436">%i פריטים</string>
+  <string id="21437">רשימת השמעה חכמה חדשה...</string>
+  <string id="21438">כונן %c</string>
+  <string id="21439">ערוך כללי מצב מסיבה</string>
+  <string id="21440">תיקיית הבית</string>
+  <string id="21441">ספירת פריטים שנצפו</string>
+  <string id="21442">כותרת הפרק</string>
+  <string id="21443">רזולוציית וידאו</string>
+  <string id="21444">ערוצי שמע</string>
+  <string id="21445">רכיב קודק של וידאו</string>
+  <string id="21446">רכיב קודק של שמע</string>
+  <string id="21447">שפת שמע</string>
+  <string id="21448">שפת כתובית</string>
+  <string id="21449">שלט רחוק שולח הקשות מקלדת</string>
+  <string id="21450">כותרות</string>
+
+  <string id="21800">שם קובץ</string>
+  <string id="21801">נתיב קובץ</string>
+  <string id="21802">גודל קובץ</string>
+  <string id="21803">תאריך/שעת קובץ</string>
+  <string id="21804">מפתח שקופיות</string>
+  <string id="21805">רזולוציה</string>
+  <string id="21806">הערה</string>
+  <string id="21807">צבע/שחור-לבן</string>
+  <string id="21808">תהליך JPEG</string>
+
+  <string id="21820">תאריך/שעה</string>
+  <string id="21821">תיאור</string>
+  <string id="21822">יצרן המצלמה</string>
+  <string id="21823">דגם המצלמה</string>
+  <string id="21824">הערת EXIF</string>
+  <string id="21825">קושחה</string>
+  <string id="21826">צמצם</string>
+  <string id="21827">אורך מוקד</string>
+  <string id="21828">מרחק מוקד</string>
+  <string id="21829">חשיפה</string>
+  <string id="21830">זמן חשיפה</string>
+  <string id="21831">הטיית חשיפה</string>
+  <string id="21832">מצב חשיפה</string>
+  <string id="21833">עם מבזק</string>
+  <string id="21834">איזון לבן</string>
+  <string id="21835">מקור אור</string>
+  <string id="21836">Metering mode</string>
+  <string id="21837">ISO</string>
+  <string id="21838">זום דיגיטלי</string>
+  <string id="21839">רוחב CCD</string>
+  <string id="21840">קו רוחב לפי GPS</string>
+  <string id="21841">קו אורך לפי GPS</string>
+  <string id="21842">גבוה לפי GPS</string>
+  <string id="21843">כיוון</string>
+
+  <string id="21860">קטגוריות נוספות</string>
+  <string id="21861">מילות מפתח</string>
+  <string id="21862">כותרת</string>
+  <string id="21863">מחבר</string>
+  <string id="21864">כותרת ראשית</string>
+  <string id="21865">הוראות מיוחדות</string>
+  <string id="21866">קטגוריה</string>
+  <string id="21867">כותרת משנה</string>
+  <string id="21868">טקסט כותרת משנה</string>
+  <string id="21869">קרדיט</string>
+  <string id="21870">מקור</string>
+  <string id="21871">הודעות זכויות יוצרים</string>
+  <string id="21872">שם אובייקט</string>
+  <string id="21873">עיר</string>
+  <string id="21874">מחוז</string>
+  <string id="21875">מדינה</string>
+  <string id="21876">Original Tx Reference</string>
+  <string id="21877">תאריך יצירה</string>
+  <string id="21878">Copyright flag</string>
+  <string id="21879">קוד מדינה</string>
+  <string id="21880">Reference service</string>
+  <string id="21881">הפעל מעבד UPnP</string>
+  <string id="21882">נסה לדלג על הקדמה לפני תפריט DVD</string>
+  <string id="21883">תקליטורי שמע שהועתקו</string>
+  <string id="21884">תשאל מידע עבור כל האמנים</string>
+  <string id="21885">מוריד פרטי אלבום</string>
+  <string id="21886">מוריד פרטי אמן</string>
+  <string id="21887">ביוגרפיה</string>
+  <string id="21888">דיסקוגרפיה</string>
+  <string id="21889">מחפש אמן</string>
+  <string id="21890">בחר אמן</string>
+  <string id="21891">פרטי אמן</string>
+  <string id="21892">כלים</string>
+  <string id="21893">נולד</string>
+  <string id="21894">Formed</string>
+  <string id="21895">נושאים</string>
+  <string id="21896">התפרק</string>
+  <string id="21897">נפטר</string>
+  <string id="21898">שנות פעילות</string>
+  <string id="21899">לייבל</string>
+  <string id="21900">נולד/הוקם</string>
+ 
+  <!-- strings 21900 thru 21999 reserved for slideshow info -->
+
+  <string id="22000">עדכן ספרייה באתחול</string>
+  <string id="22001">עדכן ספרייה ברקע תמיד</string>
+  <string id="22002">- סיומת DNS</string>
+  <string id="22003">Enable edit and decision lists</string>
+  <string id="22004">השהיה של: %2.3fs</string>
+  <string id="22005">מקדים ב: %2.3fs</string>
+  <string id="22006">היסט כתוביות</string>
+  <string id="22007">ספק OpenGL:</string>
+  <string id="22008">מעבד OpenGL:</string>
+  <string id="22009">גרסת OpenGL:</string>
+  <string id="22010">טמפרטורת GPU:</string>
+  <string id="22011">טמפרטורת CPU:</string>
+  <string id="22012">סה"כ זיכון</string>
+  <string id="22013">נתוני פרופיל</string>
+  <string id="22014">עמעם בהשהיה בעת הפעלת וידאו</string>
+  <string id="22015">הכל ההקלטות</string>
+  <string id="22016">לפי כותר</string>
+  <string id="22017">לפי קבוצה</string>
+  <string id="22018">ערוצים חיים</string>
+  <string id="22019">הקלטות לפי כותר</string>
+  <string id="22020">מדריך</string>
+  <string id="22021">שגיאה מותרת ביחס גובה-רוחב (%)</string>
+  <string id="22022">כלול קבצי וידאו ברשימות</string>
+
+  <!-- strings 22030 thru 22060 reserved for karaoke -->
+  <string id="22030">גופן</string>
+  <string id="22031">גודל גופן בכתוביות</string>
+  <string id="22032">צבע גופן בכתוביות</string>
+  <string id="22033">מערך תווים לגופן כתוביות</string>
+  <string id="22034">ייצא כותרי קריוקי כ-HTML</string>
+  <string id="22035">ייצא כותרי קריוקי כ-CSV</string>
+  <string id="22036">ייבא כותרי קריוקי...</string>
+  <string id="22037">בורר שירים מוקפץ אוטו'</string>
+  <string id="22038">ייצא כותרי קריוקי...</string>
+  <string id="22039">הזן מספר שיר</string>
+  <string id="22040">לבן/ירוק</string>
+  <string id="22041">לבן/אדום</string>
+  <string id="22042">לבן/כחול</string>
+  <string id="22043">שחור/לבן</string>
+
+  <string id="23000">פלאג-אין של תחזית</string>
+  <string id="23001">- הגדות פלאג-אין</string>
+
+  <string id="23050">הפעל טלטקסט</string>
+
+  <!-- strings 23100 thru 23150 reserved for external player -->
+  <string id="23100">נגן חיצוני פעיל</string>
+  <string id="23101">לחץ על 'אישור' כדי לסגור את הנגן</string>
+  <string id="23102"></string>
+  <string id="23103"></string>
+  <string id="23104">לחץ על 'אישור' בסיום ההשמעה</string>
+  <string id="23105"></string>
+  <string id="23106"></string>
+
+  <!-- strings 29800 thru 29998 reserved strings used only in the default Project Mayhem III skin and not c++ code -->
+  <string id="29800">מצב ספרייהמצב</string>
+  <string id="29801">מקלדת QWERTY</string>
+  <string id="29802">Passthrough Audio בשימוש</string>
+  
+  <string id="29999">החל סינון הבהוב על משחקים</string>
+
+  <!-- strings 30000 thru 30999 reserved for plugins and plugin settings -->
+  <!-- strings 31000 thru 31999 reserved for skins -->
+  <!-- strings 32000 thru 32999 reserved for scripts -->
+  
+  <!-- strings 33000 thru 33999 reserved for common strings used in addons -->
+  <string id="33001">איכות טריילר</string>
+  <string id="33002">הזרמה</string>
+  <string id="33003">הורד</string>
+  <string id="33004">הורד ושחק</string>
+  <string id="33005">הורד ושמור</string>
+  <string id="33006">היום</string>
+  <string id="33007">מחר</string>
+  <string id="33008">שומר</string>
+  <string id="33009">מעתיק</string>
+  <string id="33010">הגדר תיקיית הורדה</string>
+  <string id="30011">משך החיפוש</string>
+  <string id="33012">קצר</string>
+  <string id="33013">ארוך</string>
+  <string id="33014">השתמש בנגן DVD במקום בנגן רגיל</string>
+  <string id="33015">בקש הורדה לפני הפעלת וידאו</string>
+  <string id="33016">קליפים</string>
+  <string id="33017">הפעל את הפלאג-אין מחדש כדי לאפשר</string>
+  <string id="33018">הערב</string>
+  <string id="33019">מחר בערב</string>
+  <string id="33020">מצב</string>
+  <string id="33021">משקעים</string>
+  <string id="33022">משקע'</string>
+  <string id="33023">לח</string>
+  <string id="33024">תחושה של</string>
+  <string id="33025">נצפה</string>
+  <string id="33026">חריגה מהרגיל</string>
+  <string id="33027">זריחה</string>
+  <string id="33028">שקיעה</string>
+  <string id="33029">פרטים</string>
+  <string id="33030">תשקיף</string>
+  <string id="33031">Coverflow</string>
+  <string id="33032">תרגם טקסט</string>
+  <string id="33033">Map list %s category</string>
+  <string id="33034">36 שעות</string>
+  <string id="33035">מפות</string>
+  <string id="33036">מדי שעה</string>
+  <string id="33037">סוף שבוע</string>
+  <string id="33038">%s day</string>
+  <string id="33049">התרעה</string>
+  <string id="33050">התרעות</string>
+  <string id="33051">בחר את</string>
+  <string id="33052">בדוק</string>
+  <string id="33053">הגדר את</string>
+  <string id="33054">עונות</string>
+  <string id="33055">השתמש ב</string>
+  <string id="33056">צפה ב</string>
+  <string id="33057">האזן ל</string>
+  <string id="33058">הצג את</string>
+  <string id="33059">הגדר את</string>
+  <string id="33060">צריכת אנרגיה</string>
+  <string id="33061">תפריט</string>
+  <string id="33062">הפעל את</string>
+  <string id="33063">אפשרויות</string>
+  <string id="33065">עורך</string>
+  <string id="33066">אודות</string>
+  <string id="33067">דירוג כוכבים</string>
+  <string id="33068">רקע</string>
+  <string id="33069">סוגי רקע</string>
+  <string id="33070">רקע בהתאמה אישית</string>
+  <string id="33071">סוגי רקע בהתאמה אישית</string>
+  <string id="33072">הצג קובץ Readme</string>
+  <string id="33073">הצג יומן שינויים</string>
+  <string id="33074">להפעלת גרסה זו של %s דרוש</string>
+  <string id="33075">XBMC במהדורה %s ומעלה.</string>
+  <string id="33076">עדכן את XBMC.</string>
+  <string id="33077">לא נמצאו נתונים!</string>
+  <string id="33078">הדף הבא</string>
+
+  <!-- strings 50000+ are reserved for Boxee -->
+  <string id="50000">הוסף חדש...</string>
+  <string id="50001">הגדרת הרשת נכשלה.</string>
+  <string id="50002">ודא שההגדרות נכונות ונסה שוב.</string>
+  <string id="50003">תצורת הרשת הוגדרה בהצלחה.</string>
+  <string id="50004">עם זאת, אין כרגע חיבור לאינטרנט.</string>
+  <string id="50005">תוכן מקומי</string>
+  <string id="50006">לא נמצאו קבצים במקור</string>
+  <string id="50007">לא נמצאו התקנים</string>
+  <string id="50008">פורמט מסך וסריקת יתר</string>
+  <string id="50009">שחזר ברירת מחדל</string>
+  <string id="50010">סריקת יתר</string>
+  <string id="50011">יחס גובה-רוחב</string>
+  <string id="50012">מתקדם</string>
+  <string id="50013">האם אתה בטוח שברצונך לכבות את Boxee?</string>
+  <string id="51000">שם</string>
+  <string id="51001">תאריך</string>
+  <string id="51002">מדיה באינטרנט</string>
+  <string id="51003">טוען...</string>
+  <string id="51004">מקורות חסרים</string>
+  <string id="51005">לא הוגדרו מקורות למדיה.</string>
+  <string id="51006">האם ברצונך להגדיר אותם כעת?</string>
+  <string id="51007">הוצא</string>
+  <string id="51008">עצור</string>
+  <string id="51009">הפעל</string>
+  <string id="51010">דפדף</string>
+  <!--string id="51010">Can't get boxee feed</string-->
+  <string id="51011">כונן DVD</string>
+
+  <string id="51012">חברים (טוען)</string>
+  <string id="51013">חברים (%d)</string>
+  <string id="51014">קריאת עדכון RSS נכשלה</string>
+  <string id="51015">בדוק את חיבור הכבלים וודא שהמקלט/TV אינם מושתקים.</string>
+  <string id="51016">אם אינך מצליח לשמוע, בדוק את דף פתרון הבעיות בדף boxee.tv/troubleshooting.</string>
+  <string id="51018">מפתח רשת יכול להכיל</string>
+  <string id="51019">תווים הקסדצימליים בלבד</string>
+  <string id="51020">מקור מדיה</string>
+  <string id="51021">האם אתה בטוח שברצונך למחוק:</string>
+  <string id="51022">מקור וידאו</string>
+  <string id="51023">מקור מוסיקה</string>
+  <string id="51024">מקור תמונות</string>
+  <string id="51025">האם אתה בטוח שברצונך למחוק מקור זה?</string>
+  <string id="51026">מתחיל בהורדה...</string>
+  <string id="51027">הורד</string>
+  <string id="51028">להוסיף את פריט ההורדה לתור?</string>
+  <string id="51029">פריט הורדה זה קיים</string>
+  <string id="51030">פריט הורדה זה כבר נמצא בתור</string>
+  <string id="51031">להחליף את פריט ההורדה הקיים?</string>
+  <string id="51032">בחר הכל</string>
+  <string id="51033">משתף...</string>
+  <string id="51034">דירוג...</string>
+  <string id="51035">כבר קיים מקור בעל שם זהה</string>
+  <string id="51036">שם של מקור לא יכול להיות ריק</string>
+  <string id="51037">Boxee יסרוק [B]%s[/B]</string>
+  <string id="51038">מקור המדיה עודכן בהצלחה</string>
+  <string id="51039">מקור המדיה נמחק בהצלחה</string>
+  <string id="51040">חובה לבחור לפחות סוג מדיה אחד</string>
+  <string id="51041">נתיב של מקור לא יכול להיות ריק</string>
+  <string id="51042">חובה לבחור לפחות סוג סריקה אחד</string>
+  <string id="51043">מקור המדיה ייסרק מחדש</string>
+  <string id="51044">הזן IP / שם באופן ידני...</string>
+  <string id="51045">סריקת האלבום מתבצעת...</string>
+  <string id="51046">Boxee סורק כרגע את %s</string>
+  <string id="51047">%d פריטים נמצאו ב%s.</string>
+  <string id="51048">[CR]Boxee ינסה לזהות אותם.</string>
+  
+  <string id="51050">כניסה</string>
+  <string id="51051">אין באפשרות Boxee להתחבר לאינטרנט.</string>
+  <string id="51052">תוכל להמשיך להשתמש ב-Boxee אך חלק מהתכונות</string>
+  <string id="51053">יהיו בלתי זמינות.</string>
+  <string id="51054">החיבור לאינטרנט לא זמין.</string>
+  <string id="51055">לא ניתן להוסיף משתמש חדש...</string>
+  <string id="51056">בדוק את החיבור לאינטרנט.</string>
+  <string id="51057">--------------------------------------</string>
+  <string id="51058">שדה שם המשתמש ריק.</string>
+  <string id="51059">שדה הסיסמה ריק.</string>
+  <string id="51070">חזרה</string>
+  <string id="51075">הכניסה למערכת נכשלה.</string>
+  <string id="51100">פעולה</string>
+  <string id="51101">הרפתקה</string>
+  <string id="51102">הנפשה</string>
+  <string id="51103">ביוגרפיה</string>
+  <string id="51104">קומדיה</string>
+  <string id="51105">פשע</string>
+  <string id="51106">תיעודי</string>
+  <string id="51107">דרמה</string>
+  <string id="51108">משפחה</string>
+  <string id="51109">פנטסיה</string>
+  <string id="51110">פילם נואר</string>
+  <string id="51111">תוכנית משחקים</string>
+  <string id="51112">הופעלו לאחרונה</string>
+  <string id="51113">אימה</string>
+  <string id="51114">מוסיקה</string>
+  <string id="51115">מחזמר</string>
+  <string id="51116">מסתורין</string>
+  <string id="51117">חדשות</string>
+  <string id="51118">תוכניות ריאליטי</string>
+  <string id="51119">אהבה</string>
+  <string id="51120">מדע בדיוני</string>
+  <string id="51121">קצר</string>
+  <string id="51122">ספורט</string>
+  <string id="51123">תוכנית אירוח</string>
+  <string id="51124">מתח</string>
+  <string id="51125">מלחמה</string>
+  <string id="51126">מערבון</string>
+  <!--  Views -->
+  <string id="51200">2 שורות</string>
+  <string id="51201">3 שורות</string>
+  <string id="51202">מפורט</string>
+  <string id="51203">שורה</string>
+
+  <!--  Protocols -->
+  <string id="51254">מקומי</string>
+
+  <!-- sources -->
+  <!--  <string id="51300">Settings / Media Sources / Local / Add New Source</string> -->
+  <string id="51300">הגדרות / מקורות מדיה / הוסף מקור חדש</string> 
+  <string id="51301">הגדרות / מקורות מדיה / רשת / הוסף מקור חדש</string>
+  <string id="51302">רשת</string>
+  <string id="51303">הגדרות / מקורות מדיה / יישומי רשת / הוסף מקור חדש</string>
+  <string id="51304">הגדרות / מקורות מדיה / הוספת מקורות ידנית / הוסף מקור חדש</string>
+  <string id="51350">נשלף</string>
+  <string id="51360">תיקיית הבית</string>
+  <string id="51361">סרטי וידאו לא מזוהים</string>
+  <string id="51362">תיקיות מקומיות ומיקומי רשת משותפים</string>
+  <string id="51363">ללא שם</string>
+    
+  <!-- browse screen labels -->
+  <string id="51400">המלצות</string>
+  <string id="51401">פעילות של חברים</string>
+  <string id="51402">נוספו לאחרונה</string>
+  <string id="51403">הופעלו לאחרונה</string>
+  <string id="51404">חברים</string>
+  <string id="51405">פעילות</string>
+  <string id="51406">המקורות שלי</string>
+  <string id="51407">אלבומים</string>
+  <string id="51408">אמנים</string>
+  <string id="51409">יישומים / מוסיקה</string>
+  <string id="51410">סרטי הווידאו שלי</string>
+  <string id="51411">יישומים / וידאו</string>
+  <string id="51412">התמונות שלי</string>
+  <string id="51413">יישומים / תמונות</string>
+  <string id="51414">לא מזוהה</string>
+  <string id="51415">יישומים</string>
+  <string id="51416">צפה בהמשך</string>
+  <string id="51500">Boxee</string>
+  <string id="51501">הפעלה</string>
+  <string id="51502">הפעל את Boxee בכניסה למערכת</string>
+  <string id="51503">הרץ את לקוח RTorrent בעת הפעלת Boxee</string>
+  <string id="51504">נטרל שלט</string>
+  <string id="51505">האם אתה בטוח שברצונך לנטרל את השלט של Appled?‏[CR]אם תלחץ על 'אישור', השלט יפסיק לפעול.</string>
+  <string id="51508">לחץ על %s כדי לחזור למסך מלא</string>
+  <string id="51509">הזן שם סרט...</string>
+  <string id="51510">מזהה...</string>
+  <string id="51511">הזן כותר אלבום ושם אמן, מופרדים בפסיק...</string>
+  <string id="51512">הזן כותרת סדרה, עונה ומספרי פרקים, מופרדים בפסיקים...</string>
+  <string id="51513">מאגרי מדיה משותפים</string>
+  <string id="51514">תיקייה זו אינה נמצאת בשום מאגר מדיה משותף</string>
+  <string id="51515">האלבום נוסף</string>
+  <string id="51516">סרט הווידאו נוסף</string>
+  <string id="51517">כותר הסרט</string>
+  <string id="51518">כותר תוכנית ה-TV עונה, פרק</string>
+  <string id="51519">אלבום, אמן</string>
+  <string id="51520">שגיאה</string>
+  <string id="51521">אין אפשרות להוסיף את הסרט.</string>
+  <string id="51522">אין אפשרות לקבל את פרטי הסרט</string>
+  <string id="51523">Enable IR Remote Server Suite remote support</string>
+  <string id="51524">הצג אפשרויות מוקפצות בסוף ההשמעה/הפעלה</string>
+  <string id="51525">תצוגה</string>
+  <string id="51526">צלילים</string>
+  <string id="51527">הגדרות אזוריות ושפה</string> 
+  <string id="51528">השמעה/הפעלה</string> 
+  <string id="51529">המחשה חזותית של מוסיקה</string> 
+  <string id="51530">סינון תוכן</string> 
+  <string id="51531">ממתין לסריקה</string> 
+  <string id="51532">סורק</string> 
+  <string id="51533">סריקה אחרונה %s</string> 
+  <string id="51534">[COLOR red]מנותק[/COLOR]</string> 
+  <string id="51535">מזהה</string>
+  <string id="51536">נמצא קובץ %d</string>
+  <string id="51537">נמצא קובץ %d. חסר זיהוי ב-%d</string>
+  <string id="51538">נמצאו %d קבצים</string>
+  <string id="51539">נמצאו %d קבצים. חסר זיהוי ב-%d</string>
+
+  <string id="51542">סרוק מחדש</string>
+  <string id="51543">המקור נסרק כרגע: %d פריטים נמצאו, %d פריטים זוהו, %d פריטים נותרו...</string>
+  <string id="51544">המקור כבר נסרק %s‏. %d פריטים זוהו, %d פריטים לא זוהו. האם ברצונך לקבוע מועד לסריקה נוספת?</string>
+  <string id="51545">המקור עדיין לא נסרק. האם ברצונך לסרוק אותו?</string>
+  <string id="51546"></string>
+  <string id="51547">האם ברצונך לתזמן סריקה נוספת לאיתור מקורות וידאו?</string>
+  
+  <string id="51548">ביטול</string>
+  
+  <string id="51550">מקורות קבצים</string> 
+  <string id="51551">מדיה</string> 
+  <string id="51552">אודות</string>
+  <string id="51553">הודעות משפטיות</string>
+
+  <string id="51555">לפני %d דקות</string>
+  <string id="51556">לפני %d שעות</string>
+  <string id="51557">לפני %d ימים</string>
+
+  <string id="51560">נקה פרטי מדיה</string>
+  <string id="51561">האם אתה בטוח שברצונך לנקות את פרטי המדיה מהספרייה?[CR](קבצי המדיה לא ייפגעו)</string>
+  <string id="51562">נקה תמונות ממוזערות ישנות</string>
+  <string id="51563">האם אתה בטוח שברצונך לנקות תמונות ממוזערות ישנות?[CR](קבצי המדיה לא ייפגעו)</string>
+  <string id="51564">[CR][COLOR red]שים לב: נדרש אתחול מחדש[/COLOR]</string>
+
+  <string id="51565">קבצים שלי</string>
+  <string id="51566">תכנים מהאינטרנט</string>
+  <string id="51567">לא בטוח</string>
+  <string id="51568">תוכל לשנות הגדרה זו בהמשך דרך[CR] הגדרות -&gt; כללי -&gt; תפריט</string>
+  <string id="51569">במה תצפה בעיקר?</string>
+  <string id="51570">יקל עליך לקבל גישה לסרטי הווידאו שאתה מרבה לצפות בהם Boxee.</string>
+  <string id="51571">סרוק מחדש מקורות מדיה</string>
+  <string id="51572">האם אתה בטוח שברצונך לסרוק מחדש את מקורות המדיה?</string>
+
+  <string id="51577">שחזר להגדרות ברירת המחדל...</string>
+  <string id="51578">שחזר להגדרות ברירת המחדל</string>
+  <string id="51579">האם אתה בטוח שברצונך לשחזר להגדרות ברירת המחדל?</string>
+
+  <string id="51582">[COLOR red][B][CR]שים לב: תידרש הפעלה מחדש.[/B][/COLOR]</string>
+  <string id="51583">הפעל מחדש</string>
+  <string id="51585">מפעיל מחדש</string>
+  <string id="51590">מדיה ששותפה על ידי חברים</string>
+
+  <!-- Error messages -->
+  <string id="51600">[B]שגיאה בטעינה[/B]</string>
+  <string id="51601">אין אפשרות לקבל גישה לקובץ, ספרייה או התקן.</string>
+  <string id="51602">המקור לא זמין</string>
+  <string id="51603">המשתמש כבר קיים</string>
+  <string id="51604">האם אתה בטוח שזה לא הסרט הנכון?</string>
+  <string id="51605">הנתיב לא זמין</string>
+  <string id="51606">לא נבחרו חברים</string>
+  <string id="51607">אין אפשרות להתחבר אל last.fm</string>
+  <string id="51608">ודא ששם המשתמש והסיסמה</string>
+  <string id="51609">הוגדרו כהלכה </string>
+  <string id="51610">ללא שינוי בעוצמת קול במצב אודיו דיגיטלי</string>
+  <string id="51611">הטעינה לא הסתיימה בזמן, ייתכן שיש עוד פריטים זמינים.</string>
+
+  <!-- Player Error messages -->
+  <string id="51670">סרט וידאו זה אינו תומך בפעולה זו</string>
+  <string id="51671">אין תמיכה בהשהיית הווידאו</string>
+  <string id="51672">אין תמיכה בחיפוש בתוך סרט וידאו זה</string>
+  <string id="51673">אין תמיכה בשינוי עוצמת קול בסרט וידאו זה</string>
+  <string id="51674">התבנית לא נתמכת או שהקובץ פגום.</string>
+  <string id="51675">מקור המדיה או הקובץ אינם זמינים.</string>
+  <string id="51676">שגיאת השמעה/הפעלה</string>
+  <string id="51677">סרט וידאו זה אינו זמין כרגע.</string>
+  <string id="51678">טוען...</string>
+  
+  <string id="51700">הגדרות-&gt;מקורות מדיה</string>
+  <string id="51701">ציין את המיקומים שבהם שמורים קבצי הווידאו, המוסיקה והתמונות שלך.[CR]‏Boxee יסרוק אוטומטית את התיקיות שצוינו כדי לאתר מדיה.</string>
+  <string id="51702">סרטי וידאו מקומיים</string>
+  <string id="51703">מוסיקה מקומית</string>
+  <string id="51704">תמונות מקומיות</string>
+
+  <!-- boxee_browse menu -->
+  <string id="51710">מיין</string>
+  <string id="51711">הצג</string>
+  <string id="51712">דפדף</string>
+  <string id="51713">מדיה מקומית</string>
+  <string id="51714">הוסף[CR]מקור</string>  
+  <string id="51715">חיפוש או URL</string>
+
+  <!-- boxee_friends_list -->
+  <string id="51720">הוסף / נהל</string>
+  
+  <!-- boxee_loading_media_dialog -->
+  <string id="51735">טוען מדיה. נא המתן.</string>
+    
+  <!-- boxee_logging_in -->
+  <string id="51740">מתחבר...</string>
+  
+  <!-- boxee_main_menu -->
+  <string id="51750">מה חדש</string>
+  <string id="51751">סרטי הווידאו שלי</string>
+  <string id="51752">סרטי וידאו באינטרנט</string>
+  <string id="51753">המוסיקה שלי</string>
+  <string id="51754">מוסיקה באינטרנט</string>
+  <string id="51755">התמונות שלי</string>
+  <string id="51756">תמונות באינטרנט</string>
+  <string id="51757">פרופיל</string>
+  <string id="51758">פריטי הורדה</string>
+  <string id="51759">CD/DVD</string>
+  <string id="51760">יציאה</string>
+  
+  <!-- boxee_media_source_list -->
+  <string id="51780">הגדרות / מקורות מדיה</string>
+  <string id="51781">תפריט</string>
+  <string id="51782">הוסף מקור חדש</string>
+  
+  <!-- boxee_media_action -->
+  <string id="51792">עוד</string>
+  <string id="51793">זהה</string>
+  <string id="51794">קליפים מוסיקליים</string>
+  <string id="51795">קליפים מוסיקליים של MTV</string>
+  <string id="51796">זהה (נתיב שאינו במקור)</string>
+    
+  <!-- boxee_media_info -->
+  <string id="51801">המלץ</string>
+  <string id="51816">חומר קריאה נוסף</string>
+  <string id="51817">דרג</string>
+  <string id="51818">דק'</string>
+  
+  <!-- boxee_media_source_add_folder -->
+  <string id="51840">בחר תיקייה ספציפית לניטור.</string>
+  
+  <!--boxee_media_source_add_share -->
+  <string id="51841">מאגרי רשת זמינים או התקנים מקומיים זמינים</string>
+  <string id="51842">סרוק מקורות מחדש</string>
+  
+  <!-- boxee_media_source_info -->
+  <string id="51845">בחר מיקום רשת או התקן אחסון מקומי מחובר.</string>
+  <string id="51846">שם מאגר</string>
+  <string id="51847">מיקום מאגר</string>
+  <string id="51848">סוג המדיה</string>
+  <string id="51849">אף פעם</string>
+  <string id="51850">הוסף/עדכן</string>
+  <string id="51851">ייתכן שתידרש הפעלה מחדש של Boxee כדיל החיל את השינויים.</string>
+  <string id="51852">סוג הסריקה</string>
+  <string id="51853">חד-פעמי</string>
+  <string id="51854">יומי</string>
+  <string id="51855">בתדירות גבוהה</string>
+  <string id="51856">מדי שעה</string>
+  <string id="51857">(לא תתבצע סריקה)</string>
+  
+  <!-- boxee_video_context -->
+  <string id="51860">פעיל</string>
+  <string id="51861">מושהה</string>
+  <string id="51862">x2</string>
+  <string id="51863">x4</string>  
+  <string id="51864">x8</string> 
+  <string id="51865">x16</string>  
+  <string id="51866">x32</string>
+  <string id="51867">הרץ קדימה</string>
+  <string id="51868">הרץ אחורה</string>
+  <string id="51869">מידע</string>
+
+  <!-- boxee_media_sources -->
+  <string id="51870">הוסף מקורות</string>
+  <string id="51871">הוסף מקורות ברשת</string>
+  <string id="51872">יישומי[CR]רשת</string>
+  <string id="51873">הוסף מקורות[CR]ידנית</string>
+  <string id="51874">קבצים לא מזוהים</string>
+  
+  <!-- boxee_music_context -->
+  <string id="51880">מילים</string>
+  
+  <!-- boxee_rate -->
+  <string id="51886">אוהב/ת!</string>
+  <string id="51887">לאאא...</string>
+  <string id="51888">לא אוהב/ת</string>
+  <string id="51889">זה בסדר</string>
+  <string id="51890">אוהב/ת</string>
+
+  <!-- boxee_user_logon -->
+  <string id="51891">שם משתמש</string>
+  <string id="51892">סיסמה</string>
+  <string id="51893">זכור את הסיסמה שלי</string>
+  <string id="51894">שם / כתובת IP של המארח</string>
+  <string id="51895">דוא"ל</string>
+  <string id="51896">אשר סיסמה</string>
+  <string id="51897">בחר[CR]סיסמה</string>
+  
+  <!-- boxee_wizard_network_manual -->
+  <string id="51898">שלב 03</string>
+  <string id="51899">הגדרת תצורה ידנית</string>
+  <string id="51900">רשום כתובת IP בשדות הבאים</string>
+  <string id="51901">כתובת IP</string>
+  <string id="51902">כתובת נתב</string>
+  <string id="51903">כתובת DNS</string>
+  <string id="51904">חזרה</string>
+  <string id="51905">השלב הבא</string>
+
+  <!-- boxee_wizard_add_source -->
+  <string id="51906">הגדרות-&gt;מקורות מדיה-&gt;הוסף מקור-&gt;</string>
+  <string id="51907">בחר מיקום רשת או התקן אחסון מקומי מחובר.[CR]לאחר בחירת ההתקן, בחר את תיקיית הפרופיל המבוקשת ותן לה שם.</string>
+  <string id="51908">מקומי</string>
+  
+  <!-- boxee_wizard_add_source_manual -->
+  <string id="51909">כתובת IP / שם מארח:</string>
+  
+  <!-- boxee_wizard_audio -->
+  <string id="51910">אשף השמע</string>
+  <string id="51911">שלב 02</string>
+  <string id="51912">בדיקה</string>
+  <string id="51913">בודק חיבורי שמע.[CR]נא המתן עד שהרמקולים ישמיעו מספר צלילים מוסיקליים.</string>
+  <string id="51914">אין סאונד? לחץ כאן.</string>
+  
+  <!-- boxee_wizard_network -->
+  <string id="51915">אשף הרשת</string>
+  <string id="51916">בחר אחת מהגדרות הרשת לחיבורי האינטרנט והרשת שלך.</string>
+  <string id="51917">סוג אימות:</string>
+  <string id="51918">סיים</string>
+  
+  <!-- boxee_wizard_resolution -->  
+  <string id="51919">אשף הזיהוי</string>
+  <string id="51920">שלב 01</string>
+  <string id="51921">במכשירי טלוויזיה מסוימים ניתן לשנות את רזולוציית המסך כדי להגדיל או להקטין את התמונות.</string>
+  <string id="51922">רזולוציה רגילה (SD)</string>
+  <string id="51923">רזולוציה גבוהה (HD)</string>
+  <string id="51924">כייל</string>
+
+  <!-- boxee_wizard_set_source_name -->
+  <string id="51925">אשר</string>
+  
+  <!-- boxee_browse_window -->
+  <string id="51926">[B]לא נמצאו תוצאות.[/B][CR]שים לב, שזמינות של תוכן תלויה באזור.[CR]ניתן לשנות הגדרות גיאוגרפיות תחת [COLOR yellow]הגדרות / מראה / אפשרויות תצוגה[/COLOR]</string>
+  <string id="51927">לא נמצאו תוצאות.[CR]חלק מהתוכן אינו זמין במצב לא מקוון.</string>
+
+  <!-- boxee_dialog_confirm -->
+  <string id="51928">חוזר לרזולוציה המקורית בעוד 6 שניות</string>
+  <string id="51929">לא נמצאו תוצאות.</string>
+
+  <!-- boxee home -->
+  <string id="51930">התוכן המומלץ יופיע שוב כאשר Boxee יוכל להתחבר לאינטרנט.</string>
+  
+  <!-- custom_boxee_credits -->
+  <string id="51937">רשימת קרדיטים</string>
+  <string id="51938">Boxee מבוסס על עבודתם מלאת ההשראה של הקבוצות והאנשים הבאים, שמאמציהם איפשרו את יצירת XBMC Media Center.</string>
+  
+  <!-- custom_boxee_settings -->
+  <string id="51941">עדכן</string>
+  <string id="51942">איפוס רך</string>
+  
+  <string id="51943">איפס קשיח</string>
+  <string id="51944">נקה פרטי מדיה מהספרייה (קבצי המדיה לא ייפגעו)...</string>
+  <string id="51945">Renetwork</string>
+  <string id="51946">הגדר תמונת רקע</string>
+  <string id="51947">הגדר תיקיית תמונות רקע</string>
+  <string id="51948">שמות מסכים ב-UI</string>
+  <string id="51949">תאריך גרסה</string>
+  <string id="51950">מידע</string>
+  <string id="51951">גרסת Boxee</string>
+  <string id="51952">סה"כ זיכרון</string>
+  <string id="51954">אחסון</string>
+  <string id="51955">מתוך</string>
+  <string id="51956">נקה תמונות ממוזערות ישנות (קבצי המדיה לא ייפגעו)...</string>
+  <string id="51957">אפס תמונת רקע</string>	
+  <string id="51958">התעלם מקידומות של תוכן מקומי במיון אלפביתי</string>
+
+  <string id="51959">מוריד עדכון.</string>
+  <string id="51960">פעולת Boxee תואט עד לסיום.</string>
+
+  <!-- dialog_button_menu -->
+  <string id="51964">מדיה מופעלת כרגע.[CR][CR]האם ברצונך להפעיל מחדש?</string>
+  <string id="51965">יציאה מהמערכת</string>
+
+  <!-- dialog_keyboard -->
+  <string id="51966">מקלדת וירטואלית</string>
+  <string id="51967">@</string>
+  
+  <!-- dialog_message -->
+  <string id="51968">בדוק את חיבור הכבלים וודא שהמקלט/TV אינם מושתקים.[CR]אם אינך מצליח לשמוע, בדוק את דף פתרון הבעיות בדף boxee.tv/troubleshooting</string>
+  
+  <!-- dialog_mute_bug -->
+  <string id="51969">השתק</string>
+  
+  <!-- dialog_numeric -->
+  <string id="51970">C</string>
+  <string id="51971">E</string>
+
+  <!-- dialog_plugin_settings -->
+  <string id="51972">הגדרות יישום</string>
+  <string id="51973">החל</string>
+
+  <!-- dialog_progress -->
+  <string id="51974">טוען... נא המתן.</string>
+  <string id="51998">טוען את העדכון שלך...רק עוד רגע!</string>
+  <string id="51999">העסכון ריק... הוסף חברים!</string>
+  <string id="52000">הרשת מנותקת...</string>
+  <string id="52001">הרשת מנותקת...</string>
+  <string id="52002">שרת Boxee לא זמין...</string>
+  <string id="52003">אשף ההגדרה</string>
+  
+  <!-- home -->
+  <string id="52004">ברוך הבא</string>
+  <string id="52005">מה חדש?</string>
+  <string id="52006">המלצות</string>
+  <string id="52007">פעילות של חברים</string>
+  <string id="52008">נוספו לאחרונה</string>
+  <string id="52009">הופעלו לאחרונה</string>
+  <string id="52010">טוען</string>
+  <string id="52011">לא מקוון</string>
+  <string id="52012">הצג הכל</string>
+  <string id="52013">מקוון!</string>
+  
+  <!-- music_osd -->
+  <string id="52015">מוסיקה OSD</string>
+  <string id="52016">היישום נוסף בהצלחה.[CR][CR]כעת תוכל למצוא אותו בספריית היישומים.</string>
+  <string id="52017">אין אפשרות להוסיף את [CR][COLOR green]%s[/COLOR].</string>
+  <string id="52018">אין אפשרות לשדרג את היישום.</string>
+  <string id="52019">האם ברצונך להסיר את העדכון שנבחר?</string>
+  <string id="52020">טעינת העדכון נכשלה.</string>
+  <string id="52021">הגדרות תצוגה והפעלת וידאו</string>
+  <string id="52022">נגיעת מוסיקה והגדרות רדיו-אינטרנט</string>
+  <string id="52023">הגדרות הצגת שקופיות</string>
+  <string id="52024">הגדרות הקשורות ברשת</string>
+  <string id="52025">הגדרות מראה ותחושה והגדרות אזוריות</string>
+  <string id="52026">הגדרות חומרה ומערכת</string>
+  <string id="52027">זהה התקני אחסון מקומיים וברשת והתחבר אליהם</string>
+  <string id="52028">הפעל אשף הגדרות ראשוניות</string>
+  <string id="52029">כלך מיני...</string>
+  <string id="52030">גלה מי מאחורי התוכנה הנחמדת הזאת :)</string>
+  <string id="52031">בחר מהרשימה את היישום שברצונך להגדיר/לשנות.</string>
+  <string id="52032">מקורות מדיה</string>
+  <string id="52033">יישומים</string>
+  <string id="52034">נהל את היישומים שלך והוסף חדשים</string>
+  <string id="52035">הזן URL של המאגר</string>
+  <string id="52036">אין אפשרות לקבל פרטי מאגר. ודא שה-URL נכון ונסה שוב.</string>
+  <string id="52037">האם ברצונך להסיר את המאגר [CR][COLOR green]%s[/COLOR]?</string>
+  <string id="52038">האם ברצונך להסיר את המאגר [CR][COLOR green]%s[/COLOR]?</string>
+  <string id="52039">App Box</string>
+
+  <!-- Media Sources and Applications -->  
+
+  <!-- source types -->
+  <string id="52040">מקורות מוסיקה</string>
+  <string id="52041">מקורות וידאו</string>
+  <string id="52042">מקורות תמונות</string>
+  <string id="52043">התקנים</string>
+  <string id="52044">מקורות</string>
+  
+  <string id="52050"></string>
+  <string id="52051">אין תמיכה כרגע לפעולת הנגן</string>
+
+  <string id="52090">היישום [CR][COLOR green]%s[/COLOR] כבר מותקן</string>
+
+  <string id="52100">מקורות קבצים</string>
+  <string id="52101">מאגרי רשת זמינים או התקנים מקומיים זמינים</string>
+  <string id="52102">סרוק מקורות מחדש</string>
+
+  <string id="52104">לא סימנת אף אתר אינטרנט כמועדף</string>
+  <string id="52105">נקה היסטוריה...</string>
+  <string id="52106">בוצע</string>
+  <string id="52107">ערוך</string>
+  <string id="52108">דפדפן</string>
+  <string id="52109">היסטוריה</string>
+  <string id="52110">מופעל כעת</string>
+  <string id="52111">מועדפים</string>
+  <string id="52112">פודקאסטים</string>
+  <string id="52115">הוסף חלקים</string>
+  <string id="52116">לא נמצאו תוצאות</string>
+  <string id="52117">הזן כותר סרט או תוכנית טלוויזיה</string>
+  <string id="52118">נסה להחיל פרטי עונה על כל הקבצים בתיקייה</string>
+  <string id="52119">הסר</string>
+  <string id="52120">סרט?</string>
+  <string id="52121">תוכנית TV?</string>
+  <string id="52122">אלבום?</string>
+  <string id="52123">להסיר?</string>
+  <string id="52124">החל סדרה</string>
+  <string id="52125">על כל התיקייה</string>
+  <string id="52126">זהה</string>
+  <string id="52127">אף אחד מאלה, השאר לא מזוהה</string>
+  <string id="52128">אף אחד מאלה, פשוט הסר מהספרייה</string>
+  <string id="52129">הסר וידאו מהספרייה</string>
+  <string id="52130">זהה</string>
+  <string id="52131">מהדורה</string>
+  <string id="52132">תגיות</string>
+  <string id="52133">צולם על ידי</string>
+  <string id="52134">תאריך צילום</string>
+  <string id="52135">מצלמה</string>
+  <string id="52136">דגם</string>
+  <string id="52137">צמצם</string>
+  <string id="52140">העדכון נוסף בהצלחה.[CR][CR]כעת תוכל למצוא אותו בספריית היישומים.</string>
+  <string id="52150">בחר מהאפשרויות הבאות כדי להוסיף מקורות תוכן חדשים ב-Boxee.</string>
+  <string id="52151">יישומים</string>
+  <string id="52152">ידנית</string>
+  <string id="52155">הוסף מקור חדש</string>
+  <string id="52160">לפי</string>
+  <string id="52161">ערוץ</string>
+  <string id="52175">לא האלבום הנכון?</string>
+  <string id="52176">הזן את כותר האלבום</string>
+  <string id="53001">לפי</string>
+  <string id="53002">הזן מס&apos; עונה</string>
+  <string id="53003">הזן מס&apos; פרק</string>
+  <string id="53004">הסר וידאו[CR]מהספרייה</string>
+
+  <!-- music visuallisation -->
+  <string id="53011">ערוץ</string>
+
+  <!-- tooltips -->
+  <string id="53021">לך שמאלה[CR]כדי לפתוח את התפריט הראשי</string>
+  <string id="53022">לך ימינה[CR]כדי לפתוח את תפריט הדפדוף</string>
+  <string id="53023">לחץ כאן כדי לעבור אל[CR]המדיה המופעלת כרגע</string>
+
+  <!-- keyboard -->
+  <string id="53031">QWERT</string>
+  <string id="53032">ABCD</string>
+
+  <!-- user guide -->
+  <string id="53118">מדריך למשתמש</string>
+
+  <string id="53101">ניווט</string>
+  <string id="53102">השמעה/הפעלה</string>
+  <string id="53103">שלט</string>
+  <string id="53104">מקלדת</string>
+  <string id="53105">נווט בעזרת מעלה, מטה, ימין, שמאל.</string>
+  <string id="53106">בחר בלחיצה על הפעל/השהה.</string>
+  <string id="53107">חזור למסך הקודם בלחיצה על MENU.</string>
+  <string id="53108">נווט בעזרת מקשי החצים.</string>
+  <string id="53109">בחר בלחיצה על מקש Enter.</string>
+  <string id="53110">השתמש ב- ''\'' כדי לעבור בין מסך מלא לחלון.</string>
+  <string id="53111">צא או השעה בלחיצה על S.</string>
+  <string id="53112">לחץ על Esc כדי לחזור למסך הקודם.</string>
+  <string id="53113">לחץ על H כדי לעבור למסך הבית.</string>
+  <string id="53114">כוונן עוצמת קול בעזרת +/-</string>
+  <string id="53115">הצג פריטים על המסך ובחר בלחיצה על הפעל/השהה.</string>
+  <string id="53116">דלג בלחיצה על לחצני קדימה ואחורה.</string>
+  <string id="53117">הסתר את תצוגת המסך בלחיצה על MENU.</string>
+  <string id="53119">הצג פריטים על המסך ובחר בלחיצה על Enter.</string>
+  <string id="53120">לחץ על X כדי לעצור את השמעה/הפעלה.</string>
+  <string id="53121">הפעל/השהה בלחיצה על מקש הרווח.</string>
+  <string id="53122">דלג בלחיצה על מקשי החצים ימינה/שמאלה.</string>
+  <string id="53123">הסתר תצוגת מסך בלחיצה על Esc.</string>
+  <string id="53124">זוהי רשימה בסיסית בלבד של מקשי קיצור במקלדת. לרשותך הרשימה המלאה בסעיף השאלות הנפוצות בדף http://www.boxee.tv</string>
+
+  <string id="53130">תמונת רקע</string>
+  <string id="53131">שים לב: מומלץ לבחור בתמונות נוף.</string>
+
+  <string id="53135">מדריך למשתמש / נווט</string>
+  <string id="53136">מדריך למשתמש / הפעל</string>
+
+  <string id="53140">סטטוס ספרייה</string>
+  <string id="53141">סורק כעת:</string>
+  <string id="53142">במצב סרק</string>
+  <string id="53143">תקציר תיקייה:</string>
+  <string id="53144">אין שינויים</string>
+  <string id="53145">:מזהה</string>
+  <string id="53146">שתף תקציר</string>
+  <string id="53147">סה"כ:</string>
+  <string id="53148">מזוהים:</string>
+  <string id="53149">לא מזוהים:</string>
+  <string id="53150">חדשים:</string>
+  <string id="53151">ממתינים:</string>
+  <string id="53152">בוטלו:</string>
+  <string id="53153">לא זמינים:</string>
+  <string id="53154">מזהה:</string>
+
+  <string id="53155">המועדפים שלי</string>
+  
+  <string id="53160">לא פעיל...</string>
+  <string id="53161">:סורק</string>
+  <string id="53162">מזהה:</string>
+
+  <!-- Manual Resolve -->
+  <string id="53180">זיהוי ידני</string>
+  <string id="53181">לא נמצאו פרטים לגבי כותר זה.</string>
+  <string id="53182">האם ברצונך לבצע זיהוי באמצעות קובץ מידע (NFO) שנמצא בתיקייה או לחפש את הפרטים באופן ידני?</string>
+  <string id="53183">זהה מדיה</string>
+  <string id="53184">NFO</string>
+  <string id="53185">ידני</string>
+  <string id="53186">קובץ ה-NFO נמצא אך פתיחתו נכשלה. בדוק את מבנה הקובץ.</string>
+
+  <!-- Update Manager -->
+  <string id="53200">הזן סיסמת OS</string>
+  <string id="53205">מעדכן...</string>
+  <string id="53206">פעולה...</string>
+  <string id="53207">שגיאה לא ידועה.</string>
+
+  <string id="53210">מאמת סיסמה...</string>
+  <string id="53211">הסיסמה חוקית.</string>
+  <string id="53212">הסיסמה לא חוקית.</string>
+  <string id="53213">מפעיל מחדש את Boxee...</string>
+  <string id="53214">כבר יש התקנה של Boxee תחת /Volumes.</string>
+  <string id="53215">קובץ ההתקנה לא נמצא.</string>
+  <string id="53216">לא ניתן לצרף את קובץ ההתקנה.</string>
+  <string id="53217">קובץ ההתקנה המצורף לא נמצא תחת /Volumes.</string>
+  <string id="53218">קובץ ההתקנה המצורף של MPKG לא נמצא תחת /Volumes.</string>
+  <string id="53219">מומלץ לשדרג את Boxee עכשיו - לנוחותך ותועלתך!</string>
+  <string id="53220">[COLOR red]עדכון זה הוא חובה. באפשרותך לעדכן עכשיו או בעת הכיבוי.[/COLOR]</string>
+  <string id="53221">[COLOR red]עדכון זה הוא חובה.[/COLOR]</string>
+  <string id="53225">פחות פרטים</string>
+  <string id="53239">אחר כך</string>
+  <string id="53240">עדכון ל-Boxee</string>
+  <string id="53241">העדכון נכשל.</string>
+  <string id="53242">שגיאה:</string>
+  <string id="53243">[CR]עדכון לתוכנת Boxee זמין.[CR]האם ברצונך להתקין אותו כעת?</string>
+  <string id="53244">[COLOR red]* אם תבטל, תתבקש להתקין את העדכון בכניסתך הבאה למערכת.[/COLOR]</string>
+  <string id="53245">[CR]עדכון לתוכנת Boxee זמין.[CR]צא מ-Boxee ועדכן באמצעות Ubuntu Update Manager.</string>
+  <string id="53246">[CR]עדכון לתוכנת Boxee זמין.[CR]צא מ-Boxee ועדכן דרך תפריט AppleTV.</string>
+  <string id="53247">עדכון לתוכנת Boxee זמין.</string>
+  <string id="53248">עדכון לתוכנת Boxee זמין.</string>
+  <string id="53249">הגרסה העדכנית ביותר של Boxee כבר מותקנת אצלך.</string>
+  <string id="53250">0.9.8.4881</string>
+  <string id="53251">עדכן</string>
+  <string id="53252">בדיקה אחרונה</string>
+  <string id="53253">בדוק כעת אם יש גרסה חדשה של Boxee...</string>
+  <string id="53254">[CR]גרסה חדשה של Boxee זמינה.[CR]האם ברצונך להוריד אותה כעת?</string>
+  <string id="53255">יש עדכון ל-Boxee!</string>
+  <string id="53256">בחר "%s" כדי לעדכן לגרסה האחרונה של Boxee‏.[CR][CR]‏Boxee יופעל מחדש לאחר התקנת העדכון.</string>
+  <string id="53257">מעדכן את Boxee</string>
+  <string id="53258">עוד רגע זה נגמר! Boxee מתעדכן עכשיו בדברים הכי חדישים ומגניבים.[CR]בסיום העדכון, Boxee יופעל מחדש.</string>
+  <string id="53259">מוריד תוכנה:</string>
+  <string id="53260">עדכן עכשיו</string>
+  <string id="53261">גרסה חדשה זמינה. לחץ כאן</string>
+  <string id="53262">עוד פרטים</string>
+  <string id="53263">הפעל מחדש ושדרג</string>
+  <string id="53264">מוריד את הגרסה החדשה...</string> 
+  <string id="53265">הוסף עדכון RSS</string>
+  <string id="53266">ספריית שמע</string>
+  <string id="53267">PulseAudio</string>
+  <string id="53268">ALSA</string>
+
+  <!-- video for linux -->
+  <string id="53269">הפעל פענוח בסיוע חומרה כאשר ניתן</string>
+
+  <!-- app box labels -->
+  <string id="53270">App Box / יישומים חדשים</string>
+  <string id="53271">יישומים חדשים</string>
+  <string id="53272">היישומים שלי</string>
+  <string id="53273">העדכונים שלי</string>
+  <string id="53274">מאגרים</string>
+  <string id="53275">אין יישומים חדשים זמינים כרגע.</string>
+  <string id="53276">אין יישומים זמינים.</string>
+  <string id="53277">שדרוג ליישום זמין.</string>
+  <string id="53278">ליישום יש הגדרות</string>
+  <string id="53279">הוסף מאגר</string>
+  <string id="53280">הוסף עדכון חדש</string>
+  <string id="53281">אין עדכונים זמינים</string>
+
+  <string id="53282">שדרג יישום</string>
+  <string id="53283">שנה הגדרות</string>
+  <string id="53284">הסר יישום</string>
+
+  <string id="53285">URL של עדכון:</string>
+  <string id="53286">סוג עדכון:</string>
+  <string id="53287">Boxee מעדכן...</string>
+  <string id="53288">Boxee מתקין עדכונים. פעולה זו תימשך מספר דקות.</string>
+  <string id="53289">מעדכן:</string>
+
+  <string id="53290">הסתר תכנים ויישומים למבוגרים</string>
+  <string id="53291">תוכל לקבל גישה לתוכן למבוגרים רק אם אתה בגיר לפי חוקי המקום שבו אתה מתגורר או מקבל גישה אל התוכן.</string>
+  <string id="53292">הגדר נעילת תוכן למבוגרים...</string>
+  <string id="53293">הסתר תכנים ויישומים שאין אפשרות להפעיל במיקומך</string>
+  <string id="53294">הסיסמה שהוזנה שגויה.</string>
+  <string id="53295">אזהרה</string>
+
+  <string id="53296">פחות פרטים</string>
+  <string id="53297">חלק מהתוכן בספריות וביישומים שלך לא ניתן להפעלה במיקום שלך. האם אתה בטוח שברצונך לאפשר אותו?</string>
+
+  <string id="53298">לקבל עדכוני בדיקות/ביתא (משתמשים מתקדמים בלבד)?</string>
+  
+  <string id="53300">פורמט מסך</string>
+  <string id="53301">רגיל (4:3)</string>
+  <string id="53302">טלוויזיה עם מסך LCD / פלזמה מסך רחב (16:9)</string>
+  <string id="53303">מחשב עם מסך LCD רחב (16:10)</string>
+  <string id="53304">מסך אולטרה-רחב (21:9)</string>
+  <string id="53305">כמות סריקת יתר</string>
+  <string id="53306">3%</string>
+  <string id="53307">4%</string>
+  <string id="53308">5%</string>
+  <string id="53309">6%</string>
+  <string id="53310">להסיר את קיצור הדרך שנבחר?</string>
+  <string id="53311">קיצור דרך זה כבר קיים</string>
+  <string id="53400">כיול מסך</string>
+  <string id="53401">האם ברצונך להגדיר כיול מסך תחילה?CR][COLOR green]הערה:[/COLOR] באפשרותך לבצע פעולה זו בכל עת תחת הגדרות-&gt;מראה ותחושה-&gt;מסך</string>
+  <string id="53402">מחק</string>
+  <string id="53403">ברוך הבא אל Boxee!</string>
+  <string id="53404">הוסף משתמש</string>
+  <string id="53405">הסר</string>
+  <string id="53406">הסר את משתמש [COLOR green]'%s'[/COLOR]?</string>
+  
+  <string id="53407">משתמש קיים</string>
+  <string id="53408">משתמש חדש</string>
+  
+  <string id="53409">הסר</string>
+  <string id="53410">הוסף משתמש</string>
+  <string id="53411">מדריך</string>
+  <string id="53412">רשת</string>
+  <string id="53413">כיבוי</string>
+  <string id="53414">נא אשר</string>
+  <string id="53415">האם אתה בטוח שברצונך לנקות את ההיסטוריה?</string>
+  <string id="53416">לא ניתן לבטל פעולה זו</string>
+  <string id="53420">דלג</string>
+  
+  <string id="53425">בוצע</string>
+
+  <string id="53430">מתחבר...</string>
+  
+  <string id="53432">אין אפשרות להציג את תנאי השימוש</string>
+  <string id="53433">אין אפשרות להציג מדיניות הפרטיות</string>
+
+  <string id="53434">לחיצה על 'בוצע' פירושה כי אתה מקבל את הדברים הבאים:</string>
+  <string id="53435">לחיצה על '%s' פירושה כי אתה מקבל את הדברים הבאים:</string>
+  <string id="53436">תנאי השימוש</string>
+  <string id="53437">וכן</string>
+  <string id="53438">מדיניות הפרטיות</string>  
+  <string id="53439">החלים על השימוש ב-Boxee.</string>  
+  
+  <string id="53440">מה ברצונך לעשות?</string>
+  
+  <string id="53442">כניסה ל-Boxee</string>
+  <string id="53443">צור משתמש Boxee חדש</string>
+  <string id="53444">שלך...</string>
+  <string id="53445">שם המשתמש [COLOR green]%s[/COLOR] אינו חוקי. מותר להשתמש באותיות (a-z), ספרות (0-9), נקודה(.) או קו תחתי(_) בלבד.</string>
+  <string id="53446">שם המשתמש [COLOR green]%s[/COLOR] אינו חוקי. בחר שם אחר ונסה שוב.</string>
+  <string id="53447">נכשלה בדיקת הזמינות של [COLOR green]%s[/COLOR]</string>
+  <string id="53449">בוצע</string>
+      
+  <string id="53450">טוב</string>
+  <string id="53451">לא תקף</string>
+  <string id="53452">בחר שם משתמש</string>
+  <string id="53453">החשבון נוצר</string>
+  <string id="53454">הכל מוכן! זה עתה שלחנו לך הודעת דוא"ל לאישור - לחץ על הקישור בהודעה כדי להפעיל את החשבון שלך ולנהל פרטים כמו תוכני פרמיום, הזנות RSS, תמונת פרופיל ועוד.</string>
+  <string id="53455">נכשלה יצירת משתמש חדש.</string>
+  <string id="53456">נכשלה יצירת פרופיל משתמש חדש.</string>
+  <string id="53457">הקלד סיסמה[CR]מחדש</string>
+  <string id="53458">טוב</string>
+  <string id="53459">אין התאמה</string>
+  <string id="53460">%s %s ב-Boxee</string>
+  <string id="53461">ההודעה שלך:</string>
+  <string id="53462">שתף</string>
+  <string id="53463">אהבתי</string>
+  <string id="53464">טקסט מותאם אישית</string>
+  <string id="53465">הוסף הערה:</string>
+  <string id="53466">(דרך Boxee)</string> 
+
+  <string id="53467">כתובת הדוא"ל כבר בשימוש</string>
+  <string id="53468">הסיסמה קצרה מדי</string> 
+  <string id="53469">עוד קצת וזהו!</string> 
+  <string id="53470">להשלמת ההגדרה של חשבון Boxee, עליך לקבל את...</string>
+
+  <string id="53471">(באמצעות טלוויזיה בשידור ישיר של Boxee)</string>
+
+  <string id="53472">העדכון של שירותי משתמש חדשים נכשל</string>
+  <string id="53473">העדכון של פרטי משתמשים חדשים נכשל</string>
+  <string id="53480">נכשל ניסיון הכניסה למערכת לאחר חידוש החיבור[CR]לאינטרנט</string>
+  <string id="53485">מוקרן כעת</string>
+
+  <!-- boxee browse screen panel -->
+  <string id="53501">אינטרנט ומקומי</string>
+  <string id="53502">מדיה באינטרנט</string>
+  <string id="53503">מדיה מקומית</string>
+
+  <string id="53504">הפופולריים ביותר</string>
+  <string id="53505">A עד Z</string>
+  <string id="53506">נוספו לאחרונה</string>
+  <string id="53507">הכי בשימוש</string>
+  
+  <string id="53508">כל העונות</string>
+  
+  <string id="53509">הכל</string>
+
+  <string id="53510">עונות</string>
+
+  <string id="53511">כל הז'אנרים</string>
+  <string id="53512">כל המקורות</string>
+  <string id="53513">כל המדיה</string>
+  <string id="53514">וידאו</string>
+  <string id="53515">מוסיקה</string>
+  <string id="53516">תמונות</string>
+  <string id="53517">תור</string>
+  <string id="53518">גלה</string>
+  <string id="53519">תמונות</string>
+  <string id="53520">הופעלו לאחרונה</string>
+  <string id="53521">הוסף לתוכניות שלי[CR][LOWERCASE](הכנס פרקים חדשים לתור)[/LOWERCASE]</string>
+  <string id="53522">הסר[CR]מהתוכניות שלי</string>
+  <string id="53523">הוסף למועדפים שלי</string>
+  <string id="53524">הסר מהמועדפים שלי</string>
+  <string id="53525">פנוי</string>
+  <string id="53526">טרם נצפה</string>
+  <string id="53527">מהדורות חדשות</string>
+  <string id="53528">הישנים ביותר קודם</string>
+  <string id="53529">החדשים ביותר קודם</string>
+  <string id="53530">תאריך</string>
+  <string id="53531">אלפביתי</string>
+  <string id="53532">התאריך השתנה</string>
+  <string id="53533">הישנים ביותר</string>
+  <string id="53534">החדשים ביותר</string>
+
+  <string id="53535">A-Z</string>
+  <string id="53536">Z-A</string>
+  <string id="53537">החדשים ביותר קודם</string>
+  <string id="53538">הישנים ביותר קודם</string>
+  <string id="53539">עודכנו לאחרונה</string>
+
+  <!-- dropdown dialog titles -->
+  <string id="53560">מיין</string>
+  <string id="53561">ז'אנרים</string>
+  <string id="53562">עונות</string>
+  <string id="53563">סוגים</string>
+  <string id="53564">שם משתמש</string>
+
+  <!-- channel filter dropdown -->
+  <string id="53580">מסנן ערוצים</string>
+  <string id="53581">בתשלום</string>
+  <string id="53582">חינם</string>
+  
+  <!-- Repository Browse Window -->
+  <string id="53600">הודעה</string>
+  <string id="53610">אין אפשרות להסיר את מאגר [COLOR green]Boxee[/COLOR]</string>
+  <string id="53620">המאגרים שלי</string>
+  <string id="53621">הסר מאגרים</string>
+  <string id="53622">אקסטרות</string>
+  <string id="53623">הוסף מאגר</string>
+  <string id="53624">הסר מאגר</string>
+  <string id="53625">בטל הסרה</string>
+ 
+  <!-- network notification -->
+  <string id="53695">ערוך הגדרות רשת</string>
+  
+   <!-- Media Action Dialog -->
+  <string id="53700">הודעה</string>
+  <string id="53701">שגיאה</string>
+  <string id="53702">[B]נקה פריטים שהופעלו לאחרונה[/B]</string>
+  <string id="53709">פרטים טכניים</string>
+  <string id="53710">פרטים</string>
+  <string id="53711">צפה בהמשך</string> <!-- Add To Queue -->
+  <string id="53712">הסר</string> <!-- Remove From Queue -->
+  <string id="53713">נצפה</string>
+  <string id="53714">טרם נצפה</string>
+  <string id="53715">הוסף קיצור דרך</string>
+  <string id="53716">הסר קיצור דרך</string>
+  <string id="53717">עוד...</string>
+  <string id="53718">טריילר</string>
+  <string id="53719">שתף</string>
+  <string id="53720">הסר מ'היסטוריה'</string>
+  <string id="53721">הוצא</string>
+  <string id="53722">דפדף</string>
+  <string id="53723">סרוק את האלבום מחדש</string>
+  <string id="53724">סורק אלבום מחדש...</string>
+  <string id="53725">לא האלבום הנכון?</string>
+  <string id="53726">הוסף רצועה</string>
+  <string id="53727">בחר תמונה ממוזערת</string>
+  <string id="53728">חזרה</string>  
+  <string id="53729">מועדף</string>  <!-- Add To Favorite -->  
+  <string id="53730">הסר</string> <!-- Remove from Favorite --> 
+
+  <string id="53731">הפריט נוסף לרשימת 'צפה בהמשך'</string>
+  <string id="53732">הפריט הוסר בהצלחה</string>
+  <string id="53733">הפריט סומן כנצפה</string>
+  <string id="53734">הפריט סומן כטרם נצפה</string>
+  <string id="53735">נכשלה הוספת הפריט לרשימה 'צפה בהמשך'</string>
+  <string id="53736">נכשלה הסרת הפריט מהרשימה 'צפה בהמשך'</string>
+  <string id="53737">קיצור הדרך אל הפריט נוסף לתפריט הקופץ</string>
+  <string id="53738">נכשלה הוספת קיצור הדרך אל הפריט...</string>
+  <string id="53739">קיצור הדרך אל הפריט הוסר</string>
+  <string id="53740">נכשלה הסרת הפריט מההיסטוריה...</string>
+  <string id="53741">סרוק מקור</string>
+  <string id="53742">לא נמצאו התקנים מקומיים</string>
+
+  <string id="53743">Boxee במצב לא מקוון</string>  
+  <string id="53744">אין ל-Boxee אפשרות לבצע פעולה זו[CR]משום שאינך מחובר לאינטרנט.</string>
+  <string id="53745">כדי להשמיע/להפעיל פריט זה דרוש ל-Boxee חיבור[CR]לאינטרנט.</string>
+  <string id="53746">כדי להשמיע/להפעיל פריט זה דרוש ל-Boxee חיבור[CR]לאינטרנט.</string>
+  <string id="53747">אין אפשרות לבצע את השיתוף משום שהחיבור[CR]לאינטרנט אינו זמין.</string>
+  <string id="53748">ללא חיבור לאינטרנט, אין ל-Boxee אפשרות[CR]להוסיף פריט זה לרשימת 'צפה בהמשך'.</string>
+  <string id="53749">אין ל-Boxee אפשרות להסיר פריט זה מרשימת[CR] 'צפה בהמשך' ללא חיבור לאינטרנט.</string>
+  <string id="53750">הפעל</string>
+  <string id="53751">קובץ מקומי</string>
+  <string id="53752"></string>     <!-- prefix to provider source in PLAY button (can be "on " or "from ") -->
+  <string id="53753">מקומי</string>  
+  <string id="53755">דפדף</string>
+  <string id="53756">ל-Boxee אין אפשרות לנהל את העדכונים שלך משום שאינך מחובר לאינטרנט.</string>
+  <string id="53760">התחל</string>
+  <string id="53761">הוסף ליישומים שלי</string>
+  <string id="53762">הסר מהיישומים שלי</string>
+  <string id="53765">נכשלה הפעלת היישום [COLOR green]%s[/COLOR]</string>
+  <string id="53766">להפעלת [COLOR green]%s[/COLOR][CR]דרוש חיבור לאינטרנט.</string>
+  <string id="53770">כולל פרסומות</string>
+  <string id="53771">קליפ</string>
+  <string id="53772">טריילר</string>
+  <string id="53773">מנוי</string>
+  <string id="53774">דרוש מנוי</string>
+  <string id="53775">נכשל ניקוי רשימת 'הופעלו לאחרונה'.</string>
+  <string id="53776">פעולה זו תנקה את רשימת 'הופעלו לאחרונה'. האם אתה בטוח?</string>
+  <string id="53777">טריילר</string>
+  
+  <!-- Apps/AppBox Browse Window -->
+  <string id="53800">All</string>
+  <string id="53801">וידאו</string>
+  <string id="53802">מוסיקה</string>
+  <string id="53803">תמונות</string>
+  <string id="53804">ספורט</string>
+  <string id="53805">מבוגרים</string>
+  <string id="53820">תקן באגים</string>
+  <string id="53821">ההסרה של יישום הבדיקה [COLOR green]%s[/COLOR] יכולה להתבצע ידנית בלבד</string>
+  <string id="53822">להסיר את [COLOR green]%s[/COLOR] מרשימת היישומים המועדפים?</string>
+  <string id="53823">נכשלה הסרת היישום [COLOR green]%s[/COLOR]</string>
+  <string id="53824">היישום נוסף למועדפים</string>
+  <string id="53825">מועדף</string>
+  <string id="53826">הכל</string>
+  <string id="53827">קטגוריות</string>
+
+  <string id="53830">היישומים שלי</string>
+  <string id="53831">ספריית יישומים</string>
+  <string id="53832">יישומים חיצוניים</string>
+
+  <string id="53840">מוריד את יישום %s העדכני ביותר. נא המתן...</string>
+  <string id="53841">שגיאה בהורדת היישום</string>
+  <string id="53842">מתקין את היישום...</string>
+  <string id="53843">שגיאה בהתקנת היישום</string>
+  <string id="53844">התקנת היישום הושלמה בהצלחה</string>
+  <string id="53845">מאמת את החתימה של %s...</string> 
+  <string id="53846">נכשל אימות החתימה של %s</string>
+  <string id="53847">חתימת %s אומתה</string>
+  <string id="53848">מוריד. אנא המתן...</string>
+  
+
+ <!-- Home Window-->
+  <string id="53900">הצג הכל</string>                    <!-- All Queue label -->
+  <string id="53905">הצג הכל</string>                    <!-- All Recommend label -->
+  
+
+  <string id="53910">צפה בהמשך</string>  				  <!-- Home Screen Buttons -->
+  <string id="53911">חברים</string>
+  <string id="53912">תוכניות</string>
+  <string id="53913">סרטים</string>
+  <string id="53914">יישומים</string>
+  <string id="53915">קבצים</string>
+  <string id="53916">אינטרנט</string>
+  <string id="53917">צפה[CR]בהמשך</string>
+
+  <string id="53920">סרטים (קבצים)</string>
+  <string id="53921">תוכניות (קבצים)</string>
+
+
+  <!-- search -->
+  <string id="53950">3</string>                    <!-- search result highlight color [0-none 1-green, 2-red, 3-yellow] -->
+  <string id="53951">תוצאות חיפוש:</string>
+  <string id="53952">חפש את:</string>
+  <string id="53953">נצפו</string>
+  <string id="53957">[B][COLOR orange]חפש את %s באינטרנט[/COLOR][/B]</string>
+
+  <!-- share -->
+  <string id="54000">שתף</string>
+  <string id="54001">שיתוף הוא אכפתיות.[CR]נא הזן הודעה</string>   
+    
+  <!-- browse menu -->
+  <string id="54010">חיפוש</string>
+  <string id="54011">כותר או מילת מפתח</string>
+  <string id="54012">הראה לי</string>
+  <string id="54013">מיין</string>
+  <string id="54014">מסננים</string>
+  <string id="54015">הצג</string>
+  <string id="54016">תמ' ממוזערות</string>
+  <string id="54017">רשימה</string>
+  <string id="54018">אקסטרות</string>
+  <string id="54019">מאגרים</string>
+  <string id="54020">טוען</string>
+  <string id="54021">חברים</string>
+  <string id="54022">הופעלו לאחרונה</string>
+  <string id="54023">דפדפן קבצים</string>
+  <string id="54024">הוסף מאגר מדיה</string>
+  <string id="54025">סרוק לאיתו מדיה</string>
+  <string id="54026">הסרטים שלי</string>
+  <string id="54027">דפדף במקורות</string>
+  <string id="54028">סרוק תיקיות מדיה</string>
+  <string id="54029">חינמי בלבד</string>
+  <string id="54030">טרם נצפה בלבד</string>
+  <string id="54031">המוסיקה שלי</string>
+  <string id="54032">טרם נצפה בלבד</string>
+  <string id="54033">היישומים שלי</string>
+  <string id="54034">ספריית יישומים</string>
+  <string id="54035">יצא לאקרנים</string>
+  <string id="54036">שתף</string>
+  <string id="54037">התמונות שלי</string>
+  <string id="54038">צפה בהמשך</string>
+  <string id="54039">תוכניות ה-TV שלי</string>
+  <string id="54040">ספריית תוכניות TV</string>
+  <string id="54041">מפיק</string>
+  <string id="54042">בכיכוב</string>
+  <string id="54043">שנת פרסום</string>
+  <string id="54044">תאריך בכורה</string>
+  <string id="54045">בבימוי</string>
+  <string id="54046">מבוסס על</string>
+  <string id="54047">מופעל[CR]כעת</string>
+  <string id="54048">יישומים</string>
+  <string id="54049">חזרה</string>
+  <string id="54050">מקור מומלץ</string>
+  <string id="54051">מקורות אחרים</string>
+  <string id="54052">שתף</string>
+  <string id="54053">רשימת רצועות</string>
+  <string id="54054">הסתיים כרגע</string>
+  <string id="54055">מה עכשיו?</string>
+  <string id="54056">הפעל את הבא</string>
+  <string id="54057">הסר[CR]מהתור</string>
+  <string id="54058">בצע</string>
+  <string id="54059">פריטים</string>
+  <string id="54060">כיבוי</string>
+  <string id="54061">יציאה מהמערכת</string>
+  <string id="54062">שינה</string>
+  <string id="54063">מוצג</string>
+  <string id="54064">נהל מקורות</string>
+  <string id="54065">סורק כרגע את</string>
+  <string id="54066">קבצים מקומיים</string>
+  <string id="54067">נמצאו %d קבצים</string>
+  <string id="54068">מזהה אותם כעת</string>
+  <string id="54069">%d קבצים נמצאו[CR] וזוהו</string>
+
+  <string id="54070">ללא</string>
+  <string id="54071">מקלדת נוספת 1</string>
+  <string id="54072">מקלדת נוספת 2</string>
+  <string id="54073">מקלדת נוספת 3</string>
+
+  <string id="54074">חפש יישומים</string>
+
+  <string id="54075">ערוצים</string>
+
+  <string id="54076">יצא לאקרנים </string>
+  <string id="54077">דירוג </string>
+
+  <string id="54083">הפעל רישום Curl</string>
+  <string id="54084">- כתובת יעד של יומן מערכת</string>
+  <string id="54085">הפעל דיווח ליומן מערכת</string>
+
+  <string id="54103">Boxee סורק את תיקיית המוסיקה במחשב. הרכבת הרשימה עשויה להימשך זמן-מה.[CR]בינתיים, תוכל:</string>
+  <string id="54104">2. להפעיל את יישומי המוסיקה באינטרנט של Boxee</string>
+  <string id="54105">Boxee סורק את תיקיית תוכניות ה-TV במחשב. הרכבת הרשימה עשויה להימשך זמן-מה.[CR]בינתיים, תוכל:</string>
+  <string id="54106">1. לעיין בספריית תוכניות ה-TV</string>
+  <string id="54107">סרוק תיקיות אחרות במחשב או ברשת</string>
+  <string id="54108">הכל בסדר! לא נמצא הפלאג-אין של Flash.</string>
+  <string id="54109">שים לב, שכדי להפעיל את רוב התוכן[CR]המקוון, חובה להתקין פלאג-אין של Flash.[CR]לשם כך, בקר בדף [COLOR yellow][B]http://www.boxee.tv/flash[/B][/COLOR] </string>
+  <string id="54110">Boxee זיהה שזיכרון הווידאו הוא פחות מ-‎128MB‏.[CR]ייתכן שתיתקן בבעיות בהפעלת Boxee.</string>
+  <string id="54111">כתובת היעד של שרת יומן המערכת אינה חוקית</string>
+
+  <string id="54120">- מקלט תומך Dolby Digital Plus</string>
+  <string id="54121">- מקלט תומך Dolby TrueHD</string>
+  <string id="54122">- מקלט תומך DTS-HD</string>
+  <string id="54123">דיגיטלי (HDMI)</string>
+  <string id="54124">- מקלט תומך LPCM 7.1</string>
+  <string id="54150">אזהרה: לפי החיווי מהמקלט, אין בו תמיכה להזרמת סיביות Dolby Digital</string>
+  <string id="54151">אזהרה: לפי החיווי מהמקלט, אין בו תמיכה להזרמת סיביות Dolby Digital Plus</string>
+  <string id="54152">אזהרה: לפי החיווי מהמקלט, אין בו תמיכה להזרמת סיביות Dolby TrueHD</string>
+  <string id="54153">אזהרה: לפי החיווי מהמקלט, אין בו תמיכה להזרמת סיביות DTS</string>
+  <string id="54154">אזהרה: לפי החיווי מהמקלט, אין בו תמיכה להזרמת סיביות DTS-HD</string>
+  <string id="54155">הכול</string>
+  <string id="54156">התאמת עוצמת הקול תוך כדי צפייה (אם אפשר)</string>
+
+  <string id="54158">אוטו'</string>
+  <string id="54159">כבוי</string>
+  <string id="54160">פועל</string>
+  <string id="54161">אחוז Dolby TrueHD DRC</string><!-- translate only percentage -->
+  <string id="54165">אפשר השהיית פלט</string>
+
+
+  <!-- media source info -->
+  <string id="54200">אישור</string>
+  <string id="54201">הוסף</string>
+  <string id="54202">הוסף ספרייה זו</string>
+
+  <!-- boxee browse screen panel part II -->
+  <string id="54250">הופעלו לאחרונה</string>
+  
+  <!-- time formats -->
+  <string id="54500">12 ש'</string>
+  <string id="54501">24 ש'</string>
+  <string id="54502">h:mm:ss xx</string>
+  <string id="54503">H:mm:ss</string>
+
+  <!-- first time use -->
+  <string id="54550">בחר רשת מתוך הרשימה או הצטרף לרשת אחרת.</string>
+  <string id="54551">הצטרף לרשת</string>
+  <string id="54552">כעת דרושה לנו סיסמה סודית כדי שנוכל לחבר אותך.</string>
+  <string id="54553">הצטרף לרשת אחרת</string>
+  <string id="54554">ציין את שם הרשת המבוקשת.</string>
+  <string id="54555">בשל ההבדלים בסוגי הרשתות הקיימים, חשוב לנו לדעת את סוג האבטחה ברשת הרצויה.</string>
+  <string id="54556">יופי, מקצוען! אתה יודע מה דרוש לנו כאן. אם לא, שאל אחד מהחברים החכמים שלך.</string>
+  <string id="54558">יש עדכון ל-Boxee</string>
+  <string id="54559">עכשיו שיש חיבור לאינטרנט, בוא נוודא שמותקנת אצלך הגרסה העדכנית ביותר של Boxee.</string>
+  <string id="54560">יש!</string>
+  <string id="54561">ה-Boxee שלך מחובר לאינטרנט. אז קדימה, תתחיל ליהנות ממנו.</string>
+  <string id="54576">Boxee מחובר לאינטרנט.[CR][CR]עכשיו, כשיש גישה לאינטרנט, ודא שברשותך הגרסה העדכנית ביותר של Boxee.</string>
+  <string id="54577">ההתחברות הושלמה בהצלחה</string>
+  <string id="54578">הערות למהדורה</string>
+  <string id="54579">הממ, אנחנו לא מצליחים להתחבר אל הנתב שלך. נסה להזין את הגדרות הרשת אופן ידני.</string>
+  <string id="54580">הממ, תקשורת האינטרנט של הנתב לא פועלת. נסה להתחבר דרך המחשב כדי לבדוק את תקינות החיבור.</string>
+  <string id="54581">Boxee הצליח להתחבר לרשת אך אינו מצליח להתחבר לאינטרנט.</string>
+  <string id="54582">הסיסמה שגויה, נסה שוב.</string>
+  <string id="54583">אבטחת רשת</string>
+  <string id="54584">הזן את שם הרשת</string>
+  <string id="54585">בחר רשת אלחוטית</string>
+  <string id="54586">ה-Boxee שלי יתחבר לרשת אלחוטית</string>
+  <string id="54587">ה-Boxee שלי מחובר לנתב באמצעות כבל אתרנט.</string>
+  <string id="54588">דרוש חיבור לאינטרנט כדי לבצע את ההתקנה.</string>
+  <string id="54589">לא מחובר</string>
+  <string id="54590">כעת ישר את [B][COLOR blueהחץ הכחול2[/COLOR][/B] ביחס לפינה הימנית התחתונה של המסך.[CR][CR]לסיום, לחץ על הלחצן [B][COLOR boxeegreenheidi]המרכזי[/COLOR][/B].</string>
+  <string id="54591">היעזר בלוח הכיוונים שבשלט רחוק כדי ליישר את [B][COLOR blueהחץ הכחול1[/COLOR][/B] ביחס לפינה השמאלית העליונה של המסך.[CR][CR]לסיום, לחץ על הלחצן [B][COLOR boxeegreenheidi]המרכזי[/COLOR][/B].</string>
+  <string id="54592">התאמת התצוגה</string>
+  <string id="54593">האם ניתן לראות את קו הגבול [B][UPPERCASE][COLOR boxeegreenheidi]הירוק[/COLOR][/UPPERCASE][/B] סביב שולי המסך?</string>
+  <string id="54594">בדיקת התצוגה במסך</string>
+  <string id="54595">בחירת רזולוציית הטלוויזיה</string>
+  <string id="54596">בחר את הרזולוציה של הטלוויזיה כדי להבטיח ש-Boxee יפיק תמונה איכותית ככל שניתן.</string>
+  <string id="54597">הגדרת התצוגה</string>
+  <string id="54598">[B][UPPERCASE]ברוכים הבאים[/UPPERCASE] אל[/B]</string>
+  <string id="54599">צרף</string>
+  <string id="54600">שפה</string>
+  <string id="54601">בחר את שפת הממשק:</string>
+  <string id="54605">נראה טוב?</string>
+  <string id="54610">ברוך הבא!</string>
+  <string id="54611">בעוד רגע, תוכל לצפות באלפי סרטים, תוכניות וקליפים מהאינטרנט ומהרשת הביתית.[CR][CR]לחץ על הלחצן [UPPERCASE][COLOR boxeegreenheidi][B]המרכזי[/UPPERCASE][/COLOR][/B] בשלט כדי להתחיל.</string>
+  <string id="54612">התחל</string>
+  <string id="54615">[UPPERCASE]שפה[/UPPERCASE]</string>
+  <string id="54616">חובה לבחור שפה</string>
+  <string id="54617">אין אפשרות להגדיר שפה</string>
+  <string id="54618">[COLOR green]%s[/COLOR] סיסמה</string>
+  <string id="54619">כניסה לרשת מותנית בסיסמה</string>  
+  <string id="54620">רזולוציה</string>
+  <string id="54621">בחר את רזולוציית התצוגה:</string>
+  <string id="54622">האם פריט זה מוצג כיאות?</string>
+  <string id="54623">חובה לבחור רזולוציה</string>
+  <string id="54624">נראה הכי טוב כשגודל המסך מותאם כראוי. זה פשוט מאוד Boxee:</string>
+  <string id="54625">בעזרת השלט, יישר את חץ מס' 1 עם הפינה השמאלית העליונה של המסך.</string>  
+  <string id="54626">כשתהיה מרוצה, לחץ על Select בשלט.</string>
+  <string id="54627">חזור על הפעולה עם חץ מס' 2 בפינה הימנית התחתונה.</string>
+  <string id="54628">נראה טוב!</string>  
+  <string id="54629">[UPPERCASE]רזולוציה[/UPPERCASE]</string>
+  <string id="54630">הגדרות אודיו</string>
+  <string id="54631">בחר פלט שמע:</string>
+  <string id="54632">HDMI</string>
+  <string id="54633">אופטי</string>
+  <string id="54634">סטריאו אנלוגי</string>
+  <string id="54635">חיבור לרשת בוצע בהצלחה</string>
+  <string id="54636">חיבור לרשת האלחוטית בוצע בהצלחה</string>
+  <string id="54637">אין כבל אתרנט מחובר.</string>
+  <string id="54638">כבל האתרנט מחובר אך אין אפשרות להתחבר לאינטרנט.</string>
+  <string id="54639">נכשלה הגדרת התצורה של הרשת האלחוטית</string>
+  <string id="54640">נסה שוב</string>
+ 
+  <string id="54641">האם המקלט שלך תומך ב-Dolby Digital ו-DTS ?</string>
+  <string id="54642">כן</string>
+  <string id="54643">לא</string>
+  <string id="54644">לא בטוח</string>
+  <string id="54647">[UPPERCASE]הגדרות שמע[/UPPERCASE]</string>
+  <string id="54648">חובה לבחור פלט שמע</string>
+  <string id="54649">חובה לבחור אפשרות של Dolby Digital ו-DTS</string>
+  <string id="54650">[UPPERCASE]בדיקת שמע[/UPPERCASE]</string>
+  <string id="54651">האם אתה מאזין למוסיקה[CR]מהרמקול?</string>
+  
+  <string id="54652">עבור לאתרנט</string>
+  
+  <string id="54653">צוינה כתובת IP לא חוקית</string>
+  
+  <string id="54654">מאמת...</string>
+  <string id="54655">הבא</string>
+  <string id="54656">נכשלה הורדת השדרוג.</string>
+  <string id="54657">הורדת השדרוג בוצעה בהצלחה.[CR]עליך להפעיל את המכשיר מחדש</string>
+  <string id="54658">הפעל מחדש</string>
+  <string id="54659">מפעיל מחדש...</string>
+  
+  <string id="54660">קווי</string>
+  <string id="54661">אתה מחובר לרשת באמצעות כבל[CR]אתרנט.</string>
+  <string id="54662">כיצד ברצונך לבצע את הגדרות התצורה של[CR]הרשת?</string>
+  <string id="54663">אוטומטית</string>
+  <string id="54664">ידנית</string>
+  <string id="54665">עבור לאלחוטי</string>
+  <string id="54667">נכשל החיבור באמצעות אתרנט</string>
+  <string id="54668">חובה לבחור אפשרות</string>
+  <string id="54669">[UPPERCASE]קווי[/UPPERCASE]</string>
+  <string id="54670">אלחוטי</string>
+  <string id="54671">בחר רשת אלחוטית להתחברות</string>
+  <string id="54672">חובה לבחור רשת אלחוטית</string>
+  <string id="54673">או</string>
+  <string id="54674">הצטרף לרשת אחרת...</string>
+  <string id="54675">מתקדם</string>
+  <string id="54676">לא נמצאו רשתות אלחוטיות</string>
+  <string id="54677">מחפש רשתות...</string>
+  <string id="54678">נכשל החיבור באמצעות רשת אלחוטית</string>
+  <string id="54679">[UPPERCASE]אלחוטי[/UPPERCASE]</string>
+  <string id="54680">הגדרת הרשת</string>
+  <string id="54681">כתובת IP</string>
+  <string id="54682">מסיכת רשת</string>
+  <string id="54683">שער ברירת מחדל</string>
+  <string id="54684">שרת DNS</string>
+  <string id="54685">פרוקסי HTTP</string>
+  <string id="54686">רשתות אלחוטיות</string>
+  <string id="54687">סיסמת רשת אלחוטית</string>
+  <string id="54688">אבטחת תקשורת אלחוטית</string>
+  <string id="54689">אשר</string>
+  <string id="54690">הכניסה ל[COLOR green]%s[/COLOR] מותנית בסיסמה.</string>
+  <string id="54691">הצג סיסמה</string>
+  <string id="54692">התחל</string>
+  <string id="54693">מאז ייצור מכשיר ה-Boxee שברשותך כבר יצאה לשוק גרסה חדשה של תוכנת Boxee. [CR]שדרג עכשיו!</string>
+  <string id="54694">בחר אבטחת רשת אלחוטית</string>
+  <string id="54695">אשף</string>
+  <string id="54696">כבל האתרנט מחובר אך אין אפשרות להתחבר לאינטרנט.</string>
+  <string id="54697">נוצר חיבור לרשת האלחוטית אך אין אפשרות להתחבר לאינטרנט.</string>
+  <string id="54698">נסה שוב</string>
+  <string id="54699">עבור לאלחוטי</string>
+
+  <!-- Settings for BoxeeBox -->
+  <string id="54700">שרת SMB</string>
+  <string id="54702">הפעל שיתוף קבצים של Windows</string>
+  <string id="54703">- סיסמת שיתוף (שם משתמש: guest)</string>
+  <string id="54704">- קבוצת עבודה לשיתוף</string>
+  <string id="54705">- שם מארח</string>
+  <string id="54720">אזור זמן</string>
+  <string id="54722">מדינת אזור הזמן</string>
+  <string id="54723">עיר אזור הזמן</string>
+  <string id="54724">כתובת WiFi של MAC</string>
+  <string id="54725">כתובת אתרנט של MAC</string>
+  <string id="54726">התקן</string>
+  <string id="54727">מס' סידורי של התקן</string>
+  <string id="54728">גרסת הקושחה</string>
+
+  <string id="54729">עבור לאתרנט</string>
+  <string id="54730">התאם הגדרות...</string>
+  <string id="54731">מוריד כעת</string>
+  <string id="54732">נותרו %d דקות</string>
+  <string id="54733">פחות מדקה נותרה</string>
+  <string id="54734">השדרוג יתחיל כעת ובמהלכו, המכשיר שלך יופעל[CR]מחדש מספר פעמים.</string>
+  <string id="54735">מחשב...</string>
+
+  <string id="54736">VPN</string>
+  <string id="54737">סוג החיבור</string>
+  <string id="54738">PPTP</string>
+  <string id="54739">שרת</string>
+  <string id="54740">חשבון</string>
+  <string id="54741">סיסמה</string>
+  <string id="54742">דרושה הצפנה</string>
+  <string id="54743">התחבר...</string>
+  <string id="54744">התנתק...</string>
+  <string id="54745">%s</string>
+  <string id="54746">מתחבר ל-VPN...</string>
+  <string id="54747">להתנתק מה-VPN?</string>
+  <string id="54748">נכשלה ההתחברות ל-VPN.</string>
+  <string id="54749">הסוללה בשלט עומדת להתרוקן.</string>
+  
+  <string id="54750">הפעל את אשף הגדרות הרשת...</string>
+  <string id="54751">מתקדם</string>
+  
+  <string id="54752">הוצא התקן</string>
+  <string id="54753">אפשר זרימת וידאו ממכשירי iOS</string>
+  <string id="54754">אפשר שליטה ב-Boxee ברשת המקומית</string>  
+
+  <string id="54755">פועל</string>  
+  <string id="54758">התאם אישית את Boxee</string>  
+
+  <string id="54765">כדי להחיל את ההגדרות יש להפעיל מחדש.[CR]האם להפעיל מחדש עכשיו?</string>
+  
+  <string id="54770">האם אתה בטוח שברצונך לצאת מהוידאו?</string>  
+  <string id="54771">אל תציג הודעה זו שוב</string>
+  <string id="54772">הזהר לפני סגירת סרט וידאו</string>  
+  <string id="54775">הישאר</string>  
+  <string id="54776">צא</string>  
+  <string id="54777">עבור לדפדפן</string>  
+  <string id="54778">נקה אובייקטים משותפים של Adobe Flash...</string>
+  <string id="54779">לנקות אובייקטים משותפים של Adobe Flash?</string>
+    
+  <!-- Settings -->
+  <string id="54800">[B]מבוגרים[/B]</string>
+  <string id="54801">חברתי</string>
+  <string id="54802">מוסיקה</string>
+  <string id="54803">[B]מערכת[/B]</string>
+  <string id="54804">[B]מדיה[/B]</string>
+  <string id="54805">[B]רשת[/B]</string>
+  <string id="54806">[B]כללי[/B]</string>
+  <string id="54807">מתקדם</string>
+  <string id="54808">התקנים</string>
+  <string id="54809">בקרת הורים</string>
+
+  <!-- Charsets -->
+  <string id="54810">ערבי</string>
+  <string id="54811">באלטי</string>
+  <string id="54812">מרכז אירופי</string>
+  <string id="54813">סינית פשוטה (GBK)</string>
+  <string id="54814">סינית מסורתית (Big5)</string>
+  <string id="54815">קירילי</string>
+  <string id="54816">יווני</string>
+  <string id="54817">עברי</string>
+  <string id="54818">קנטונזי (Big5 HKSCS)</string>
+  <string id="54819">יפני (Shift JIS)</string>
+  <string id="54820">קוריאני</string>
+  <string id="54821">תאילנדי</string>
+  <string id="54822">טורקי</string>
+  <string id="54823">וייטנאמי</string>
+  <string id="54824">מערב אירופי</string>
+  <string id="54825">Unicode ‏(UTF-8)</string>
+
+  <string id="54830">תפריט</string>
+  <string id="54831">תצוגת ברירת מחדל לתוכניות</string>
+  <string id="54832">תצוגת ברירת מחדל לסרטים</string>
+  <string id="54833">תצוגת ברירת מחדל ליישומים</string>
+  <string id="54834">מועדפים</string>
+  <string id="54835">קבצים</string>
+  <string id="54836">הכל</string>
+
+  <!-- Test bad pixels -->
+  <string id="54850">בדיקת פיקסלים פגומים...</string>
+  <string id="54851">בדיקת פיקסלים פגומים</string>
+  <string id="54852">בחר תצוגת צבע :</string>
+  <string id="54855">אדום</string>
+  <string id="54856">ירוק</string>
+  <string id="54857">כחול</string>
+  <string id="54858">לבן</string>
+  <string id="54859">שחור</string>
+  <string id="54860">מחזורי...</string>
+  <string id="54865">פעולת הלחצן העליון בשלט</string>
+  <string id="54868">הפעל/השהה</string>
+
+  <!-- Black level -->
+  <string id="54870">רמת שחור</string>
+  <string id="54871">מחשב‏ [‎0..255]</string>
+  <string id="54872">וידאו [‎16..235]</string>
+  
+  <!-- 3D mode -->
+  <string id="54880">- פעיל במצב ‎3D כרגע</string>
+  <string id="54881">ללא</string>
+  <string id="54882">זה לצד זה</string>
+  <string id="54883">מעל/מתחת</string>
+  <string id="54884">טלוויזיה תואמת ‎3D (זה לצד זה או מעל/מתחת)</string>
+
+  <!-- Services -->
+  <string id="54885">נקה נתוני Netflix...</string>
+  <string id="54886">ניטרול VUDU...</string>
+  <string id="54887">שירותים</string>
+  <string id="54888">אין שירותים להגדרה.</string>
+  <string id="54889">לנקות נתוני שירות?</string>
+  <string id="54890">מספר התקן Netflix</string>
+  
+  <!-- Browser -->
+  <!-- more on browser at the bottom of this file -->
+  <string id="54893">מצטערים, הדף המבוקש לא נמצא.</string>
+  <string id="54894">רוקן את המועדפים</string>
+  <string id="54895">נקה קבצי cookie...</string>
+  <string id="54896">נקה את המטמון...</string>
+  <string id="54897">דפדפן</string>
+  <string id="54898">לנקות את קבצי ה-cookie של הדפדפן?</string>
+  <string id="54899">לנקות את מטמון הדפדפן?</string>
+  
+  
+  <!-- Ready to watch dropdown -->
+  <string id="54900">מוכן לצפייה</string>
+  <string id="54901">הכל</string>
+  <string id="54902">מועדפים</string>
+  <string id="54903">מקומי</string>
+  <string id="54904">מנויים</string>
+  
+   <!-- Movie Store dropdown -->
+  <string id="54910">חנות הסרטים</string>
+  <string id="54911">הכל</string>
+  
+  <!-- Shows Store dropdown -->
+  <string id="54920">חנות התוכניות</string>
+  <string id="54921">הכל</string>
+  <string id="54922">חנות היישומים</string>
+  
+  <string id="55000">מציג</string>
+  <string id="55001">כותרות</string>
+  <string id="55002">דקות</string>
+  <string id="55003">סרטי הווידאו שותפו</string>
+  <string id="55004">סרטי וידאו</string>
+  <string id="55005">לא נמצאו תוצאות</string>
+
+  <!-- payment -->
+  <string id="55100">קנה</string>
+  <string id="55101">[COLOR green]%s[/COLOR] זמין כעת[CR]כחלק מחבילות אלה מאת %s:</string>
+  <string id="55102">לחץ לקבלת מידע נוסף</string>
+  <string id="55105">נכשלה הבאת הנתונים מהשרת.</string>  
+  <string id="55110">חזרה</string>  
+  <string id="55111">חבילה</string>
+  <string id="55120">האם אתה מקבל את התנאים?</string>
+  <string id="55121">תחויב בסכום של %s לכל %s. באפשרותך לבטל בכל עת[CR]על ידי ניהול המנוי שלך דרך אתר האינטרנט שלנו[CR]www.boxee.tv</string>
+  <string id="55122">קראתי את התנאים וההגבלות</string>
+  <string id="55123">תנאים והגבלות</string>
+  <string id="55124">חובה לקבל את התנאים וההגבלות כדי להמשיך.</string>
+  <string id="55125">מקבל</string>  
+  <string id="55126">דוחה</string>
+  <string id="55130">הזן את סיסמת Boxee</string>
+  <string id="55131">סיסמה</string>
+  <string id="55132">סיסמת Boxee ריקה</string>
+  <string id="55133">הצג סיסמה</string>
+  <string id="55134">המשך</string>
+  <string id="55135">נכשלה השלמת תהלך הקנייה</string>    
+  <string id="55140">פרטי התשלום שלך לא מופיעים ב-Boxee.</string>
+  <string id="55141">ממתין...</string>
+  <string id="55142">אעשה זאת אחר כך</string>  
+  <string id="55143">Boxee שלח קישור אל %s כדי להשלים את העסקה דרך האינטרנט.</string>
+  <string id="55160">אוקיי - הכל מוכן!</string>
+  <string id="55161">צפה כעת</string>
+  <string id="55195">אין אפשרות לבצע פעולה זו</string>
+  <string id="55196">אין חיבור לאינטרנט[CR]Boxee פועל במצב לא מקוון.</string>
+  <string id="55197">החיבור לאינטרנט חודש.[CR]Boxee מקוון כעת.</string>
+  <string id="55198">אין חיבור לאינטרנט</string>
+
+  <string id="55200">עצה מהירה</string>
+  <string id="55201">לחץ על לחצן 'תפריט' כדי לנווט חזרה וגם כדי להפעיל את תפריט Boxee.</string>
+  <string id="55202">לחץ כעת כדי לסגור חלון זה.</string>
+  <string id="55203">בעזרת לחצן MENU ניתן לנווט לאחור ולהפעיל את התפריט של Boxee.[CR][CR][B][COLOR blue]לחץ עליו כעת כדי לסגור את החלון. לחץ עליו שוב כדי להפעיל את תפריט Boxee.[/COLOR][/B]</string>
+  <string id="55210">Boxee תומך ב-AirPlay![CR]עכשיו תוכל להעביר קובצי וידאו ומוסיקה מה-iPhone או ה-iPad שלך למכשיר ה-Boxee וליהנות מהם יחד עם כולם.</string>
+
+  <!-- Playback Settings -->
+  <string id="55300">בחר כתוביות</string>
+  <string id="55301">כתוביות...</string>
+  <string id="55302">בחר זרם אודיו</string>
+  <string id="55303">זרם אודיו...</string>
+  <string id="55304">בחר מערך תווים לכתוביות</string>
+  <string id="55305">מערך תווים...</string>
+  
+  <!-- Browser -->
+  <string id="55400">הזן URL או מונח לחיפוש</string>
+  <string id="55401">צא מהדפדפן</string>  
+  <string id="55402">לחץ על 'תפריט' כדי להציג אפשרויות</string>
+  <string id="55403">דפדפן</string>
+  <string id="55404">האם אתה בטוח שברצונך לצאת מהדפדפן?</string>
+  <string id="55405">חזור</string>
+  <string id="55406">יציאה</string>
+  <string id="55407">האם אתה בטוח שברצונך להסיר את</string>
+  <string id="55408">מוסיף למועדפים</string>
+  <string id="55409">מספר המועדפים המרבי ב-Boxee הוא 12.</string>
+  <string id="55410">הוסף מועדף אחד כדי להוסיף מועדף חדש.</string>
+  <string id="55411">הסרת המועדף נכשלה.</string>
+  <string id="55412">האם אתה בטוח שברצונך לצאת מהיישום?</string>
+  <string id="55414">אופס!</string>
+
+  <string id="55416">פקד מוקפץ</string>
+  <string id="55417">האתר ביקש לפתוח את &apos;%s&apos;</string>
+  <string id="55418">מאשר</string>
+  <string id="55419">לא מאשר</string>
+
+  <!-- Settings for pairing -->
+  <string id="55500">סיסמה</string>
+  <string id="55501">הזן את הסיסמה לעיל ב-'%s' כדי לשייך התקן זה ל-Boxee</string>
+  <string id="55502">[COLOR red]הסיסמה שהוזנה שגויה.[CR]נסה שוב.[/COLOR]</string>
+  <string id="55503">[COLOR green]השיוך בוצע בהצלחה![CR]ההתקן נוסף לרשימת ההתקנים המשויכים.[/COLOR]</string>
+  <string id="55510">התקנים משויכים</string>
+  <string id="55511">התקנים</string>
+  <string id="55512">הסר</string>  
+  <string id="55515">האם אתה בטוח שברצונך לבטל את השיוך של ההתקן?[CR]תצטרך לאמת מחדש את '%s' אם תרצה להשתמש בו שוב עם Boxee זה.</string>
+  <string id="55516">ביטול השיוך של ההתקן '%s' נכשל</string>
+  <string id="55520">כרגע אין התקנים המשויכים ל-Boxee...</string>
+
+  <!-- Login Wizard -->
+  <string id="55610">כדי להתחיל להשתמש ב-Boxee, צור חשבון חדש או היכנס עם חשבון Boxee קיים.</string>
+  <string id="55615">היכנס לחשבון Boxee שלך</string>
+  <string id="55620">דוא"ל</string>
+  <string id="55621">תווים לא חוקיים</string>
+  <string id="55625">התחבר ל-Boxee דרך פייסבוק כדי ליצור בקלות חשבון חדש ולקבל המלצות לתוכני וידאו מחברים ישירות בטלוויזיה שלך. אם אינך רוצה להתחבר דרך פייסבוק, מלא את שדות ההרשמה ולחץ על 'הבא'.</string>
+  <string id="55630">מין</string>
+  <string id="55631">תאריך לידה</string>
+  <string id="55632">שלח</string>
+  <string id="55635">בחר מין</string>
+  <string id="55636">זכר</string>
+  <string id="55637">נקבה</string>
+  <string id="55638">מעדיף לא לפרט...</string>
+  <string id="55645">מידע נוסף</string>
+  <string id="55646">כמעט סיימת. פרטים אלה יעזרו לנו להבין אותך טוב יותר. ואל דאגה, הם יישמרו בסודיות ולא נמסור אותם לאף אחד.</string>
+  <string id="55650">מין</string>
+  <string id="55651">שנה</string>
+  <string id="55652">חודש</string>
+  <string id="55653">יום</string>
+  <string id="55660">עניינים משפטיים…[CR]איזה שעמום!</string>
+  <string id="55661">כדי לסיים את הגדרת חשבון Boxee, קבל את תנאי השימוש ואת מדיניות הפרטיות.</string>
+  <string id="55670">השתמש ב-Boxee כרשת חברתית</string>
+  <string id="55671">קבל המלצות לתוכני וידאו מחברים ישירות בטלוויזיה שלך, כך שלא תפספס את הסרטונים האחרונים שמסתובבים ברשת ותוכל לשתף את הסרטונים שאהבת!</string>
+  <string id="55672">כדי להמשיך, יש למלא את כל השדות.</string>
+  <string id="55673">מצטערים, כדי ליצור חשבון Boxee אתה צריך להיות בן 13 לפחות. נחכה לך עד אז!</string>
+  <string id="55690">הסר חשבון</string>
+  <string id="55691">האם אתה בטוח שברצונך להסיר את [COLOR white]%s[/COLOR] מהתקן זה?[CR][CR]שים לב: פעולה זו לא תמחק את החשבון.תוכל להוסיף אותו שוב כשתרצה.</string>
+
+  <string id="55695">התאם אישית את ה-Boxee שלך</string>
+  <string id="55696">ספר ל-Boxee באילו תכנים אתה מתכוון לצפות בעיקר, ואנחנו נתאים אישית את חוויית השימוש שלך ונציג את פריטי הווידאו האלה בספריות תוכניות הטלוויזיה והסרטים.[CR][CR]שים לב: תוכל לשנות העדפה זו מאוחר יותר בתפריט ההגדרות.</string>
+  <string id="55699">התחל להשתמש ב-Boxee</string>
+
+  <!-- Empty Browse Screens -->
+  <string id="56000">רשימת 'צפה בהמשך' ריקה.</string>
+  <string id="56001">כאן יופיעו פרקים חדשים של תוכניות טלוויזיה שתסמן כמועדפים ותוכל גם להוסיף כל סרט וידאו באופן ידני, על ידי לחיצה על סמל 'צפה בהמשך' שלו.</string>
+  <string id="56002">תוכל להוסיף גם סרטי וידאו מהאינטרנט. לקבלת הוראות, בקר בדף [COLOR yellow]http://www.boxee.tv/watchlater[/COLOR].</string>
+  <string id="56003">הוסף חברים.</string>
+  <string id="56004">תוכל לצפות בסרטי וידאו שחברים שיתפו דרך פייסבוק וטוויטר. [CR]הפעל תכונה זו על ידי חיבור חשבונות פייסבוק וטוויטר שלך ל-Boxee.</string>
+  <string id="56005">הוסף את היישום המועדף עליך</string>
+  <string id="56006">לחץ על סמל 'מועדפים' לפני הפעלת יישום כדי להוסיף אותו למועדפים.</string>
+  <string id="56007">עדיין אין פרטים בהיסטוריה</string>
+  <string id="56008">הפריטים שתפעיל יופיעו ברשימה זו כדי להקל עליך למצוא אותם אם תרצה להפעיל אותם שוב.</string>
+  <string id="56009">עדיין אין תמונות מקומיות</string>
+  <string id="56010">כדי להציג את התמונות שלך ב-Boxee, הוסף תיקייה מדיסק קשיח או ממקור ברשת.</string>
+  <string id="56011">דפדף בין יישומים לתמונות</string>
+  <string id="56012">הוסף את התוכנית המועדפת עליך</string>
+  <string id="56013">לחץ על סמל 'מועדפים' במסך הפרקים של התוכנית כדי להוסיף אותה למועדפים.</string>
+  <string id="56014">עדיין אין מוסיקה מקומית</string>
+  <string id="56015">כדי להשמיע מוסיקה ב-Boxee, הוסף תיקייה מדיסק[CR]קשיח או ממקור ברשת.</string>
+  <string id="56016">או...</string>
+  <string id="56017">חפש מקורות</string>
+  <string id="56018">חפש יישומי מוסיקה</string>
+  <string id="56019">אין מה לראות</string>
+  <string id="56020">Boxee לא איתר בקטגוריה זו סרטי וידאו שניתן לצפות בהם באזורך.</string>
+  <string id="56021">עדיין אין קבצים</string>
+  <string id="56022">כדי לקבל גישה לקבצים מקומיים ב-Boxee, הוסף תיקייה מדיסק קשיח או ממקור ברשת.</string>
+  <string id="56023">עדיין אין מדיה מקומית</string>
+  <string id="56024">כדי להפעיל מדיה מקומית ב-Boxee, הוסף תיקייה מדיסק קשיח או ממקור ברשת.</string>
+  <string id="56025">סריקה מלאה של המקור על ידי Boxee עשויה להימשך זמן-מה, בהתאם לגודל הפריט.</string>
+  <string id="56026">עדיין אין מאגרים</string>
+  <string id="56027">מאגרים הם ספריות של יישומים של ספקים שונים. תוכל לאתר אותם על ידי חיפוש באינטרנט.</string>
+  <string id="56028">הוסף מאגר</string>
+  <string id="56029">עדיין לא הוגדר מקור מדיה מקומית.</string>
+  <string id="56030">כדי להפעיל מדיה מקומית ב-Boxee, הוסף תיקייה מדיסק קשיח או ממקור ברשת.</string>
+  <string id="56031">כדי להוסיף, לחץ על הלחצן הבא כדי להוסיף את ה-URL של המקור.</string>
+  <string id="56032">[COLOR yellow]www.boxee.tv/services[/COLOR] בקר בדף. </string>
+  <string id="56033">Boxee אינו מחובר...</string>
+  <string id="56034">התוכן המבוקש לא זמין משום ש-Boxee אינו מחובר לאינטרנט.</string>
+  <string id="56035">אשף הרשת</string>
+  <string id="56036">אין פרקים לצפייה.</string>
+  <string id="56037">אין מועדפים.</string>
+  <string id="56038">המאגר ריק.</string>
+  <string id="56039">אין כרגע יישומים זמינים במאגר זה.</string>
+  <string id="56040">אין סרטים המתאימים למסנן הנוכחי.</string>
+  <string id="56041">אין טריילרים זמינים כאשר Boxee מחובר לאינטרנט.</string>
+  <string id="56042">Boxee לא מצא טריילרים להצגה.</string>
+  <string id="56043">צור רשימת סרטים, תוכניות וסרטוני וידאו מהאינטרנט לצפייה בהמשך.[CR][CR]שמור סרטוני וידאו מ-YouTube, ‏Vimeo ועוד המון אתרים נוספים באמצעות הסימנייה של Boxee.[CR][CR]העבר תוכנית לרשימת המועדפים בעזרת לחצן הכוכב כדי שכל פרק חדש יתווסף אוטומטית לתור שלך.</string>
+  <string id="56044">למידע נוסף, עבור אל</string>
+  <string id="56046">הנחיות בסיסיות</string>
+  <string id="56047">ענק!</string>
+  <string id="56048">זה עתה שלחנו הודעת דוא&quot;ל אל [COLOR green]%s[/COLOR] ובה הנחיות בסיסיות.</string>
+  <string id="56049">עדיין אין מקורות מקומיים</string>
+  <string id="56050">כדי לדפדף בין מקורות מקומיים ב-Boxee, הוסף תיקייה מדיסק קשיח או ממקור ברשת.</string>
+
+  <string id="56051">כאן יופיעו פרקים חדשים של תוכניות טלוויזיה שתסמן כמועדפים ותוכל גם להוסיף כל סרט וידאו באופן ידני, על ידי לחיצה על סמל 'צפה בהמשך' שלו.[CR]תוכל להוסיף גם סרטי וידאו מהאינטרנט. לקבלת הוראות, בקר בדף [COLOR yellow]http://www.boxee.tv/watchlater[/COLOR]</string>
+  
+  <string id="56061">אין מדיה מקומית...</string>
+  <string id="56062">אין פריטים...</string>
+  <string id="56070">עדיין אין מקורות...</string>
+  <string id="56071">קבל גישה לסרטוני וידאו, לשירים או לתמונות ממחשבים או כונני רשת.[CR][CR]כדי להוסיף מקור, עיין בקבצים שלך ועבור לספרייה המכילה את פריטי המדיה שלך. לאחר מכן, לחץ על הלחצן [COLOR boxeegreenheidi]+[/COLOR] בפינה הימנית העליונה של המסך.</string>
+  <string id="56080">מביא סרטוני וידאו ששותפו על ידי חברים...</string>
+  <string id="56081">לפעמים התהליך הזה לוקח קצת זמן, אז אנא המתן בסבלנות בזמן ש-Boxee מבצע את המשימה.</string>
+  <string id="56085">חזרה למסך הבית</string>
+
+  <!-- queue/watch later screen -->
+  <string id="57000">נוסף מ </string>
+  <string id="57001">האינטרנט </string>
+  <string id="57002">ספרייה </string>
+  <string id="57003">היום</string>
+  <string id="57004">לפני יום</string>
+  <string id="57005">לפני ימים</string>
+  <string id="57006">תוכנית מועדפת</string>
+  <string id="57007">אתמול</string>
+  <string id="57008">ישן יותר</string>
+  <string id="57010">לצפייה בהמשך</string>
+
+  <!-- history screen -->
+  <string id="57040">נצפה </string> 
+  <string id="57041">הופעל </string> 
+
+  <string id="57100">אין אפשרות להגדיר רשת אלחוטית.[CR]בדוק את הסיסמה שלך ונסה שוב.</string>
+  <string id="57101">לא ניתן לאמת את אישור ה-SSL של האתר</string>
+
+  <!-- short versions of months (string 21) -->
+  <string id="57121">ינו'</string>
+  <string id="57122">פבר'</string>
+  <string id="57123">מרץ</string>
+  <string id="57124">אפר'</string>
+  <string id="57125">מאי</string>
+  <string id="57126">יוני</string>
+  <string id="57127">יולי</string>
+  <string id="57128">אוג'</string>
+  <string id="57129">ספט'</string>
+  <string id="57130">אוק'</string>
+  <string id="57131">נוב'</string>
+  <string id="57132">דצמ'</string>
+
+  <!-- subtitles settings -->
+  <string id="57200">ברירת מחדל</string>
+  <string id="57201">57235</string>
+  <string id="57202">ערבית,ara</string>
+  <string id="57203">קטאלאן,cat</string>
+  <string id="57204">סינית (פשוטה),chi</string>
+  <string id="57205">סינית (מסורתית),zho</string>
+  <string id="57206">קרואטית,cos</string>
+  <string id="57207">צ'כית,ces</string>
+  <string id="57208">דנית,dan</string>
+  <string id="57209">גרמנית,deu</string>
+  <string id="57210">הולנדית,dut</string>
+  <string id="57211">אסטונית,est</string>
+  <string id="57212">אנגלית,eng</string>
+  <string id="57213">פינית,fin</string>
+  <string id="57214">צרפתית,fra</string>
+  <string id="57215">יוונית,gre</string>
+  <string id="57216">עברית,heb</string>
+  <string id="57217">הונגרית,hun</string>
+  <string id="57218">אינדונזית,ind</string>
+  <string id="57219">איטלקית,ita</string>
+  <string id="57220">יפנית,jpn</string>
+  <string id="57221">קוריאנית,kor</string>
+  <string id="57222">ליטאית,lit</string>
+  <string id="57223">נורווגית,nor</string>
+  <string id="57224">פרסית,fas</string>
+  <string id="57225">פולנית,pol</string>
+  <string id="57226">פורטוגזית,por</string>
+  <string id="57227">פורטוגזית (ברזיל),por</string>
+  <string id="57228">רוסית,rus</string>
+  <string id="57229">סרבית,srp</string>
+  <string id="57230">סלובקית,slk</string>
+  <string id="57231">סלובנית,slv</string>
+  <string id="57232">ספרדית,spa</string>
+  <string id="57233">שוודית,swe</string>
+  <string id="57234">טורקית,tur</string>
+  <string id="57235">אוקראינית,ukr</string>
+
+  <string id="57290">שפה מועדפת</string> <!-- Audio & Subtitles Preferred Language -->
+  
+  <string id="57300">מדיניות ביטול אחסון שזור</string>
+  <string id="57301">אוטו'</string>
+  <string id="57302">וידאו</string>
+  <string id="57303">סרט</string>
+  <string id="57304">מרחבי בלבד</string>
+  <string id="57305">שדה עליון בבלד</string>
+  <string id="57306">אף פעם, למעט בהתאמת גודל</string>
+  <string id="57307">אף פעם</string>
+  
+  <string id="57310">ליטוש מעגלים</string>
+  <string id="57315">מסנן גאוס</string>
+
+  <string id="57400">שפה</string>
+  <string id="57401">האם אתה בטוח שברצונך לשנות את השפה ל-%s?[CR]השינוי יכנס לתוקף לאחר הפעלה מחדש.</string> 
+
+  <!-- afp settings --> 
+  <string id="57500">לקוח AFP</string>
+
+  <!-- browse menu -->
+  <!-- Movie screen -->
+  <string id="57600">התור שלי</string>
+  <string id="57601">ספריית הסרטים</string>
+  <string id="57605">ספריית התוכניות</string>
+  <string id="57606">התוכניות שלי</string>
+  <string id="57610">לא מזוהה</string>
+
+  <!-- Live TV -->
+  <string id="58000">Boxee live TV</string>
+  <string id="58001">סורק לאיתור ערוצים</string>
+  <string id="58002">הסריקה הושלמה.[CR]%d ערוצים נמצאו.</string>
+  <string id="58003">הסריקה הושלמה.[CR] לא נמצאו ערוצים.</string>
+  <string id="58004">כל הערוצים</string>
+  <string id="58005">Boxee live TV</string>
+  <string id="58006">בעוד כמה דקות תוכל ליהנות מערוצי הטלוויזיה שאתה הכי אוהב באמצעות הממשק החברתי הייחודי של Boxee.[CR][CR]חבר אנטנה או כבל למתאם הטלוויזיה בשידור ישיר ולאחר מכן לחץ על [COLOR boxeegreenheidi]הבא[/COLOR].</string>
+  <string id="58007">חבר אנטנה או כבל טלוויזיה למתאם הטלוויזיה בשידור ישיר.</string>
+  <string id="58010">האם אתה נמצא כעת ב</string>
+  <string id="58011">מדריך השידורים</string>
+  <string id="58012">כדי לאתר את מדריך השידורים המתאים לאזור שלך, עלינו לבדוק היכן אתה נמצא.</string>
+  <string id="58013">ציין מדינה</string>
+  <string id="58014">ציין עיר</string>
+  <string id="58015">רשימת ערוצים</string>
+  <string id="58016">Boxee יציג כעת רשימות ערוצים הרלוונטיות למיקום שציינת.[CR][CR]ספר ל-Boxee מהיכן מגיעים אותות הטלוויזיה שלך, כך שנוכל להציג את רשימות הערוצים הנכונות.</string>
+  <string id="58018">ציין את המדינה</string>
+  <string id="58019">אנטנה</string>
+  <string id="58020">סרוק שוב את היצע הערוצים. %s ערוצים נמצאו...</string>
+  <string id="58021">שיתוף הרגלי צפייה עם חברים</string>
+  <string id="58022">שנה הגדרות טלוויזיה בשידור ישיר...</string>
+  <string id="58023">התחל סריקה חוזרת</string>
+  <string id="58024">הפעל את תוכנית ההגדרה</string>
+  <string id="58025">סטטוס</string>
+  <string id="58026">מחובר</string>
+  <string id="58027">מנותק</string>
+  <string id="58028">התקן</string>
+  <string id="58029">מיקום</string>
+  <string id="58030">כבל</string>
+  <string id="58031">מיקוד לא חוקי, נסה שוב</string>
+  <string id="58032">טלוויזיה בשידור ישיר[CR]טוען...</string>
+  <string id="58033">חדש</string>
+  <string id="58034">שידור ישיר</string>
+  <string id="58036">עקוב אחר התוכניות שאתה הכי אוהב</string>
+  <string id="58037">בחר את התוכניות שאתה אוהב כדי לקבל פרקים חדשים[CR]באופן אוטומטי כאשר יהיו זמינים.</string>
+  <string id="58040">Boxee מציע דרך חדשה לשתף את הדברים שאתה צופה בהם עם חברים ובני משפחה דרך ציר הזמן שלך בפייסבוק.[CR][CR]תוכל לבטל את השיתוף בכל שלב דרך הגדרות Live TV.</string>
+  <string id="58041">השתמש ב-Boxee[CR]כרשת חברתית</string>
+  <string id="58042">דלג</string>
+  <string id="58045">הודעות</string>
+  <string id="58046">נהדר - שמרנו את כל התוכניות שאתה אוהב.[CR][CR]Boxee יוסיף כעת פרקים אינטרנטיים חדשים לתור הטלוויזיה שלך וישלח לך הודעת דוא"ל שבועית ובה פירוט התוכניות המוקרנות בטלוויזיה בשידור ישיר השבוע.</string>
+  <string id="58047">שלח לי הודעה על:</string>
+  <string id="58048">פרקים חדשים</string>
+  <string id="58049">כל הפרקים</string>
+  <string id="58050">[B]טלוויזיה בשידור ישיר[/B]</string>
+  <string id="58051">[B]אות חלש או שאין אות[B]</string>
+  <string id="58052">אין אות</string>
+  <string id="58053">אין ערוצים</string>
+  <string id="58054">סורק</string>
+  <string id="58055">%d ערוצים</string>
+  <string id="58056">מדריך</string>
+  <string id="58057">שמור על יחס 4:3 בתצוגה</string>
+  <string id="58058">שתף את הפריטים שאתה צופה בהם עם חברים ובני משפחה דרך ציר הזמן שלך בפייסבוק.[CR][CR]אתה רק צריך לאשר ל-Boxee לפרסם אירועי צפייה.[CR][CR]תוכל לבטל את השיתוף בכל שלב דרך הגדרות Live TV.</string>
+  <string id="58059">עדכן הרשאות</string>
+
+  <string id="58060">הגדר מגבלת דירוג לטלוויזיה...</string>
+  <string id="58061">בחר מגבלת דירוג לטלוויזיה</string>
+  <string id="58062">בחר את מגבלת הדירוג לתוכניות טלוויזיה כדי להגביל את הצפייה בהן בספריות של תוכן לפי דרישה, מקומיות ואינטרנטיות.[CR]אם הגדרת טלוויזיה בשידור ישיר של Boxee, התוכניות יופיעו ברשימות, אך כדי לצפות בהן תידרש להזין סיסמה.[CR]לא ניתן לסנן קבצים מקומיים לא מזוהים.</string>
+  <string id="58063">בחר מגבלת דירוג לסרטים</string>
+  <string id="58064">בחר את מגבלת הדירוג לסרטים כדי להגביל את הצפייה בהם בספריות של תוכן לפי דרישה, מקומיות ואינטרנטיות.[CR]אם הגדרת טלוויזיה בשידור ישיר של Boxee, הסרטים יופיעו ברשימות, אך כדי לצפות בהם תידרש להזין סיסמה.[CR]לא ניתן לסנן קבצים מקומיים לא מזוהים.</string>
+  <string id="58065">הגדר סיסמה</string>
+  <string id="58066">יהיה עליך להזין סיסמה זו כדי להציג תכנים בעלי דירוג גבוה ממגבלת הדירוג שקבעת, וכדי לבצע שינויים בהגדרות בקרת ההורים.</string>
+  <string id="58067">תוכן מוגבל</string>
+  <string id="58068">עליך להזין סיסמה כדי לצפות בתוכן וידאו זה...</string>
+  <string id="58069">הממ... זו לא הסיסמה. נסה שוב.</string>
+  <string id="58070">הגדרת מגבלת דירוג לסרטים...</string>
+  <string id="58071">הגדר סיסמה לצפייה בתוכן למבוגרים...</string>
+  <string id="58072">שנה את הסיסמה של תוכן למבוגרים...</string>
+  <string id="58073">שנה סיסמה</string>
+  <string id="58074">הזן את הסיסמה הנוכחית כדי להמשיך...</string>
+  <string id="58075">הסיסמה אומתה. הזן את הסיסמה החדשה.</string>
+  <string id="58076">המתן רגע עד שנאתר ערוצים זמינים באזורך.</string>
+  <string id="58077">עבור אל טלוויזיה בשידור ישיר</string>
+  <string id="58078">הממ, לא מצאנו ערוצים... נסה שוב או לחץ על &apos;חזור&apos; כדי לבטל.</string>
+  <string id="58079">האם לבטל את הסריקה?</string>
+  <string id="58080">האם אתה בטוח שברצונך להפסיק את הסריקה לאיתור ערוצים?</string>
+  <string id="58081">אין אינטרנט</string>
+  <string id="58082">לסריקת ערוצים דרוש חיבור לאינטרנט.</string>
+  <string id="58083">סגור</string>
+  <string id="58084">בטל סריקה</string>
+  <string id="58085">הזהר אותי לפני שאני סוגר את Live TV</string>
+  <string id="58090">לא נמצאו ערוצים</string>
+  <string id="58091">נסה להזיז את האנטנה למקום אחר. ודא שהיא מחוברת היטב.[CR][CR]ניתן גם לחבר את הכבל הקו-אקסיאלי של ספק האינטרנט/כבלים כדי ליהנות מערוצי QAM ללא תשלום.</string>
+  <string id="58092">ודא שהכבל מחובר היטב לטיונר ה-USB ושהוא לא יוצא מהממיר (השתמש במפצל).[CR][CR]ניתן גם לחבר את האנטנה המצורפת לטיונר ה-USB (או אנטנה משלך).</string>
+  <string id="58093">השתמש בכבל</string>
+  <string id="58094">השתמש באנטנה</string>
+  <string id="58095">שנה הגדרות[CR]‏Live TV</string>
+  <string id="58096">ודא שהאנטנה או הכבל מחוברים לטיונר ה-USB.[CR][CR]שינויים שביצעת בהיצע הערוצים לא יישמרו.</string>
+
+
+  <!--strings through from 80000-80999 reserved for server definitions -->
+  <string id="80000">יבא מ </string>
+  <string id="80001">עבור לכאן כדי להפעיל:</string>
+  <string id="80002">ציין אילו שירותים ברצונך לכלול בעדכוני הווידאו</string>
+  <string id="80003">העדכון שתקבל יוכל להציג סרטי וידאו מהזרמות פייסבוק, טוויטר ו-Google[CR]Buzz.[CR][CR]כדי להפעיל תכונה זו, עליך לבקר באתר האינטרנט שלנו ולהפעיל את החשבונות שלך: [CR]</string>
+  <string id="80004">Facebook Connect מושבת</string>
+  
+  <!--strings through from 81000-81099 reserved for payment server errors -->
+  <string id="81000">אין אפשרות להשלים פעולה זו בגלל שגיאה בשרת.</string>
+  <string id="81001">סיסמה שגויה.</string>
+  <string id="81002">בתשלום</string>
+  <string id="81003">אתה מנסה ליצור מנוי למוצרים לא פעילים</string>
+  <string id="81004">כבר יש לך מנוי למוצר זה</string>
+  <string id="81005">שגיאת אימות. נסה להשתמש בכרטיס אשראי אחר.</string>
+  <string id="81006">כרגע אינך מנוי על מוצר זה</string>
+  
+  <!--strings from 82000-82099 reserved for item summary -->
+  
+  <string id="82000"> סינון לפי </string>
+  <string id="82001"> מיון לפי </string>
+  <string id="82002"> מז'אנר </string>
+  <string id="82003">אלבומים של </string>
+  <string id="82004"> סופק על ידי </string>
+  <string id="82005">מוסיקה לפי אמן</string>
+  <string id="82006">מוסיקה לפי אלבום</string>
+
+  <!-- strings from 90000 - 90020 reserved for language templates -->
+
+  <string id="90000">%sort%%filter%%source%%media%</string> <!-- apps -->
+  <string id="90001">%sort%%channel%%filter%%source%%media%</string> <!-- movies -->
+  <string id="90002">%sort%%channel%%filter%%source%%media%</string> <!-- shows -->
+  <string id="90003">%sort%%filter%%media%</string> <!-- albums -->
+  <string id="90004">%sort%%media%</string> <!-- photos -->
+  <string id="90005">%sort%%media%</string> <!-- local -->
+  <string id="90006"></string> <!-- a prefix for sort (used in other languages) -->
+  <string id="90007"></string> <!-- a prefix for channel (used in other languages) -->
+  <string id="90008">%sort%%channel%%filter%%source%%media%</string> <!-- trailers -->
+
+  <!-- strings from 90040 - 90080 reserved for window descriptions -->
+
+  <string id="90040">יישומים</string>
+  <string id="90041">סרטים</string>
+  <string id="90042">תוכניות</string>
+  <string id="90043">אלבומים</string>
+  <string id="90044">תמונות</string>
+  <string id="90045">טריילרים</string>
+  <string id="90046">אמנים</string>
+  <string id="90047">סרטי וידאו</string>
+  <string id="90048">פרקים</string>
+  <string id="90049">סרטי וידאו לא מזוהים</string>
+  <string id="90050">פריטים</string>
+  <string id="90051">פריט</string>
+
+  <!-- strings from 90100 - 90130 reserved for Advanced settings -->
+
+  <string id="90100">סביבת שרת</string>
+  <string id="90101">בדיקות</string>
+  <string id="90102">ייצור</string>
+  <string id="90103">בחר את סביבת השרת:</string>
+  <string id="90104">סביבת שרת</string>
+  <string id="90105">האם אתה בטוח שברצונך לשנות את סביבת השרת?</string>
+
+  <!-- strings from 90130 - 90180 reserved for EPG -->
+  <string id="90131">[B]בוקר[/B]</string>
+  <string id="90132">[B]אחה"צ[/B]</string>
+  <string id="90133">[B]ערב[/B]</string>
+  <string id="90134">[B]לילה[/B]</string>
+  <string id="90135">היום</string>
+  <string id="90136">מחר</string>
+  <string id="90137"> ו </string> <!-- keep space at the begining and end-->
+  <string id="90138">%d אחרים צופים.</string> <!-- place the %d where the number should appear, do no translate the %d, keep as is -->
+
+  <!-- more Browser -->
+  <string id="90210">נקה אחסון מקומי...</string>
+  <string id="90211">לנקות את האחסון המקומי של הדפדפן?</string>
+
+  <!-- VIDEO OSD -->
+  <string id="90212">הגדרות מתקדמות</string>
+  <string id="90213">לצאת מהווידאו</string>
+  <string id="90214">כבוי</string>
+  <string id="90215">חזרה לתיקיית האב</string>
+  <string id="90216">דפדוף מקומי...</string>
+  <string id="90217">דפדף באינטרנט...</string>
+  <string id="90218">וידאו זה לא תומך בחיפוש פרקים</string>
+
+  <!-- Live TV -->
+  <string id="90310">חזרה לטלוויזיה בשידור ישיר</string>
+  <string id="90311">ערוך ערוצים</string>
+  <string id="90312">השבת שיתוף</string>
+  <string id="90313">הפעל שיתוף</string>
+  <string id="90315">הסתר או שנה שם של ערוצים כדי להתאים אישית את היצע הערוצים.</string>
+  <string id="90316">יציאה מ-Live TV</string>
+  <string id="90317">האם אתה בטוח שברצונך לצאת מ-Live TV?</string>
+  <string id="90318">שם הערוץ</string>
+  <string id="90319">אין לנו לוח שידורים לאזור שלך.</string>
+  <string id="90320">בחר לוח שידורים מתאים</string>
+  <string id="90321">אין לוח שידורים</string>
+
+
+  <!-- Main Menu -->
+  <string id="90400">התחל להקליד כדי לבצע [B]חיפוש[/B]</string>
+
+  <!-- MEDIA ACTION -->
+  <string id="90450">יישום</string>
+  <string id="90451">תוכנית</string>
+  <string id="90452">סקירה</string>
+  <string id="90453">שחקנים וצוות הפקה</string>
+  <string id="90454">מידע קשור</string>
+
+  <!-- HOME SCREEN -->
+  <string id="90550">הגדרות רשת</string>
+
+</strings> 

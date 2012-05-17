@@ -1,0 +1,19 @@
+ARCH=@ARCH@
+OBJS=uXboxAdpcmDecoder.o ADPCMDll.o
+CFLAGS +=-D_LINUX -fPIC -O2
+CXXFLAGS += -D_LINUX -fPIC -O2
+
+SLIB=../../../../system/players/paplayer/adpcm-@ARCH@.so
+
+$(SLIB): $(OBJS)
+ifeq ($(findstring osx,$(ARCH)), osx)
+	$(CXX) $(LDFLAGS) -Wl,-alias_list,../../DllLoader/exports/wrapper_mach_alias \
+		-bundle -undefined dynamic_lookup -fPIC -o $@ ../../DllLoader/exports/wrapper.o \
+		*.o $(BUNDLE1_O)
+	chmod +x $@
+else
+	$(CC) -shared -o $@ *.o `cat ../../DllLoader/exports/wrapper.def` ../../DllLoader/exports/wrapper.o
+endif
+
+include ../../../../Makefile.include
+

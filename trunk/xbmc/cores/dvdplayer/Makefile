@@ -1,0 +1,30 @@
+INCLUDES=-I. -I.. -I../../.. -I../../ -I../../linux -I../../utils -I../../../guilib -I../../../guilib/tinyXML -I../../FileSystem -ICodecs -ICodecs/ffmpeg
+
+CXXFLAGS+=-D__STDC_FORMAT_MACROS -D__STDC_CONSTANT_MACROS
+
+SRCS=	DVDAudio.cpp \
+	DVDClock.cpp \
+	DVDDemuxSPU.cpp \
+	DVDMessage.cpp \
+	DVDMessageQueue.cpp \
+	DVDMessageTracker.cpp \
+	DVDOverlayContainer.cpp \
+	DVDOverlayRenderer.cpp \
+	DVDPerformanceCounter.cpp \
+	DVDPlayerAudio.cpp \
+	DVDPlayer.cpp \
+	DVDPlayerSubtitle.cpp \
+	DVDPlayerVideo.cpp \
+	DVDPlayerTeletext.cpp \
+	DVDStreamInfo.cpp \
+	DVDFileInfo.cpp \
+        DVDPlayerAudioResampler.cpp \
+	DVDTSCorrection.cpp \
+	Edl.cpp \
+	PacketCache.cpp
+
+LIB=	DVDPlayer.a
+
+include ../../../Makefile.include
+-include $(patsubst %.cpp,%.P,$(patsubst %.c,%.P,$(SRCS)))
+

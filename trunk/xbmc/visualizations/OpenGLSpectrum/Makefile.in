@@ -1,0 +1,21 @@
+ARCH=@ARCH@
+INCLUDES=-I. -I.. -I../../linux -I../../ -I ../../../guilib
+ifeq (@USE_GLES@,1)
+DEFINES+=-DHAS_GLES=2 -DHAS_EGL
+else
+DEFINES+=-DHAS_SDL_OPENGL -DHAS_SDL -DHAS_GL
+endif
+CXXFLAGS=-O3 -fPIC
+OBJS=opengl_spectrum.o
+
+SLIB=../../../visualisations/opengl_spectrum.vis
+
+$(SLIB): $(OBJS)
+ifeq ($(findstring osx,$(ARCH)), osx)
+	$(CXX) -dynamiclib -shared -undefined suppress -flat_namespace \
+		$(CXXFLAGS) -o $(SLIB) $(OBJS)
+else
+	$(CXX) -shared $(CXXFLAGS) -o $(SLIB) $(OBJS)
+endif
+
+include ../../../Makefile.include

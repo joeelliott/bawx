@@ -1,0 +1,25 @@
+ARCH=@ARCH@
+
+INCLUDES=-I. -I../../ -I../../linux -I../../../guilib -I../../utils -I../dvdplayer -I.. -I../dvdplayer/Codecs -I../dvdplayer/Codecs/ffmpeg
+
+ifeq ($(findstring osx,$(ARCH)), osx)
+SRCS = \
+	NullDirectSound.cpp \
+	AudioRendererFactory.cpp \
+	CoreAudioRenderer.cpp \
+	AudioUtilsHelperApple.cpp \
+	AudioUtils.cpp
+else
+SRCS = \
+	NullDirectSound.cpp \
+	AudioRendererFactory.cpp \
+	IntelSMDAudioRenderer.cpp \
+	ALSADirectSound.cpp \
+	AudioUtilsHelperLinux.cpp \
+	AudioUtils.cpp
+endif
+
+LIB=audiorenderers.a
+
+include ../../../Makefile.include
+-include $(patsubst %.cpp,%.P,$(patsubst %.c,%.P,$(SRCS)))

@@ -1,0 +1,33 @@
+#!/bin/sh
+pkill -9 Boxee
+
+# If running with sudo, fix the home directory
+if [ -n "$SUDO_USER" ]
+then
+  export HOME=`cat /etc/passwd | grep "^${SUDO_USER}:" | cut -d':' -f6`
+fi
+
+if [ -d "$HOME/.boxee" ]
+then
+   ( /usr/bin/find "$HOME/.boxee" -name ViewModes.db -exec /bin/rm -f {} \; ) 2>&1 > /dev/null
+   ( /usr/bin/find "$HOME/.boxee" -name BoxeeViewModes.db -exec /bin/rm -f {} \; ) 2>&1 > /dev/null
+
+   /opt/boxee/Boxee -usf 2>&1 > /dev/null
+
+   # this is an upgrade from version without the thumbnails manager to the one with the thumbnails manager 
+   # for each thumbnails directory - if there is no thumb_file.gdbm then it is the old version - delete all the thumbnails
+   find $HOME/.boxee/UserData/ -name Thumbnails -exec sh -c  'if [ ! -f $1"/thumb_files.gdbm" ] ; then a=$1"/*" ; echo rm -rf $a ; rm -rf $a \ ; fi' sh {} \;
+   
+   if [ -n "$SUDO_USER" ]
+   then
+     chown -R $SUDO_USER $HOME/.boxee
+   fi
+fi
+#add repository 
+OS_CODENAME=`lsb_release -c | awk '{ print $2 }'`
+echo "deb http://apt.boxee.tv/ $OS_CODENAME main" > /tmp/__boxee.list
+cp /tmp/__boxee.list /etc/apt/sources.list.d/boxee.list
+rm /tmp/__boxee.list
+
+
+/bin/rm -rf /tmp/boxee 2>&1 > /dev/null

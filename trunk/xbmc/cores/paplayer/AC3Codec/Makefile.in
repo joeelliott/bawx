@@ -1,0 +1,28 @@
+ARCH=@ARCH@
+CFLAGS=-D_LINUX -fPIC -Iinclude -Ivc++
+ifeq ($(findstring osx,$(ARCH)), osx)
+    export MACOSX_DEPLOYMENT_TARGET=@OSX@
+    CFLAGS+=-fno-common @ARCH_DEFINES@
+endif
+ifeq ($(ARCH), powerpc-osx)
+	BUNDLE1_O=-lbundle1.o -L/usr/lib/gcc/powerpc-apple-darwin8/4.0.1/ -lgcc
+endif
+
+
+OBJS=liba52/bit_allocate.o liba52/bitstream.o liba52/downmix.o liba52/imdct.o liba52/parse.o
+SYSDIR=../../../../system/players/paplayer
+SO=ac3codec-@ARCH@.so
+SLIB=$(SYSDIR)/$(SO)
+
+$(SLIB): $(OBJS)
+ifeq ($(findstring osx,$(ARCH)), osx)
+		$(CXX) $(LDFLAGS) -Wl,-alias_list,../../DllLoader/exports/wrapper_mach_alias \
+		-bundle -undefined dynamic_lookup -fPIC -o $@ ../../DllLoader/exports/wrapper.o \
+		$(OBJS) $(BUNDLE1_O)
+	chmod +x $@
+else
+	$(CC) -fPIC -shared -o $@ $(OBJS) \
+		`cat ../../DllLoader/exports/wrapper.def` ../../DllLoader/exports/wrapper.o
+endif
+
+include ../../../../Makefile.include

@@ -1,0 +1,41 @@
+TOC
+1. Introduction
+2. Installing the required Ubuntu packages
+3. How to compile
+4. Create Installer
+
+-----------------------------------------------------------------------------
+1. Introduction
+-----------------------------------------------------------------------------
+
+We currently recommend Ubuntu 11.10.
+
+NOTE TO NEW LINUX USERS: All lines that are prefixed with the '#'
+character are commands that need to be typed into a terminal window /
+console (similar to the command prompt for Windows). Note that the '#'
+character itself should NOT be typed as part of the command.
+
+-----------------------------------------------------------------------------
+2. Installing the required Ubuntu packages
+-----------------------------------------------------------------------------
+
+   # sudo apt-get install make g++ gcc gawk pmount nasm automake cmake bison libsdl1.2-dev libsdl-image1.2-dev libfribidi-dev liblzo2-dev libfreetype6-dev libsqlite3-dev libogg-dev libasound2-dev python-sqlite libglew1.5-dev libcurl4-openssl-dev libmad0-dev libogg-dev libvorbis-dev libsmbclient-dev libmysqlclient-dev libpcre3-dev libdbus-1-dev libjasper-dev libfontconfig1-dev libbz2-dev libboost-dev libfaac-dev libenca-dev libpng12-dev libjpeg62-dev libcdio-dev libsamplerate0-dev libmms-dev libmpeg3-dev libfaad-dev libflac-dev doxygen php5 swig libssl-dev libgdbm-dev libvdpau-dev libxmu-dev libxtst-dev libxinerama-dev libhal-dev libhal-storage-dev gperf libtool
+
+-----------------------------------------------------------------------------
+3. How to compile
+-----------------------------------------------------------------------------
+
+# ./bootstrap
+# ./configure --enable-optimizations --disable-debug
+# make -j4
+
+# make -C tools/TexturePacker -f Makefile.host
+# rm skin/boxee/media/Textures.xbt
+# make -C skin/boxee/media
+
+-----------------------------------------------------------------------------
+4. Create installer
+-----------------------------------------------------------------------------
+
+# cd debian
+# sudo ./make_debian.sh

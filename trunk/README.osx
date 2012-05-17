@@ -1,0 +1,59 @@
+TOC
+1. Introduction
+2. Getting the source code
+3. Installing the required MacPorts packages
+4. How to compile
+5. How to run
+
+-----------------------------------------------------------------------------
+1. Introduction
+-----------------------------------------------------------------------------
+
+This is Boxee client for Mac OS X. It's target is developers and not end-users. 
+We currently recommend OS X 10.6 as a development platform.
+
+NOTE TO NEW OS X USERS: All lines that are prefixed with the '$'
+character are commands that need to be typed into a Terminal window. 
+Note that the '$' character itself should NOT be typed as part of the 
+command.
+
+
+-----------------------------------------------------------------------------
+2. Getting the source code
+-----------------------------------------------------------------------------
+
+You can obtain the source code from the boxee web site.
+
+-----------------------------------------------------------------------------
+3.0 Install Xcode
+-----------------------------------------------------------------------------
+
+Install Xcode. You can download it from Apple's site after registration at
+(http://developer.apple.com).
+
+-----------------------------------------------------------------------------
+3.1 Install MacPorts
+-----------------------------------------------------------------------------
+
+Install MacPorts (http://www.macports.org/) again, then install the following packages 
+from the Terminal window:
+
+ $ sudo port install xorg-libX11 pcre libiconv gettext libtool yasm cmake gmake pkgconfig lzo lzo2 boost jpeg jasper tiff libpng libogg libvorbis libmad fribidi libmms glew libcdio openssl samba3 mysql5 sqlite3 libsamplerate doxygen gsed gdbm libsdl +no_x11 libsdl_image python24
+
+ $ sudo ln -s /opt/local/bin/gsed /opt/local/bin/sed
+	
+-----------------------------------------------------------------------------
+4. How to compile
+-----------------------------------------------------------------------------
+
+$ osx-distro/build.sh
+
+This will configure, compile, package and create a dmg file.
+
+-----------------------------------------------------------------------------
+5. How to run
+-----------------------------------------------------------------------------
+
+Issue:
+
+$ ./Boxee

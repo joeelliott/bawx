@@ -1,0 +1,34 @@
+ARCH=@ARCH@
+AS=nasm
+OBJS=SPC700.o APU.o DSP.o SNESAPU.o
+CFLAGS +=-D_LINUX -fPIC -I../../ -O2
+CXXFLAGS +=-D_LINUX -fPIC -I../../ -O2
+ifeq ($(findstring osx,$(ARCH)), osx)
+	CFLAGS+=-fno-common
+	CXXFLAGS+=-fno-common
+	ASFLAGS=-Xvc -DLINUX -DCDECL -O1 -f macho
+else
+ASFLAGS=-Xvc -DLINUX -O1 -f elf
+endif
+
+SYSDIR=../../../../../../system/players/paplayer/
+SO=SNESAPU-$(ARCH).so
+SLIB=$(SYSDIR)/$(SO)
+
+$(SLIB): $(OBJS)
+ifeq ($(findstring osx,$(ARCH)), osx)
+	$(CC) -bundle -undefined dynamic_lookup  \
+		-Wl,-alias_list,../../../../DllLoader/exports/wrapper_mach_alias \
+		@ARCH_DEFINES@ \
+		../../../../DllLoader/exports/wrapper.o \
+		-o $@ $(OBJS)
+	chmod +x $@
+else
+	$(CC) -shared -o $@ $(OBJS) \
+		`cat ../../../../DllLoader/exports/wrapper.def` ../../../../DllLoader/exports/wrapper.o
+endif
+
+%o : %Asm
+	$(AS) $(ASFLAGS) -o $@ $<
+
+include ../../../../../../Makefile.include

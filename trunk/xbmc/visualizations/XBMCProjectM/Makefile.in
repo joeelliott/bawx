@@ -1,0 +1,47 @@
+PLATFORM=@PLATFORM@
+INCLUDES=-I. -I.. -I../../linux -I../../ -I../../../guilib -I../../../visualisations
+OBJS=Main.o
+SLIB=../../../visualisations/ProjectM.vis
+CXXFLAGS=-O3 -g -fPIC
+DIRS=libprojectM
+
+CXXFLAGS+=-fno-common -DHAS_SDL
+ifeq ($(findstring osx,$(PLATFORM)), osx)
+CFLAGS+=-DHAS_SDL
+
+$(SLIB): $(OBJS) libprojectM/libprojectM.dylib
+	$(CXX) -dynamiclib -shared -undefined dynamic_lookup $(CFLAGS) -o $(SLIB) \
+		./libprojectM/CMakeFiles/projectM.dir/*.o \
+		$(OBJS)
+
+libprojectM/libprojectM.dylib:
+	$(MAKE) -C libprojectM
+
+else ifeq ($(findstring intelce,$(PLATFORM)), intelce)
+CFLAGS+=-DINTELCE
+$(SLIB): $(OBJS) libprojectM.canmore/libMilkdropPresetFactory.a libprojectM.canmore/libNativePresetFactory.a libprojectM.canmore/libprojectM.a libprojectM.canmore/libRenderer.a
+	$(CXX) -Wl,--whole-archive libprojectM.canmore/libMilkdropPresetFactory.a libprojectM.canmore/libNativePresetFactory.a libprojectM.canmore/libprojectM.a libprojectM.canmore/libRenderer.a -Wl,--no-whole-archive -fPIC -shared $(CFLAGS) -o $(SLIB) $(OBJS) `cat ../../cores/DllLoader/exports/wrapper.def` ../../cores/DllLoader/exports/wrapper.o -lm
+
+else
+$(SLIB): $(OBJS) libprojectM/libprojectM.so
+	$(CXX) ./libprojectM/CMakeFiles/projectM.dir/*.o -fPIC -shared $(CFLAGS) -o $(SLIB) $(OBJS) `cat ../../cores/DllLoader/exports/wrapper.def` ../../cores/DllLoader/exports/wrapper.o
+
+libprojectM/libprojectM.so: 
+	$(MAKE) -C libprojectM
+endif
+
+CLEAN_FILES = \
+	libprojectM/libprojectM.so \
+	libprojectM/libprojectM.so.2 \
+	libprojectM/libprojectM.so.2.00
+
+DISTCLEAN_FILES=	\
+	libprojectM/CMakeFiles/ \
+	libprojectM/CMakeCache.txt \
+	libprojectM/Makefile \
+	libprojectM/cmake_install.cmake \
+	libprojectM/config.inp \
+	libprojectM/libprojectM.pc
+
+include ../../../Makefile.include
+
